@@ -1,0 +1,4017 @@
+Lead ID,Stage,Timestamp,Advisor,Source,Program
+1,New Lead,2025-04-01,A3,Website,B.Tech
+1,Contacted,2025-04-02,A3,Website,B.Tech
+1,Demo Given,2025-04-03,A3,Website,B.Tech
+1,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+2,New Lead,2025-04-01,A1,Website,B.Tech
+2,Contacted,2025-04-02,A1,Website,B.Tech
+2,Demo Given,2025-04-03,A1,Website,B.Tech
+3,New Lead,2025-04-01,A3,Referral,B.Tech
+3,Contacted,2025-04-02,A3,Referral,B.Tech
+3,Demo Given,2025-04-03,A3,Referral,B.Tech
+3,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+4,New Lead,2025-04-01,A1,Referral,MBA
+4,Contacted,2025-04-02,A1,Referral,MBA
+4,Demo Given,2025-04-03,A1,Referral,MBA
+4,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+4,Registered,2025-04-05,A1,Referral,MBA
+4,Dropped / Inactive,2025-04-06,A1,Referral,MBA
+5,New Lead,2025-04-01,A2,Campaign,MBA
+5,Contacted,2025-04-02,A2,Campaign,MBA
+5,Demo Given,2025-04-03,A2,Campaign,MBA
+6,New Lead,2025-04-01,A1,Website,MBA
+6,Contacted,2025-04-02,A1,Website,MBA
+6,Demo Given,2025-04-03,A1,Website,MBA
+6,Follow-up in Progress,2025-04-04,A1,Website,MBA
+6,Registered,2025-04-05,A1,Website,MBA
+6,Dropped / Inactive,2025-04-06,A1,Website,MBA
+7,New Lead,2025-04-01,A1,Website,B.Tech
+7,Contacted,2025-04-02,A1,Website,B.Tech
+7,Demo Given,2025-04-03,A1,Website,B.Tech
+7,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+8,New Lead,2025-04-01,A3,Campaign,B.Tech
+8,Contacted,2025-04-02,A3,Campaign,B.Tech
+8,Demo Given,2025-04-03,A3,Campaign,B.Tech
+8,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+9,New Lead,2025-04-01,A3,Website,B.Tech
+9,Contacted,2025-04-02,A3,Website,B.Tech
+9,Demo Given,2025-04-03,A3,Website,B.Tech
+9,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+9,Registered,2025-04-05,A3,Website,B.Tech
+9,Dropped / Inactive,2025-04-06,A3,Website,B.Tech
+10,New Lead,2025-04-01,A3,Referral,Data Science
+10,Contacted,2025-04-02,A3,Referral,Data Science
+11,New Lead,2025-04-01,A3,Campaign,Data Science
+11,Contacted,2025-04-02,A3,Campaign,Data Science
+11,Demo Given,2025-04-03,A3,Campaign,Data Science
+11,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+11,Registered,2025-04-05,A3,Campaign,Data Science
+12,New Lead,2025-04-01,A2,Campaign,MBA
+12,Contacted,2025-04-02,A2,Campaign,MBA
+13,New Lead,2025-04-01,A2,Website,MBA
+13,Contacted,2025-04-02,A2,Website,MBA
+13,Demo Given,2025-04-03,A2,Website,MBA
+13,Follow-up in Progress,2025-04-04,A2,Website,MBA
+13,Registered,2025-04-05,A2,Website,MBA
+14,New Lead,2025-04-01,A3,Referral,Data Science
+14,Contacted,2025-04-02,A3,Referral,Data Science
+14,Demo Given,2025-04-03,A3,Referral,Data Science
+14,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+15,New Lead,2025-04-01,A2,Website,MBA
+15,Contacted,2025-04-02,A2,Website,MBA
+15,Demo Given,2025-04-03,A2,Website,MBA
+15,Follow-up in Progress,2025-04-04,A2,Website,MBA
+15,Registered,2025-04-05,A2,Website,MBA
+16,New Lead,2025-04-01,A2,Campaign,MBA
+16,Contacted,2025-04-02,A2,Campaign,MBA
+16,Demo Given,2025-04-03,A2,Campaign,MBA
+17,New Lead,2025-04-01,A2,Website,B.Tech
+17,Contacted,2025-04-02,A2,Website,B.Tech
+17,Demo Given,2025-04-03,A2,Website,B.Tech
+18,New Lead,2025-04-01,A2,Campaign,MBA
+18,Contacted,2025-04-02,A2,Campaign,MBA
+18,Demo Given,2025-04-03,A2,Campaign,MBA
+18,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+18,Registered,2025-04-05,A2,Campaign,MBA
+19,New Lead,2025-04-01,A2,Referral,B.Tech
+19,Contacted,2025-04-02,A2,Referral,B.Tech
+19,Demo Given,2025-04-03,A2,Referral,B.Tech
+19,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+19,Registered,2025-04-05,A2,Referral,B.Tech
+20,New Lead,2025-04-01,A1,Campaign,Data Science
+20,Contacted,2025-04-02,A1,Campaign,Data Science
+20,Demo Given,2025-04-03,A1,Campaign,Data Science
+20,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+20,Registered,2025-04-05,A1,Campaign,Data Science
+20,Dropped / Inactive,2025-04-06,A1,Campaign,Data Science
+21,New Lead,2025-04-01,A2,Referral,Data Science
+21,Contacted,2025-04-02,A2,Referral,Data Science
+21,Demo Given,2025-04-03,A2,Referral,Data Science
+22,New Lead,2025-04-01,A1,Website,Data Science
+22,Contacted,2025-04-02,A1,Website,Data Science
+22,Demo Given,2025-04-03,A1,Website,Data Science
+22,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+22,Registered,2025-04-05,A1,Website,Data Science
+22,Dropped / Inactive,2025-04-06,A1,Website,Data Science
+23,New Lead,2025-04-01,A3,Website,Data Science
+23,Contacted,2025-04-02,A3,Website,Data Science
+24,New Lead,2025-04-01,A3,Website,Data Science
+24,Contacted,2025-04-02,A3,Website,Data Science
+24,Demo Given,2025-04-03,A3,Website,Data Science
+24,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+24,Registered,2025-04-05,A3,Website,Data Science
+25,New Lead,2025-04-01,A3,Referral,B.Tech
+25,Contacted,2025-04-02,A3,Referral,B.Tech
+26,New Lead,2025-04-01,A3,Referral,Data Science
+26,Contacted,2025-04-02,A3,Referral,Data Science
+26,Demo Given,2025-04-03,A3,Referral,Data Science
+26,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+27,New Lead,2025-04-01,A1,Campaign,B.Tech
+27,Contacted,2025-04-02,A1,Campaign,B.Tech
+27,Demo Given,2025-04-03,A1,Campaign,B.Tech
+28,New Lead,2025-04-01,A1,Referral,Data Science
+28,Contacted,2025-04-02,A1,Referral,Data Science
+28,Demo Given,2025-04-03,A1,Referral,Data Science
+28,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+28,Registered,2025-04-05,A1,Referral,Data Science
+29,New Lead,2025-04-01,A2,Website,B.Tech
+29,Contacted,2025-04-02,A2,Website,B.Tech
+29,Demo Given,2025-04-03,A2,Website,B.Tech
+29,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+29,Registered,2025-04-05,A2,Website,B.Tech
+29,Dropped / Inactive,2025-04-06,A2,Website,B.Tech
+30,New Lead,2025-04-01,A3,Campaign,B.Tech
+30,Contacted,2025-04-02,A3,Campaign,B.Tech
+30,Demo Given,2025-04-03,A3,Campaign,B.Tech
+30,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+31,New Lead,2025-04-01,A1,Referral,Data Science
+31,Contacted,2025-04-02,A1,Referral,Data Science
+31,Demo Given,2025-04-03,A1,Referral,Data Science
+31,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+32,New Lead,2025-04-01,A1,Website,MBA
+32,Contacted,2025-04-02,A1,Website,MBA
+32,Demo Given,2025-04-03,A1,Website,MBA
+32,Follow-up in Progress,2025-04-04,A1,Website,MBA
+33,New Lead,2025-04-01,A1,Referral,B.Tech
+33,Contacted,2025-04-02,A1,Referral,B.Tech
+33,Demo Given,2025-04-03,A1,Referral,B.Tech
+34,New Lead,2025-04-01,A2,Website,B.Tech
+34,Contacted,2025-04-02,A2,Website,B.Tech
+35,New Lead,2025-04-01,A1,Campaign,Data Science
+35,Contacted,2025-04-02,A1,Campaign,Data Science
+35,Demo Given,2025-04-03,A1,Campaign,Data Science
+35,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+35,Registered,2025-04-05,A1,Campaign,Data Science
+35,Dropped / Inactive,2025-04-06,A1,Campaign,Data Science
+36,New Lead,2025-04-01,A3,Referral,Data Science
+36,Contacted,2025-04-02,A3,Referral,Data Science
+36,Demo Given,2025-04-03,A3,Referral,Data Science
+36,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+36,Registered,2025-04-05,A3,Referral,Data Science
+37,New Lead,2025-04-01,A1,Referral,B.Tech
+37,Contacted,2025-04-02,A1,Referral,B.Tech
+37,Demo Given,2025-04-03,A1,Referral,B.Tech
+37,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+38,New Lead,2025-04-01,A2,Campaign,MBA
+38,Contacted,2025-04-02,A2,Campaign,MBA
+38,Demo Given,2025-04-03,A2,Campaign,MBA
+38,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+38,Registered,2025-04-05,A2,Campaign,MBA
+38,Dropped / Inactive,2025-04-06,A2,Campaign,MBA
+39,New Lead,2025-04-01,A2,Website,Data Science
+39,Contacted,2025-04-02,A2,Website,Data Science
+39,Demo Given,2025-04-03,A2,Website,Data Science
+39,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+39,Registered,2025-04-05,A2,Website,Data Science
+40,New Lead,2025-04-01,A2,Campaign,B.Tech
+40,Contacted,2025-04-02,A2,Campaign,B.Tech
+40,Demo Given,2025-04-03,A2,Campaign,B.Tech
+41,New Lead,2025-04-01,A3,Website,B.Tech
+41,Contacted,2025-04-02,A3,Website,B.Tech
+42,New Lead,2025-04-01,A1,Website,B.Tech
+42,Contacted,2025-04-02,A1,Website,B.Tech
+43,New Lead,2025-04-01,A1,Website,B.Tech
+43,Contacted,2025-04-02,A1,Website,B.Tech
+43,Demo Given,2025-04-03,A1,Website,B.Tech
+43,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+44,New Lead,2025-04-01,A1,Campaign,Data Science
+44,Contacted,2025-04-02,A1,Campaign,Data Science
+45,New Lead,2025-04-01,A3,Campaign,B.Tech
+45,Contacted,2025-04-02,A3,Campaign,B.Tech
+45,Demo Given,2025-04-03,A3,Campaign,B.Tech
+45,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+46,New Lead,2025-04-01,A2,Website,Data Science
+46,Contacted,2025-04-02,A2,Website,Data Science
+47,New Lead,2025-04-01,A2,Campaign,B.Tech
+47,Contacted,2025-04-02,A2,Campaign,B.Tech
+47,Demo Given,2025-04-03,A2,Campaign,B.Tech
+48,New Lead,2025-04-01,A3,Website,Data Science
+48,Contacted,2025-04-02,A3,Website,Data Science
+49,New Lead,2025-04-01,A1,Referral,Data Science
+49,Contacted,2025-04-02,A1,Referral,Data Science
+49,Demo Given,2025-04-03,A1,Referral,Data Science
+50,New Lead,2025-04-01,A2,Campaign,B.Tech
+50,Contacted,2025-04-02,A2,Campaign,B.Tech
+50,Demo Given,2025-04-03,A2,Campaign,B.Tech
+50,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+50,Registered,2025-04-05,A2,Campaign,B.Tech
+50,Dropped / Inactive,2025-04-06,A2,Campaign,B.Tech
+51,New Lead,2025-04-01,A1,Website,B.Tech
+51,Contacted,2025-04-02,A1,Website,B.Tech
+51,Demo Given,2025-04-03,A1,Website,B.Tech
+52,New Lead,2025-04-01,A1,Campaign,MBA
+52,Contacted,2025-04-02,A1,Campaign,MBA
+52,Demo Given,2025-04-03,A1,Campaign,MBA
+52,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+52,Registered,2025-04-05,A1,Campaign,MBA
+53,New Lead,2025-04-01,A3,Referral,B.Tech
+53,Contacted,2025-04-02,A3,Referral,B.Tech
+54,New Lead,2025-04-01,A3,Campaign,Data Science
+54,Contacted,2025-04-02,A3,Campaign,Data Science
+54,Demo Given,2025-04-03,A3,Campaign,Data Science
+54,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+54,Registered,2025-04-05,A3,Campaign,Data Science
+55,New Lead,2025-04-01,A2,Campaign,MBA
+55,Contacted,2025-04-02,A2,Campaign,MBA
+55,Demo Given,2025-04-03,A2,Campaign,MBA
+55,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+56,New Lead,2025-04-01,A3,Website,Data Science
+56,Contacted,2025-04-02,A3,Website,Data Science
+56,Demo Given,2025-04-03,A3,Website,Data Science
+56,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+56,Registered,2025-04-05,A3,Website,Data Science
+57,New Lead,2025-04-01,A3,Campaign,Data Science
+57,Contacted,2025-04-02,A3,Campaign,Data Science
+57,Demo Given,2025-04-03,A3,Campaign,Data Science
+57,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+58,New Lead,2025-04-01,A3,Referral,MBA
+58,Contacted,2025-04-02,A3,Referral,MBA
+58,Demo Given,2025-04-03,A3,Referral,MBA
+58,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+59,New Lead,2025-04-01,A3,Referral,B.Tech
+59,Contacted,2025-04-02,A3,Referral,B.Tech
+59,Demo Given,2025-04-03,A3,Referral,B.Tech
+59,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+59,Registered,2025-04-05,A3,Referral,B.Tech
+60,New Lead,2025-04-01,A1,Website,B.Tech
+60,Contacted,2025-04-02,A1,Website,B.Tech
+60,Demo Given,2025-04-03,A1,Website,B.Tech
+61,New Lead,2025-04-01,A1,Referral,Data Science
+61,Contacted,2025-04-02,A1,Referral,Data Science
+62,New Lead,2025-04-01,A2,Referral,B.Tech
+62,Contacted,2025-04-02,A2,Referral,B.Tech
+62,Demo Given,2025-04-03,A2,Referral,B.Tech
+63,New Lead,2025-04-01,A3,Referral,MBA
+63,Contacted,2025-04-02,A3,Referral,MBA
+64,New Lead,2025-04-01,A1,Campaign,Data Science
+64,Contacted,2025-04-02,A1,Campaign,Data Science
+64,Demo Given,2025-04-03,A1,Campaign,Data Science
+64,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+64,Registered,2025-04-05,A1,Campaign,Data Science
+65,New Lead,2025-04-01,A1,Website,B.Tech
+65,Contacted,2025-04-02,A1,Website,B.Tech
+66,New Lead,2025-04-01,A1,Referral,B.Tech
+66,Contacted,2025-04-02,A1,Referral,B.Tech
+66,Demo Given,2025-04-03,A1,Referral,B.Tech
+66,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+67,New Lead,2025-04-01,A2,Website,B.Tech
+67,Contacted,2025-04-02,A2,Website,B.Tech
+68,New Lead,2025-04-01,A2,Campaign,B.Tech
+68,Contacted,2025-04-02,A2,Campaign,B.Tech
+69,New Lead,2025-04-01,A3,Website,Data Science
+69,Contacted,2025-04-02,A3,Website,Data Science
+69,Demo Given,2025-04-03,A3,Website,Data Science
+70,New Lead,2025-04-01,A2,Campaign,MBA
+70,Contacted,2025-04-02,A2,Campaign,MBA
+70,Demo Given,2025-04-03,A2,Campaign,MBA
+70,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+71,New Lead,2025-04-01,A1,Website,Data Science
+71,Contacted,2025-04-02,A1,Website,Data Science
+71,Demo Given,2025-04-03,A1,Website,Data Science
+71,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+71,Registered,2025-04-05,A1,Website,Data Science
+72,New Lead,2025-04-01,A1,Campaign,Data Science
+72,Contacted,2025-04-02,A1,Campaign,Data Science
+72,Demo Given,2025-04-03,A1,Campaign,Data Science
+72,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+72,Registered,2025-04-05,A1,Campaign,Data Science
+73,New Lead,2025-04-01,A3,Referral,Data Science
+73,Contacted,2025-04-02,A3,Referral,Data Science
+74,New Lead,2025-04-01,A3,Referral,MBA
+74,Contacted,2025-04-02,A3,Referral,MBA
+74,Demo Given,2025-04-03,A3,Referral,MBA
+74,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+74,Registered,2025-04-05,A3,Referral,MBA
+74,Dropped / Inactive,2025-04-06,A3,Referral,MBA
+75,New Lead,2025-04-01,A3,Campaign,B.Tech
+75,Contacted,2025-04-02,A3,Campaign,B.Tech
+75,Demo Given,2025-04-03,A3,Campaign,B.Tech
+75,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+76,New Lead,2025-04-01,A2,Website,MBA
+76,Contacted,2025-04-02,A2,Website,MBA
+77,New Lead,2025-04-01,A3,Website,Data Science
+77,Contacted,2025-04-02,A3,Website,Data Science
+77,Demo Given,2025-04-03,A3,Website,Data Science
+77,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+77,Registered,2025-04-05,A3,Website,Data Science
+78,New Lead,2025-04-01,A1,Referral,B.Tech
+78,Contacted,2025-04-02,A1,Referral,B.Tech
+79,New Lead,2025-04-01,A1,Campaign,Data Science
+79,Contacted,2025-04-02,A1,Campaign,Data Science
+79,Demo Given,2025-04-03,A1,Campaign,Data Science
+79,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+79,Registered,2025-04-05,A1,Campaign,Data Science
+79,Dropped / Inactive,2025-04-06,A1,Campaign,Data Science
+80,New Lead,2025-04-01,A2,Referral,Data Science
+80,Contacted,2025-04-02,A2,Referral,Data Science
+80,Demo Given,2025-04-03,A2,Referral,Data Science
+80,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+80,Registered,2025-04-05,A2,Referral,Data Science
+80,Dropped / Inactive,2025-04-06,A2,Referral,Data Science
+81,New Lead,2025-04-01,A1,Website,MBA
+81,Contacted,2025-04-02,A1,Website,MBA
+81,Demo Given,2025-04-03,A1,Website,MBA
+81,Follow-up in Progress,2025-04-04,A1,Website,MBA
+81,Registered,2025-04-05,A1,Website,MBA
+81,Dropped / Inactive,2025-04-06,A1,Website,MBA
+82,New Lead,2025-04-01,A3,Referral,Data Science
+82,Contacted,2025-04-02,A3,Referral,Data Science
+82,Demo Given,2025-04-03,A3,Referral,Data Science
+82,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+82,Registered,2025-04-05,A3,Referral,Data Science
+83,New Lead,2025-04-01,A3,Website,Data Science
+83,Contacted,2025-04-02,A3,Website,Data Science
+84,New Lead,2025-04-01,A3,Campaign,Data Science
+84,Contacted,2025-04-02,A3,Campaign,Data Science
+84,Demo Given,2025-04-03,A3,Campaign,Data Science
+85,New Lead,2025-04-01,A3,Campaign,MBA
+85,Contacted,2025-04-02,A3,Campaign,MBA
+85,Demo Given,2025-04-03,A3,Campaign,MBA
+85,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+86,New Lead,2025-04-01,A2,Campaign,B.Tech
+86,Contacted,2025-04-02,A2,Campaign,B.Tech
+86,Demo Given,2025-04-03,A2,Campaign,B.Tech
+87,New Lead,2025-04-01,A3,Referral,MBA
+87,Contacted,2025-04-02,A3,Referral,MBA
+87,Demo Given,2025-04-03,A3,Referral,MBA
+88,New Lead,2025-04-01,A2,Website,Data Science
+88,Contacted,2025-04-02,A2,Website,Data Science
+89,New Lead,2025-04-01,A3,Campaign,B.Tech
+89,Contacted,2025-04-02,A3,Campaign,B.Tech
+89,Demo Given,2025-04-03,A3,Campaign,B.Tech
+89,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+89,Registered,2025-04-05,A3,Campaign,B.Tech
+89,Dropped / Inactive,2025-04-06,A3,Campaign,B.Tech
+90,New Lead,2025-04-01,A2,Referral,MBA
+90,Contacted,2025-04-02,A2,Referral,MBA
+90,Demo Given,2025-04-03,A2,Referral,MBA
+90,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+91,New Lead,2025-04-01,A2,Website,Data Science
+91,Contacted,2025-04-02,A2,Website,Data Science
+91,Demo Given,2025-04-03,A2,Website,Data Science
+91,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+91,Registered,2025-04-05,A2,Website,Data Science
+92,New Lead,2025-04-01,A2,Referral,Data Science
+92,Contacted,2025-04-02,A2,Referral,Data Science
+92,Demo Given,2025-04-03,A2,Referral,Data Science
+92,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+92,Registered,2025-04-05,A2,Referral,Data Science
+93,New Lead,2025-04-01,A1,Website,MBA
+93,Contacted,2025-04-02,A1,Website,MBA
+93,Demo Given,2025-04-03,A1,Website,MBA
+93,Follow-up in Progress,2025-04-04,A1,Website,MBA
+93,Registered,2025-04-05,A1,Website,MBA
+94,New Lead,2025-04-01,A3,Referral,B.Tech
+94,Contacted,2025-04-02,A3,Referral,B.Tech
+94,Demo Given,2025-04-03,A3,Referral,B.Tech
+94,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+94,Registered,2025-04-05,A3,Referral,B.Tech
+95,New Lead,2025-04-01,A2,Campaign,B.Tech
+95,Contacted,2025-04-02,A2,Campaign,B.Tech
+95,Demo Given,2025-04-03,A2,Campaign,B.Tech
+95,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+96,New Lead,2025-04-01,A1,Campaign,B.Tech
+96,Contacted,2025-04-02,A1,Campaign,B.Tech
+96,Demo Given,2025-04-03,A1,Campaign,B.Tech
+96,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+96,Registered,2025-04-05,A1,Campaign,B.Tech
+96,Dropped / Inactive,2025-04-06,A1,Campaign,B.Tech
+97,New Lead,2025-04-01,A2,Campaign,MBA
+97,Contacted,2025-04-02,A2,Campaign,MBA
+98,New Lead,2025-04-01,A2,Campaign,B.Tech
+98,Contacted,2025-04-02,A2,Campaign,B.Tech
+98,Demo Given,2025-04-03,A2,Campaign,B.Tech
+98,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+99,New Lead,2025-04-01,A1,Website,Data Science
+99,Contacted,2025-04-02,A1,Website,Data Science
+99,Demo Given,2025-04-03,A1,Website,Data Science
+99,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+99,Registered,2025-04-05,A1,Website,Data Science
+100,New Lead,2025-04-01,A1,Referral,MBA
+100,Contacted,2025-04-02,A1,Referral,MBA
+100,Demo Given,2025-04-03,A1,Referral,MBA
+100,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+100,Registered,2025-04-05,A1,Referral,MBA
+100,Dropped / Inactive,2025-04-06,A1,Referral,MBA
+101,New Lead,2025-04-01,A2,Referral,B.Tech
+101,Contacted,2025-04-02,A2,Referral,B.Tech
+101,Demo Given,2025-04-03,A2,Referral,B.Tech
+101,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+101,Registered,2025-04-05,A2,Referral,B.Tech
+102,New Lead,2025-04-01,A1,Campaign,MBA
+102,Contacted,2025-04-02,A1,Campaign,MBA
+102,Demo Given,2025-04-03,A1,Campaign,MBA
+102,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+103,New Lead,2025-04-01,A1,Referral,B.Tech
+103,Contacted,2025-04-02,A1,Referral,B.Tech
+103,Demo Given,2025-04-03,A1,Referral,B.Tech
+103,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+103,Registered,2025-04-05,A1,Referral,B.Tech
+104,New Lead,2025-04-01,A2,Referral,MBA
+104,Contacted,2025-04-02,A2,Referral,MBA
+104,Demo Given,2025-04-03,A2,Referral,MBA
+104,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+104,Registered,2025-04-05,A2,Referral,MBA
+104,Dropped / Inactive,2025-04-06,A2,Referral,MBA
+105,New Lead,2025-04-01,A2,Website,MBA
+105,Contacted,2025-04-02,A2,Website,MBA
+106,New Lead,2025-04-01,A1,Website,MBA
+106,Contacted,2025-04-02,A1,Website,MBA
+106,Demo Given,2025-04-03,A1,Website,MBA
+107,New Lead,2025-04-01,A1,Referral,MBA
+107,Contacted,2025-04-02,A1,Referral,MBA
+108,New Lead,2025-04-01,A1,Website,Data Science
+108,Contacted,2025-04-02,A1,Website,Data Science
+108,Demo Given,2025-04-03,A1,Website,Data Science
+108,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+108,Registered,2025-04-05,A1,Website,Data Science
+108,Dropped / Inactive,2025-04-06,A1,Website,Data Science
+109,New Lead,2025-04-01,A3,Referral,Data Science
+109,Contacted,2025-04-02,A3,Referral,Data Science
+109,Demo Given,2025-04-03,A3,Referral,Data Science
+109,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+109,Registered,2025-04-05,A3,Referral,Data Science
+109,Dropped / Inactive,2025-04-06,A3,Referral,Data Science
+110,New Lead,2025-04-01,A3,Referral,MBA
+110,Contacted,2025-04-02,A3,Referral,MBA
+110,Demo Given,2025-04-03,A3,Referral,MBA
+110,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+111,New Lead,2025-04-01,A1,Campaign,Data Science
+111,Contacted,2025-04-02,A1,Campaign,Data Science
+111,Demo Given,2025-04-03,A1,Campaign,Data Science
+111,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+111,Registered,2025-04-05,A1,Campaign,Data Science
+111,Dropped / Inactive,2025-04-06,A1,Campaign,Data Science
+112,New Lead,2025-04-01,A2,Website,B.Tech
+112,Contacted,2025-04-02,A2,Website,B.Tech
+113,New Lead,2025-04-01,A2,Campaign,MBA
+113,Contacted,2025-04-02,A2,Campaign,MBA
+113,Demo Given,2025-04-03,A2,Campaign,MBA
+113,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+113,Registered,2025-04-05,A2,Campaign,MBA
+114,New Lead,2025-04-01,A1,Campaign,MBA
+114,Contacted,2025-04-02,A1,Campaign,MBA
+114,Demo Given,2025-04-03,A1,Campaign,MBA
+114,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+114,Registered,2025-04-05,A1,Campaign,MBA
+114,Dropped / Inactive,2025-04-06,A1,Campaign,MBA
+115,New Lead,2025-04-01,A3,Website,MBA
+115,Contacted,2025-04-02,A3,Website,MBA
+115,Demo Given,2025-04-03,A3,Website,MBA
+115,Follow-up in Progress,2025-04-04,A3,Website,MBA
+115,Registered,2025-04-05,A3,Website,MBA
+115,Dropped / Inactive,2025-04-06,A3,Website,MBA
+116,New Lead,2025-04-01,A3,Campaign,MBA
+116,Contacted,2025-04-02,A3,Campaign,MBA
+116,Demo Given,2025-04-03,A3,Campaign,MBA
+116,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+116,Registered,2025-04-05,A3,Campaign,MBA
+116,Dropped / Inactive,2025-04-06,A3,Campaign,MBA
+117,New Lead,2025-04-01,A2,Referral,MBA
+117,Contacted,2025-04-02,A2,Referral,MBA
+117,Demo Given,2025-04-03,A2,Referral,MBA
+118,New Lead,2025-04-01,A3,Campaign,Data Science
+118,Contacted,2025-04-02,A3,Campaign,Data Science
+118,Demo Given,2025-04-03,A3,Campaign,Data Science
+118,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+118,Registered,2025-04-05,A3,Campaign,Data Science
+118,Dropped / Inactive,2025-04-06,A3,Campaign,Data Science
+119,New Lead,2025-04-01,A1,Referral,MBA
+119,Contacted,2025-04-02,A1,Referral,MBA
+120,New Lead,2025-04-01,A3,Campaign,B.Tech
+120,Contacted,2025-04-02,A3,Campaign,B.Tech
+120,Demo Given,2025-04-03,A3,Campaign,B.Tech
+120,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+120,Registered,2025-04-05,A3,Campaign,B.Tech
+121,New Lead,2025-04-01,A1,Website,Data Science
+121,Contacted,2025-04-02,A1,Website,Data Science
+121,Demo Given,2025-04-03,A1,Website,Data Science
+121,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+122,New Lead,2025-04-01,A3,Website,B.Tech
+122,Contacted,2025-04-02,A3,Website,B.Tech
+123,New Lead,2025-04-01,A1,Campaign,B.Tech
+123,Contacted,2025-04-02,A1,Campaign,B.Tech
+123,Demo Given,2025-04-03,A1,Campaign,B.Tech
+123,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+123,Registered,2025-04-05,A1,Campaign,B.Tech
+124,New Lead,2025-04-01,A1,Website,B.Tech
+124,Contacted,2025-04-02,A1,Website,B.Tech
+124,Demo Given,2025-04-03,A1,Website,B.Tech
+125,New Lead,2025-04-01,A1,Referral,MBA
+125,Contacted,2025-04-02,A1,Referral,MBA
+125,Demo Given,2025-04-03,A1,Referral,MBA
+125,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+126,New Lead,2025-04-01,A3,Website,MBA
+126,Contacted,2025-04-02,A3,Website,MBA
+126,Demo Given,2025-04-03,A3,Website,MBA
+126,Follow-up in Progress,2025-04-04,A3,Website,MBA
+126,Registered,2025-04-05,A3,Website,MBA
+126,Dropped / Inactive,2025-04-06,A3,Website,MBA
+127,New Lead,2025-04-01,A2,Campaign,MBA
+127,Contacted,2025-04-02,A2,Campaign,MBA
+127,Demo Given,2025-04-03,A2,Campaign,MBA
+128,New Lead,2025-04-01,A3,Website,B.Tech
+128,Contacted,2025-04-02,A3,Website,B.Tech
+128,Demo Given,2025-04-03,A3,Website,B.Tech
+128,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+128,Registered,2025-04-05,A3,Website,B.Tech
+129,New Lead,2025-04-01,A2,Website,MBA
+129,Contacted,2025-04-02,A2,Website,MBA
+129,Demo Given,2025-04-03,A2,Website,MBA
+129,Follow-up in Progress,2025-04-04,A2,Website,MBA
+129,Registered,2025-04-05,A2,Website,MBA
+129,Dropped / Inactive,2025-04-06,A2,Website,MBA
+130,New Lead,2025-04-01,A3,Website,Data Science
+130,Contacted,2025-04-02,A3,Website,Data Science
+130,Demo Given,2025-04-03,A3,Website,Data Science
+130,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+130,Registered,2025-04-05,A3,Website,Data Science
+130,Dropped / Inactive,2025-04-06,A3,Website,Data Science
+131,New Lead,2025-04-01,A1,Website,MBA
+131,Contacted,2025-04-02,A1,Website,MBA
+131,Demo Given,2025-04-03,A1,Website,MBA
+131,Follow-up in Progress,2025-04-04,A1,Website,MBA
+131,Registered,2025-04-05,A1,Website,MBA
+131,Dropped / Inactive,2025-04-06,A1,Website,MBA
+132,New Lead,2025-04-01,A1,Referral,Data Science
+132,Contacted,2025-04-02,A1,Referral,Data Science
+132,Demo Given,2025-04-03,A1,Referral,Data Science
+132,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+133,New Lead,2025-04-01,A2,Website,B.Tech
+133,Contacted,2025-04-02,A2,Website,B.Tech
+133,Demo Given,2025-04-03,A2,Website,B.Tech
+133,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+133,Registered,2025-04-05,A2,Website,B.Tech
+133,Dropped / Inactive,2025-04-06,A2,Website,B.Tech
+134,New Lead,2025-04-01,A1,Referral,Data Science
+134,Contacted,2025-04-02,A1,Referral,Data Science
+135,New Lead,2025-04-01,A3,Website,MBA
+135,Contacted,2025-04-02,A3,Website,MBA
+136,New Lead,2025-04-01,A1,Campaign,Data Science
+136,Contacted,2025-04-02,A1,Campaign,Data Science
+136,Demo Given,2025-04-03,A1,Campaign,Data Science
+136,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+136,Registered,2025-04-05,A1,Campaign,Data Science
+136,Dropped / Inactive,2025-04-06,A1,Campaign,Data Science
+137,New Lead,2025-04-01,A3,Referral,Data Science
+137,Contacted,2025-04-02,A3,Referral,Data Science
+137,Demo Given,2025-04-03,A3,Referral,Data Science
+137,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+137,Registered,2025-04-05,A3,Referral,Data Science
+138,New Lead,2025-04-01,A1,Website,B.Tech
+138,Contacted,2025-04-02,A1,Website,B.Tech
+138,Demo Given,2025-04-03,A1,Website,B.Tech
+138,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+138,Registered,2025-04-05,A1,Website,B.Tech
+139,New Lead,2025-04-01,A1,Referral,MBA
+139,Contacted,2025-04-02,A1,Referral,MBA
+139,Demo Given,2025-04-03,A1,Referral,MBA
+139,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+139,Registered,2025-04-05,A1,Referral,MBA
+140,New Lead,2025-04-01,A3,Campaign,B.Tech
+140,Contacted,2025-04-02,A3,Campaign,B.Tech
+140,Demo Given,2025-04-03,A3,Campaign,B.Tech
+140,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+140,Registered,2025-04-05,A3,Campaign,B.Tech
+140,Dropped / Inactive,2025-04-06,A3,Campaign,B.Tech
+141,New Lead,2025-04-01,A1,Referral,Data Science
+141,Contacted,2025-04-02,A1,Referral,Data Science
+141,Demo Given,2025-04-03,A1,Referral,Data Science
+141,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+141,Registered,2025-04-05,A1,Referral,Data Science
+142,New Lead,2025-04-01,A3,Website,Data Science
+142,Contacted,2025-04-02,A3,Website,Data Science
+143,New Lead,2025-04-01,A3,Website,Data Science
+143,Contacted,2025-04-02,A3,Website,Data Science
+143,Demo Given,2025-04-03,A3,Website,Data Science
+144,New Lead,2025-04-01,A2,Referral,MBA
+144,Contacted,2025-04-02,A2,Referral,MBA
+144,Demo Given,2025-04-03,A2,Referral,MBA
+145,New Lead,2025-04-01,A1,Referral,B.Tech
+145,Contacted,2025-04-02,A1,Referral,B.Tech
+145,Demo Given,2025-04-03,A1,Referral,B.Tech
+145,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+145,Registered,2025-04-05,A1,Referral,B.Tech
+145,Dropped / Inactive,2025-04-06,A1,Referral,B.Tech
+146,New Lead,2025-04-01,A3,Referral,MBA
+146,Contacted,2025-04-02,A3,Referral,MBA
+146,Demo Given,2025-04-03,A3,Referral,MBA
+146,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+146,Registered,2025-04-05,A3,Referral,MBA
+147,New Lead,2025-04-01,A1,Campaign,MBA
+147,Contacted,2025-04-02,A1,Campaign,MBA
+147,Demo Given,2025-04-03,A1,Campaign,MBA
+147,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+147,Registered,2025-04-05,A1,Campaign,MBA
+148,New Lead,2025-04-01,A1,Website,MBA
+148,Contacted,2025-04-02,A1,Website,MBA
+148,Demo Given,2025-04-03,A1,Website,MBA
+148,Follow-up in Progress,2025-04-04,A1,Website,MBA
+148,Registered,2025-04-05,A1,Website,MBA
+148,Dropped / Inactive,2025-04-06,A1,Website,MBA
+149,New Lead,2025-04-01,A2,Website,MBA
+149,Contacted,2025-04-02,A2,Website,MBA
+149,Demo Given,2025-04-03,A2,Website,MBA
+149,Follow-up in Progress,2025-04-04,A2,Website,MBA
+150,New Lead,2025-04-01,A2,Campaign,Data Science
+150,Contacted,2025-04-02,A2,Campaign,Data Science
+150,Demo Given,2025-04-03,A2,Campaign,Data Science
+150,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+150,Registered,2025-04-05,A2,Campaign,Data Science
+150,Dropped / Inactive,2025-04-06,A2,Campaign,Data Science
+151,New Lead,2025-04-01,A1,Campaign,B.Tech
+151,Contacted,2025-04-02,A1,Campaign,B.Tech
+151,Demo Given,2025-04-03,A1,Campaign,B.Tech
+151,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+151,Registered,2025-04-05,A1,Campaign,B.Tech
+151,Dropped / Inactive,2025-04-06,A1,Campaign,B.Tech
+152,New Lead,2025-04-01,A1,Campaign,Data Science
+152,Contacted,2025-04-02,A1,Campaign,Data Science
+153,New Lead,2025-04-01,A1,Campaign,B.Tech
+153,Contacted,2025-04-02,A1,Campaign,B.Tech
+153,Demo Given,2025-04-03,A1,Campaign,B.Tech
+153,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+154,New Lead,2025-04-01,A1,Campaign,B.Tech
+154,Contacted,2025-04-02,A1,Campaign,B.Tech
+154,Demo Given,2025-04-03,A1,Campaign,B.Tech
+154,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+155,New Lead,2025-04-01,A2,Campaign,B.Tech
+155,Contacted,2025-04-02,A2,Campaign,B.Tech
+155,Demo Given,2025-04-03,A2,Campaign,B.Tech
+155,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+156,New Lead,2025-04-01,A1,Website,MBA
+156,Contacted,2025-04-02,A1,Website,MBA
+156,Demo Given,2025-04-03,A1,Website,MBA
+156,Follow-up in Progress,2025-04-04,A1,Website,MBA
+156,Registered,2025-04-05,A1,Website,MBA
+157,New Lead,2025-04-01,A2,Campaign,Data Science
+157,Contacted,2025-04-02,A2,Campaign,Data Science
+158,New Lead,2025-04-01,A3,Website,B.Tech
+158,Contacted,2025-04-02,A3,Website,B.Tech
+158,Demo Given,2025-04-03,A3,Website,B.Tech
+158,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+158,Registered,2025-04-05,A3,Website,B.Tech
+158,Dropped / Inactive,2025-04-06,A3,Website,B.Tech
+159,New Lead,2025-04-01,A2,Website,B.Tech
+159,Contacted,2025-04-02,A2,Website,B.Tech
+159,Demo Given,2025-04-03,A2,Website,B.Tech
+159,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+159,Registered,2025-04-05,A2,Website,B.Tech
+160,New Lead,2025-04-01,A1,Website,Data Science
+160,Contacted,2025-04-02,A1,Website,Data Science
+160,Demo Given,2025-04-03,A1,Website,Data Science
+160,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+160,Registered,2025-04-05,A1,Website,Data Science
+160,Dropped / Inactive,2025-04-06,A1,Website,Data Science
+161,New Lead,2025-04-01,A2,Campaign,Data Science
+161,Contacted,2025-04-02,A2,Campaign,Data Science
+161,Demo Given,2025-04-03,A2,Campaign,Data Science
+161,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+161,Registered,2025-04-05,A2,Campaign,Data Science
+161,Dropped / Inactive,2025-04-06,A2,Campaign,Data Science
+162,New Lead,2025-04-01,A1,Referral,Data Science
+162,Contacted,2025-04-02,A1,Referral,Data Science
+162,Demo Given,2025-04-03,A1,Referral,Data Science
+162,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+162,Registered,2025-04-05,A1,Referral,Data Science
+162,Dropped / Inactive,2025-04-06,A1,Referral,Data Science
+163,New Lead,2025-04-01,A3,Website,B.Tech
+163,Contacted,2025-04-02,A3,Website,B.Tech
+163,Demo Given,2025-04-03,A3,Website,B.Tech
+163,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+164,New Lead,2025-04-01,A1,Campaign,B.Tech
+164,Contacted,2025-04-02,A1,Campaign,B.Tech
+165,New Lead,2025-04-01,A1,Campaign,B.Tech
+165,Contacted,2025-04-02,A1,Campaign,B.Tech
+166,New Lead,2025-04-01,A1,Campaign,MBA
+166,Contacted,2025-04-02,A1,Campaign,MBA
+166,Demo Given,2025-04-03,A1,Campaign,MBA
+166,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+167,New Lead,2025-04-01,A3,Website,B.Tech
+167,Contacted,2025-04-02,A3,Website,B.Tech
+167,Demo Given,2025-04-03,A3,Website,B.Tech
+167,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+167,Registered,2025-04-05,A3,Website,B.Tech
+168,New Lead,2025-04-01,A2,Campaign,Data Science
+168,Contacted,2025-04-02,A2,Campaign,Data Science
+168,Demo Given,2025-04-03,A2,Campaign,Data Science
+169,New Lead,2025-04-01,A2,Campaign,MBA
+169,Contacted,2025-04-02,A2,Campaign,MBA
+169,Demo Given,2025-04-03,A2,Campaign,MBA
+169,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+169,Registered,2025-04-05,A2,Campaign,MBA
+170,New Lead,2025-04-01,A1,Website,B.Tech
+170,Contacted,2025-04-02,A1,Website,B.Tech
+171,New Lead,2025-04-01,A1,Website,Data Science
+171,Contacted,2025-04-02,A1,Website,Data Science
+171,Demo Given,2025-04-03,A1,Website,Data Science
+171,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+171,Registered,2025-04-05,A1,Website,Data Science
+172,New Lead,2025-04-01,A1,Website,Data Science
+172,Contacted,2025-04-02,A1,Website,Data Science
+172,Demo Given,2025-04-03,A1,Website,Data Science
+172,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+173,New Lead,2025-04-01,A1,Campaign,MBA
+173,Contacted,2025-04-02,A1,Campaign,MBA
+173,Demo Given,2025-04-03,A1,Campaign,MBA
+173,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+174,New Lead,2025-04-01,A1,Referral,Data Science
+174,Contacted,2025-04-02,A1,Referral,Data Science
+174,Demo Given,2025-04-03,A1,Referral,Data Science
+175,New Lead,2025-04-01,A2,Campaign,MBA
+175,Contacted,2025-04-02,A2,Campaign,MBA
+175,Demo Given,2025-04-03,A2,Campaign,MBA
+175,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+176,New Lead,2025-04-01,A1,Website,B.Tech
+176,Contacted,2025-04-02,A1,Website,B.Tech
+177,New Lead,2025-04-01,A2,Website,MBA
+177,Contacted,2025-04-02,A2,Website,MBA
+178,New Lead,2025-04-01,A3,Website,MBA
+178,Contacted,2025-04-02,A3,Website,MBA
+179,New Lead,2025-04-01,A2,Referral,B.Tech
+179,Contacted,2025-04-02,A2,Referral,B.Tech
+180,New Lead,2025-04-01,A1,Website,MBA
+180,Contacted,2025-04-02,A1,Website,MBA
+181,New Lead,2025-04-01,A3,Referral,Data Science
+181,Contacted,2025-04-02,A3,Referral,Data Science
+181,Demo Given,2025-04-03,A3,Referral,Data Science
+181,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+181,Registered,2025-04-05,A3,Referral,Data Science
+181,Dropped / Inactive,2025-04-06,A3,Referral,Data Science
+182,New Lead,2025-04-01,A3,Campaign,Data Science
+182,Contacted,2025-04-02,A3,Campaign,Data Science
+182,Demo Given,2025-04-03,A3,Campaign,Data Science
+182,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+182,Registered,2025-04-05,A3,Campaign,Data Science
+182,Dropped / Inactive,2025-04-06,A3,Campaign,Data Science
+183,New Lead,2025-04-01,A3,Website,MBA
+183,Contacted,2025-04-02,A3,Website,MBA
+183,Demo Given,2025-04-03,A3,Website,MBA
+183,Follow-up in Progress,2025-04-04,A3,Website,MBA
+184,New Lead,2025-04-01,A1,Referral,Data Science
+184,Contacted,2025-04-02,A1,Referral,Data Science
+184,Demo Given,2025-04-03,A1,Referral,Data Science
+184,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+184,Registered,2025-04-05,A1,Referral,Data Science
+184,Dropped / Inactive,2025-04-06,A1,Referral,Data Science
+185,New Lead,2025-04-01,A1,Campaign,MBA
+185,Contacted,2025-04-02,A1,Campaign,MBA
+185,Demo Given,2025-04-03,A1,Campaign,MBA
+185,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+186,New Lead,2025-04-01,A1,Website,MBA
+186,Contacted,2025-04-02,A1,Website,MBA
+187,New Lead,2025-04-01,A2,Website,B.Tech
+187,Contacted,2025-04-02,A2,Website,B.Tech
+187,Demo Given,2025-04-03,A2,Website,B.Tech
+187,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+187,Registered,2025-04-05,A2,Website,B.Tech
+187,Dropped / Inactive,2025-04-06,A2,Website,B.Tech
+188,New Lead,2025-04-01,A1,Campaign,Data Science
+188,Contacted,2025-04-02,A1,Campaign,Data Science
+189,New Lead,2025-04-01,A2,Referral,B.Tech
+189,Contacted,2025-04-02,A2,Referral,B.Tech
+189,Demo Given,2025-04-03,A2,Referral,B.Tech
+190,New Lead,2025-04-01,A2,Campaign,MBA
+190,Contacted,2025-04-02,A2,Campaign,MBA
+190,Demo Given,2025-04-03,A2,Campaign,MBA
+190,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+191,New Lead,2025-04-01,A3,Campaign,Data Science
+191,Contacted,2025-04-02,A3,Campaign,Data Science
+191,Demo Given,2025-04-03,A3,Campaign,Data Science
+191,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+191,Registered,2025-04-05,A3,Campaign,Data Science
+192,New Lead,2025-04-01,A1,Campaign,MBA
+192,Contacted,2025-04-02,A1,Campaign,MBA
+192,Demo Given,2025-04-03,A1,Campaign,MBA
+192,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+193,New Lead,2025-04-01,A1,Website,B.Tech
+193,Contacted,2025-04-02,A1,Website,B.Tech
+193,Demo Given,2025-04-03,A1,Website,B.Tech
+193,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+193,Registered,2025-04-05,A1,Website,B.Tech
+193,Dropped / Inactive,2025-04-06,A1,Website,B.Tech
+194,New Lead,2025-04-01,A1,Campaign,MBA
+194,Contacted,2025-04-02,A1,Campaign,MBA
+194,Demo Given,2025-04-03,A1,Campaign,MBA
+194,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+195,New Lead,2025-04-01,A3,Referral,MBA
+195,Contacted,2025-04-02,A3,Referral,MBA
+195,Demo Given,2025-04-03,A3,Referral,MBA
+195,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+195,Registered,2025-04-05,A3,Referral,MBA
+196,New Lead,2025-04-01,A2,Campaign,MBA
+196,Contacted,2025-04-02,A2,Campaign,MBA
+196,Demo Given,2025-04-03,A2,Campaign,MBA
+197,New Lead,2025-04-01,A2,Campaign,B.Tech
+197,Contacted,2025-04-02,A2,Campaign,B.Tech
+197,Demo Given,2025-04-03,A2,Campaign,B.Tech
+197,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+198,New Lead,2025-04-01,A3,Referral,MBA
+198,Contacted,2025-04-02,A3,Referral,MBA
+198,Demo Given,2025-04-03,A3,Referral,MBA
+198,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+198,Registered,2025-04-05,A3,Referral,MBA
+199,New Lead,2025-04-01,A1,Campaign,Data Science
+199,Contacted,2025-04-02,A1,Campaign,Data Science
+199,Demo Given,2025-04-03,A1,Campaign,Data Science
+199,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+199,Registered,2025-04-05,A1,Campaign,Data Science
+200,New Lead,2025-04-01,A2,Referral,MBA
+200,Contacted,2025-04-02,A2,Referral,MBA
+200,Demo Given,2025-04-03,A2,Referral,MBA
+200,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+201,New Lead,2025-04-01,A1,Website,Data Science
+201,Contacted,2025-04-02,A1,Website,Data Science
+201,Demo Given,2025-04-03,A1,Website,Data Science
+201,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+201,Registered,2025-04-05,A1,Website,Data Science
+202,New Lead,2025-04-01,A2,Website,MBA
+202,Contacted,2025-04-02,A2,Website,MBA
+203,New Lead,2025-04-01,A1,Campaign,MBA
+203,Contacted,2025-04-02,A1,Campaign,MBA
+203,Demo Given,2025-04-03,A1,Campaign,MBA
+203,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+203,Registered,2025-04-05,A1,Campaign,MBA
+203,Dropped / Inactive,2025-04-06,A1,Campaign,MBA
+204,New Lead,2025-04-01,A2,Website,MBA
+204,Contacted,2025-04-02,A2,Website,MBA
+204,Demo Given,2025-04-03,A2,Website,MBA
+204,Follow-up in Progress,2025-04-04,A2,Website,MBA
+205,New Lead,2025-04-01,A3,Referral,B.Tech
+205,Contacted,2025-04-02,A3,Referral,B.Tech
+206,New Lead,2025-04-01,A3,Referral,B.Tech
+206,Contacted,2025-04-02,A3,Referral,B.Tech
+206,Demo Given,2025-04-03,A3,Referral,B.Tech
+206,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+207,New Lead,2025-04-01,A2,Website,B.Tech
+207,Contacted,2025-04-02,A2,Website,B.Tech
+207,Demo Given,2025-04-03,A2,Website,B.Tech
+207,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+208,New Lead,2025-04-01,A3,Website,MBA
+208,Contacted,2025-04-02,A3,Website,MBA
+208,Demo Given,2025-04-03,A3,Website,MBA
+208,Follow-up in Progress,2025-04-04,A3,Website,MBA
+208,Registered,2025-04-05,A3,Website,MBA
+208,Dropped / Inactive,2025-04-06,A3,Website,MBA
+209,New Lead,2025-04-01,A2,Referral,B.Tech
+209,Contacted,2025-04-02,A2,Referral,B.Tech
+209,Demo Given,2025-04-03,A2,Referral,B.Tech
+209,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+209,Registered,2025-04-05,A2,Referral,B.Tech
+209,Dropped / Inactive,2025-04-06,A2,Referral,B.Tech
+210,New Lead,2025-04-01,A1,Campaign,MBA
+210,Contacted,2025-04-02,A1,Campaign,MBA
+210,Demo Given,2025-04-03,A1,Campaign,MBA
+210,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+210,Registered,2025-04-05,A1,Campaign,MBA
+210,Dropped / Inactive,2025-04-06,A1,Campaign,MBA
+211,New Lead,2025-04-01,A2,Website,MBA
+211,Contacted,2025-04-02,A2,Website,MBA
+212,New Lead,2025-04-01,A1,Website,MBA
+212,Contacted,2025-04-02,A1,Website,MBA
+212,Demo Given,2025-04-03,A1,Website,MBA
+213,New Lead,2025-04-01,A1,Campaign,MBA
+213,Contacted,2025-04-02,A1,Campaign,MBA
+213,Demo Given,2025-04-03,A1,Campaign,MBA
+213,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+213,Registered,2025-04-05,A1,Campaign,MBA
+213,Dropped / Inactive,2025-04-06,A1,Campaign,MBA
+214,New Lead,2025-04-01,A3,Website,MBA
+214,Contacted,2025-04-02,A3,Website,MBA
+215,New Lead,2025-04-01,A3,Website,MBA
+215,Contacted,2025-04-02,A3,Website,MBA
+215,Demo Given,2025-04-03,A3,Website,MBA
+215,Follow-up in Progress,2025-04-04,A3,Website,MBA
+216,New Lead,2025-04-01,A3,Website,Data Science
+216,Contacted,2025-04-02,A3,Website,Data Science
+216,Demo Given,2025-04-03,A3,Website,Data Science
+217,New Lead,2025-04-01,A1,Website,B.Tech
+217,Contacted,2025-04-02,A1,Website,B.Tech
+217,Demo Given,2025-04-03,A1,Website,B.Tech
+217,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+217,Registered,2025-04-05,A1,Website,B.Tech
+217,Dropped / Inactive,2025-04-06,A1,Website,B.Tech
+218,New Lead,2025-04-01,A3,Referral,B.Tech
+218,Contacted,2025-04-02,A3,Referral,B.Tech
+218,Demo Given,2025-04-03,A3,Referral,B.Tech
+219,New Lead,2025-04-01,A3,Campaign,MBA
+219,Contacted,2025-04-02,A3,Campaign,MBA
+219,Demo Given,2025-04-03,A3,Campaign,MBA
+219,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+219,Registered,2025-04-05,A3,Campaign,MBA
+219,Dropped / Inactive,2025-04-06,A3,Campaign,MBA
+220,New Lead,2025-04-01,A2,Campaign,B.Tech
+220,Contacted,2025-04-02,A2,Campaign,B.Tech
+220,Demo Given,2025-04-03,A2,Campaign,B.Tech
+220,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+221,New Lead,2025-04-01,A3,Referral,B.Tech
+221,Contacted,2025-04-02,A3,Referral,B.Tech
+221,Demo Given,2025-04-03,A3,Referral,B.Tech
+221,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+222,New Lead,2025-04-01,A3,Website,MBA
+222,Contacted,2025-04-02,A3,Website,MBA
+222,Demo Given,2025-04-03,A3,Website,MBA
+223,New Lead,2025-04-01,A2,Referral,B.Tech
+223,Contacted,2025-04-02,A2,Referral,B.Tech
+224,New Lead,2025-04-01,A3,Website,MBA
+224,Contacted,2025-04-02,A3,Website,MBA
+225,New Lead,2025-04-01,A1,Referral,MBA
+225,Contacted,2025-04-02,A1,Referral,MBA
+225,Demo Given,2025-04-03,A1,Referral,MBA
+226,New Lead,2025-04-01,A2,Website,Data Science
+226,Contacted,2025-04-02,A2,Website,Data Science
+226,Demo Given,2025-04-03,A2,Website,Data Science
+226,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+226,Registered,2025-04-05,A2,Website,Data Science
+226,Dropped / Inactive,2025-04-06,A2,Website,Data Science
+227,New Lead,2025-04-01,A1,Campaign,B.Tech
+227,Contacted,2025-04-02,A1,Campaign,B.Tech
+228,New Lead,2025-04-01,A1,Campaign,B.Tech
+228,Contacted,2025-04-02,A1,Campaign,B.Tech
+228,Demo Given,2025-04-03,A1,Campaign,B.Tech
+228,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+228,Registered,2025-04-05,A1,Campaign,B.Tech
+229,New Lead,2025-04-01,A3,Campaign,MBA
+229,Contacted,2025-04-02,A3,Campaign,MBA
+230,New Lead,2025-04-01,A3,Campaign,Data Science
+230,Contacted,2025-04-02,A3,Campaign,Data Science
+230,Demo Given,2025-04-03,A3,Campaign,Data Science
+230,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+230,Registered,2025-04-05,A3,Campaign,Data Science
+230,Dropped / Inactive,2025-04-06,A3,Campaign,Data Science
+231,New Lead,2025-04-01,A2,Campaign,MBA
+231,Contacted,2025-04-02,A2,Campaign,MBA
+231,Demo Given,2025-04-03,A2,Campaign,MBA
+231,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+232,New Lead,2025-04-01,A3,Website,MBA
+232,Contacted,2025-04-02,A3,Website,MBA
+232,Demo Given,2025-04-03,A3,Website,MBA
+232,Follow-up in Progress,2025-04-04,A3,Website,MBA
+232,Registered,2025-04-05,A3,Website,MBA
+232,Dropped / Inactive,2025-04-06,A3,Website,MBA
+233,New Lead,2025-04-01,A1,Website,Data Science
+233,Contacted,2025-04-02,A1,Website,Data Science
+233,Demo Given,2025-04-03,A1,Website,Data Science
+233,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+233,Registered,2025-04-05,A1,Website,Data Science
+233,Dropped / Inactive,2025-04-06,A1,Website,Data Science
+234,New Lead,2025-04-01,A2,Campaign,B.Tech
+234,Contacted,2025-04-02,A2,Campaign,B.Tech
+234,Demo Given,2025-04-03,A2,Campaign,B.Tech
+234,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+234,Registered,2025-04-05,A2,Campaign,B.Tech
+235,New Lead,2025-04-01,A2,Referral,MBA
+235,Contacted,2025-04-02,A2,Referral,MBA
+236,New Lead,2025-04-01,A3,Referral,B.Tech
+236,Contacted,2025-04-02,A3,Referral,B.Tech
+236,Demo Given,2025-04-03,A3,Referral,B.Tech
+236,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+236,Registered,2025-04-05,A3,Referral,B.Tech
+236,Dropped / Inactive,2025-04-06,A3,Referral,B.Tech
+237,New Lead,2025-04-01,A3,Campaign,MBA
+237,Contacted,2025-04-02,A3,Campaign,MBA
+237,Demo Given,2025-04-03,A3,Campaign,MBA
+237,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+237,Registered,2025-04-05,A3,Campaign,MBA
+238,New Lead,2025-04-01,A3,Referral,MBA
+238,Contacted,2025-04-02,A3,Referral,MBA
+239,New Lead,2025-04-01,A2,Campaign,B.Tech
+239,Contacted,2025-04-02,A2,Campaign,B.Tech
+240,New Lead,2025-04-01,A2,Referral,B.Tech
+240,Contacted,2025-04-02,A2,Referral,B.Tech
+240,Demo Given,2025-04-03,A2,Referral,B.Tech
+241,New Lead,2025-04-01,A3,Website,Data Science
+241,Contacted,2025-04-02,A3,Website,Data Science
+241,Demo Given,2025-04-03,A3,Website,Data Science
+242,New Lead,2025-04-01,A2,Referral,Data Science
+242,Contacted,2025-04-02,A2,Referral,Data Science
+242,Demo Given,2025-04-03,A2,Referral,Data Science
+242,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+242,Registered,2025-04-05,A2,Referral,Data Science
+243,New Lead,2025-04-01,A1,Referral,Data Science
+243,Contacted,2025-04-02,A1,Referral,Data Science
+243,Demo Given,2025-04-03,A1,Referral,Data Science
+244,New Lead,2025-04-01,A2,Campaign,Data Science
+244,Contacted,2025-04-02,A2,Campaign,Data Science
+244,Demo Given,2025-04-03,A2,Campaign,Data Science
+244,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+245,New Lead,2025-04-01,A3,Website,B.Tech
+245,Contacted,2025-04-02,A3,Website,B.Tech
+245,Demo Given,2025-04-03,A3,Website,B.Tech
+245,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+246,New Lead,2025-04-01,A1,Campaign,MBA
+246,Contacted,2025-04-02,A1,Campaign,MBA
+246,Demo Given,2025-04-03,A1,Campaign,MBA
+247,New Lead,2025-04-01,A1,Referral,MBA
+247,Contacted,2025-04-02,A1,Referral,MBA
+247,Demo Given,2025-04-03,A1,Referral,MBA
+247,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+247,Registered,2025-04-05,A1,Referral,MBA
+248,New Lead,2025-04-01,A2,Website,MBA
+248,Contacted,2025-04-02,A2,Website,MBA
+248,Demo Given,2025-04-03,A2,Website,MBA
+248,Follow-up in Progress,2025-04-04,A2,Website,MBA
+248,Registered,2025-04-05,A2,Website,MBA
+249,New Lead,2025-04-01,A1,Referral,Data Science
+249,Contacted,2025-04-02,A1,Referral,Data Science
+250,New Lead,2025-04-01,A1,Website,B.Tech
+250,Contacted,2025-04-02,A1,Website,B.Tech
+250,Demo Given,2025-04-03,A1,Website,B.Tech
+250,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+251,New Lead,2025-04-01,A2,Referral,Data Science
+251,Contacted,2025-04-02,A2,Referral,Data Science
+251,Demo Given,2025-04-03,A2,Referral,Data Science
+251,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+251,Registered,2025-04-05,A2,Referral,Data Science
+251,Dropped / Inactive,2025-04-06,A2,Referral,Data Science
+252,New Lead,2025-04-01,A2,Campaign,MBA
+252,Contacted,2025-04-02,A2,Campaign,MBA
+252,Demo Given,2025-04-03,A2,Campaign,MBA
+252,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+252,Registered,2025-04-05,A2,Campaign,MBA
+252,Dropped / Inactive,2025-04-06,A2,Campaign,MBA
+253,New Lead,2025-04-01,A3,Website,MBA
+253,Contacted,2025-04-02,A3,Website,MBA
+253,Demo Given,2025-04-03,A3,Website,MBA
+253,Follow-up in Progress,2025-04-04,A3,Website,MBA
+253,Registered,2025-04-05,A3,Website,MBA
+254,New Lead,2025-04-01,A3,Referral,Data Science
+254,Contacted,2025-04-02,A3,Referral,Data Science
+254,Demo Given,2025-04-03,A3,Referral,Data Science
+254,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+254,Registered,2025-04-05,A3,Referral,Data Science
+255,New Lead,2025-04-01,A1,Referral,Data Science
+255,Contacted,2025-04-02,A1,Referral,Data Science
+255,Demo Given,2025-04-03,A1,Referral,Data Science
+255,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+255,Registered,2025-04-05,A1,Referral,Data Science
+255,Dropped / Inactive,2025-04-06,A1,Referral,Data Science
+256,New Lead,2025-04-01,A2,Campaign,B.Tech
+256,Contacted,2025-04-02,A2,Campaign,B.Tech
+256,Demo Given,2025-04-03,A2,Campaign,B.Tech
+256,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+256,Registered,2025-04-05,A2,Campaign,B.Tech
+256,Dropped / Inactive,2025-04-06,A2,Campaign,B.Tech
+257,New Lead,2025-04-01,A1,Website,B.Tech
+257,Contacted,2025-04-02,A1,Website,B.Tech
+257,Demo Given,2025-04-03,A1,Website,B.Tech
+257,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+258,New Lead,2025-04-01,A2,Campaign,MBA
+258,Contacted,2025-04-02,A2,Campaign,MBA
+258,Demo Given,2025-04-03,A2,Campaign,MBA
+258,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+258,Registered,2025-04-05,A2,Campaign,MBA
+259,New Lead,2025-04-01,A1,Website,MBA
+259,Contacted,2025-04-02,A1,Website,MBA
+260,New Lead,2025-04-01,A2,Referral,MBA
+260,Contacted,2025-04-02,A2,Referral,MBA
+260,Demo Given,2025-04-03,A2,Referral,MBA
+260,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+261,New Lead,2025-04-01,A1,Campaign,Data Science
+261,Contacted,2025-04-02,A1,Campaign,Data Science
+262,New Lead,2025-04-01,A1,Website,Data Science
+262,Contacted,2025-04-02,A1,Website,Data Science
+262,Demo Given,2025-04-03,A1,Website,Data Science
+263,New Lead,2025-04-01,A2,Website,B.Tech
+263,Contacted,2025-04-02,A2,Website,B.Tech
+263,Demo Given,2025-04-03,A2,Website,B.Tech
+263,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+264,New Lead,2025-04-01,A2,Campaign,B.Tech
+264,Contacted,2025-04-02,A2,Campaign,B.Tech
+264,Demo Given,2025-04-03,A2,Campaign,B.Tech
+264,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+265,New Lead,2025-04-01,A2,Referral,B.Tech
+265,Contacted,2025-04-02,A2,Referral,B.Tech
+265,Demo Given,2025-04-03,A2,Referral,B.Tech
+265,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+265,Registered,2025-04-05,A2,Referral,B.Tech
+265,Dropped / Inactive,2025-04-06,A2,Referral,B.Tech
+266,New Lead,2025-04-01,A1,Campaign,B.Tech
+266,Contacted,2025-04-02,A1,Campaign,B.Tech
+266,Demo Given,2025-04-03,A1,Campaign,B.Tech
+266,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+267,New Lead,2025-04-01,A1,Campaign,Data Science
+267,Contacted,2025-04-02,A1,Campaign,Data Science
+268,New Lead,2025-04-01,A1,Website,B.Tech
+268,Contacted,2025-04-02,A1,Website,B.Tech
+269,New Lead,2025-04-01,A2,Campaign,MBA
+269,Contacted,2025-04-02,A2,Campaign,MBA
+269,Demo Given,2025-04-03,A2,Campaign,MBA
+270,New Lead,2025-04-01,A1,Referral,MBA
+270,Contacted,2025-04-02,A1,Referral,MBA
+271,New Lead,2025-04-01,A2,Campaign,Data Science
+271,Contacted,2025-04-02,A2,Campaign,Data Science
+271,Demo Given,2025-04-03,A2,Campaign,Data Science
+271,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+271,Registered,2025-04-05,A2,Campaign,Data Science
+272,New Lead,2025-04-01,A1,Referral,Data Science
+272,Contacted,2025-04-02,A1,Referral,Data Science
+272,Demo Given,2025-04-03,A1,Referral,Data Science
+272,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+272,Registered,2025-04-05,A1,Referral,Data Science
+272,Dropped / Inactive,2025-04-06,A1,Referral,Data Science
+273,New Lead,2025-04-01,A1,Referral,Data Science
+273,Contacted,2025-04-02,A1,Referral,Data Science
+273,Demo Given,2025-04-03,A1,Referral,Data Science
+274,New Lead,2025-04-01,A3,Referral,B.Tech
+274,Contacted,2025-04-02,A3,Referral,B.Tech
+274,Demo Given,2025-04-03,A3,Referral,B.Tech
+274,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+275,New Lead,2025-04-01,A2,Referral,B.Tech
+275,Contacted,2025-04-02,A2,Referral,B.Tech
+275,Demo Given,2025-04-03,A2,Referral,B.Tech
+275,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+275,Registered,2025-04-05,A2,Referral,B.Tech
+275,Dropped / Inactive,2025-04-06,A2,Referral,B.Tech
+276,New Lead,2025-04-01,A3,Campaign,MBA
+276,Contacted,2025-04-02,A3,Campaign,MBA
+276,Demo Given,2025-04-03,A3,Campaign,MBA
+277,New Lead,2025-04-01,A2,Referral,MBA
+277,Contacted,2025-04-02,A2,Referral,MBA
+277,Demo Given,2025-04-03,A2,Referral,MBA
+277,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+277,Registered,2025-04-05,A2,Referral,MBA
+277,Dropped / Inactive,2025-04-06,A2,Referral,MBA
+278,New Lead,2025-04-01,A2,Campaign,Data Science
+278,Contacted,2025-04-02,A2,Campaign,Data Science
+279,New Lead,2025-04-01,A3,Referral,Data Science
+279,Contacted,2025-04-02,A3,Referral,Data Science
+279,Demo Given,2025-04-03,A3,Referral,Data Science
+279,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+279,Registered,2025-04-05,A3,Referral,Data Science
+279,Dropped / Inactive,2025-04-06,A3,Referral,Data Science
+280,New Lead,2025-04-01,A3,Campaign,Data Science
+280,Contacted,2025-04-02,A3,Campaign,Data Science
+280,Demo Given,2025-04-03,A3,Campaign,Data Science
+280,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+280,Registered,2025-04-05,A3,Campaign,Data Science
+281,New Lead,2025-04-01,A3,Campaign,Data Science
+281,Contacted,2025-04-02,A3,Campaign,Data Science
+281,Demo Given,2025-04-03,A3,Campaign,Data Science
+281,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+282,New Lead,2025-04-01,A1,Campaign,Data Science
+282,Contacted,2025-04-02,A1,Campaign,Data Science
+282,Demo Given,2025-04-03,A1,Campaign,Data Science
+282,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+283,New Lead,2025-04-01,A3,Website,MBA
+283,Contacted,2025-04-02,A3,Website,MBA
+283,Demo Given,2025-04-03,A3,Website,MBA
+283,Follow-up in Progress,2025-04-04,A3,Website,MBA
+283,Registered,2025-04-05,A3,Website,MBA
+283,Dropped / Inactive,2025-04-06,A3,Website,MBA
+284,New Lead,2025-04-01,A1,Campaign,MBA
+284,Contacted,2025-04-02,A1,Campaign,MBA
+284,Demo Given,2025-04-03,A1,Campaign,MBA
+284,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+284,Registered,2025-04-05,A1,Campaign,MBA
+285,New Lead,2025-04-01,A2,Referral,Data Science
+285,Contacted,2025-04-02,A2,Referral,Data Science
+286,New Lead,2025-04-01,A3,Campaign,B.Tech
+286,Contacted,2025-04-02,A3,Campaign,B.Tech
+286,Demo Given,2025-04-03,A3,Campaign,B.Tech
+286,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+287,New Lead,2025-04-01,A3,Website,B.Tech
+287,Contacted,2025-04-02,A3,Website,B.Tech
+288,New Lead,2025-04-01,A1,Website,MBA
+288,Contacted,2025-04-02,A1,Website,MBA
+288,Demo Given,2025-04-03,A1,Website,MBA
+288,Follow-up in Progress,2025-04-04,A1,Website,MBA
+288,Registered,2025-04-05,A1,Website,MBA
+289,New Lead,2025-04-01,A1,Website,MBA
+289,Contacted,2025-04-02,A1,Website,MBA
+290,New Lead,2025-04-01,A3,Referral,Data Science
+290,Contacted,2025-04-02,A3,Referral,Data Science
+290,Demo Given,2025-04-03,A3,Referral,Data Science
+291,New Lead,2025-04-01,A3,Campaign,MBA
+291,Contacted,2025-04-02,A3,Campaign,MBA
+291,Demo Given,2025-04-03,A3,Campaign,MBA
+292,New Lead,2025-04-01,A3,Campaign,B.Tech
+292,Contacted,2025-04-02,A3,Campaign,B.Tech
+293,New Lead,2025-04-01,A3,Referral,B.Tech
+293,Contacted,2025-04-02,A3,Referral,B.Tech
+293,Demo Given,2025-04-03,A3,Referral,B.Tech
+293,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+294,New Lead,2025-04-01,A2,Website,B.Tech
+294,Contacted,2025-04-02,A2,Website,B.Tech
+294,Demo Given,2025-04-03,A2,Website,B.Tech
+294,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+294,Registered,2025-04-05,A2,Website,B.Tech
+295,New Lead,2025-04-01,A2,Website,Data Science
+295,Contacted,2025-04-02,A2,Website,Data Science
+296,New Lead,2025-04-01,A1,Referral,B.Tech
+296,Contacted,2025-04-02,A1,Referral,B.Tech
+296,Demo Given,2025-04-03,A1,Referral,B.Tech
+297,New Lead,2025-04-01,A2,Website,Data Science
+297,Contacted,2025-04-02,A2,Website,Data Science
+298,New Lead,2025-04-01,A1,Website,MBA
+298,Contacted,2025-04-02,A1,Website,MBA
+298,Demo Given,2025-04-03,A1,Website,MBA
+298,Follow-up in Progress,2025-04-04,A1,Website,MBA
+298,Registered,2025-04-05,A1,Website,MBA
+299,New Lead,2025-04-01,A3,Website,Data Science
+299,Contacted,2025-04-02,A3,Website,Data Science
+300,New Lead,2025-04-01,A1,Campaign,B.Tech
+300,Contacted,2025-04-02,A1,Campaign,B.Tech
+300,Demo Given,2025-04-03,A1,Campaign,B.Tech
+300,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+301,New Lead,2025-04-01,A3,Referral,MBA
+301,Contacted,2025-04-02,A3,Referral,MBA
+301,Demo Given,2025-04-03,A3,Referral,MBA
+301,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+301,Registered,2025-04-05,A3,Referral,MBA
+301,Dropped / Inactive,2025-04-06,A3,Referral,MBA
+302,New Lead,2025-04-01,A1,Website,Data Science
+302,Contacted,2025-04-02,A1,Website,Data Science
+302,Demo Given,2025-04-03,A1,Website,Data Science
+302,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+303,New Lead,2025-04-01,A2,Website,MBA
+303,Contacted,2025-04-02,A2,Website,MBA
+303,Demo Given,2025-04-03,A2,Website,MBA
+303,Follow-up in Progress,2025-04-04,A2,Website,MBA
+304,New Lead,2025-04-01,A3,Campaign,MBA
+304,Contacted,2025-04-02,A3,Campaign,MBA
+304,Demo Given,2025-04-03,A3,Campaign,MBA
+304,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+304,Registered,2025-04-05,A3,Campaign,MBA
+305,New Lead,2025-04-01,A1,Campaign,MBA
+305,Contacted,2025-04-02,A1,Campaign,MBA
+305,Demo Given,2025-04-03,A1,Campaign,MBA
+305,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+306,New Lead,2025-04-01,A3,Website,Data Science
+306,Contacted,2025-04-02,A3,Website,Data Science
+306,Demo Given,2025-04-03,A3,Website,Data Science
+306,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+307,New Lead,2025-04-01,A2,Campaign,B.Tech
+307,Contacted,2025-04-02,A2,Campaign,B.Tech
+307,Demo Given,2025-04-03,A2,Campaign,B.Tech
+308,New Lead,2025-04-01,A1,Referral,B.Tech
+308,Contacted,2025-04-02,A1,Referral,B.Tech
+308,Demo Given,2025-04-03,A1,Referral,B.Tech
+308,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+308,Registered,2025-04-05,A1,Referral,B.Tech
+309,New Lead,2025-04-01,A2,Referral,Data Science
+309,Contacted,2025-04-02,A2,Referral,Data Science
+310,New Lead,2025-04-01,A1,Referral,B.Tech
+310,Contacted,2025-04-02,A1,Referral,B.Tech
+310,Demo Given,2025-04-03,A1,Referral,B.Tech
+310,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+311,New Lead,2025-04-01,A3,Website,MBA
+311,Contacted,2025-04-02,A3,Website,MBA
+312,New Lead,2025-04-01,A3,Website,B.Tech
+312,Contacted,2025-04-02,A3,Website,B.Tech
+312,Demo Given,2025-04-03,A3,Website,B.Tech
+312,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+313,New Lead,2025-04-01,A1,Referral,MBA
+313,Contacted,2025-04-02,A1,Referral,MBA
+313,Demo Given,2025-04-03,A1,Referral,MBA
+313,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+314,New Lead,2025-04-01,A2,Campaign,B.Tech
+314,Contacted,2025-04-02,A2,Campaign,B.Tech
+314,Demo Given,2025-04-03,A2,Campaign,B.Tech
+314,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+314,Registered,2025-04-05,A2,Campaign,B.Tech
+315,New Lead,2025-04-01,A1,Campaign,Data Science
+315,Contacted,2025-04-02,A1,Campaign,Data Science
+315,Demo Given,2025-04-03,A1,Campaign,Data Science
+316,New Lead,2025-04-01,A3,Campaign,B.Tech
+316,Contacted,2025-04-02,A3,Campaign,B.Tech
+317,New Lead,2025-04-01,A3,Website,B.Tech
+317,Contacted,2025-04-02,A3,Website,B.Tech
+317,Demo Given,2025-04-03,A3,Website,B.Tech
+317,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+317,Registered,2025-04-05,A3,Website,B.Tech
+317,Dropped / Inactive,2025-04-06,A3,Website,B.Tech
+318,New Lead,2025-04-01,A3,Website,MBA
+318,Contacted,2025-04-02,A3,Website,MBA
+318,Demo Given,2025-04-03,A3,Website,MBA
+319,New Lead,2025-04-01,A1,Referral,Data Science
+319,Contacted,2025-04-02,A1,Referral,Data Science
+319,Demo Given,2025-04-03,A1,Referral,Data Science
+319,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+319,Registered,2025-04-05,A1,Referral,Data Science
+320,New Lead,2025-04-01,A3,Campaign,B.Tech
+320,Contacted,2025-04-02,A3,Campaign,B.Tech
+320,Demo Given,2025-04-03,A3,Campaign,B.Tech
+321,New Lead,2025-04-01,A3,Referral,B.Tech
+321,Contacted,2025-04-02,A3,Referral,B.Tech
+321,Demo Given,2025-04-03,A3,Referral,B.Tech
+321,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+321,Registered,2025-04-05,A3,Referral,B.Tech
+322,New Lead,2025-04-01,A1,Website,MBA
+322,Contacted,2025-04-02,A1,Website,MBA
+323,New Lead,2025-04-01,A2,Website,B.Tech
+323,Contacted,2025-04-02,A2,Website,B.Tech
+323,Demo Given,2025-04-03,A2,Website,B.Tech
+323,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+323,Registered,2025-04-05,A2,Website,B.Tech
+324,New Lead,2025-04-01,A2,Campaign,Data Science
+324,Contacted,2025-04-02,A2,Campaign,Data Science
+324,Demo Given,2025-04-03,A2,Campaign,Data Science
+325,New Lead,2025-04-01,A2,Referral,MBA
+325,Contacted,2025-04-02,A2,Referral,MBA
+326,New Lead,2025-04-01,A2,Referral,Data Science
+326,Contacted,2025-04-02,A2,Referral,Data Science
+327,New Lead,2025-04-01,A2,Website,Data Science
+327,Contacted,2025-04-02,A2,Website,Data Science
+328,New Lead,2025-04-01,A2,Campaign,B.Tech
+328,Contacted,2025-04-02,A2,Campaign,B.Tech
+328,Demo Given,2025-04-03,A2,Campaign,B.Tech
+328,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+328,Registered,2025-04-05,A2,Campaign,B.Tech
+329,New Lead,2025-04-01,A2,Campaign,Data Science
+329,Contacted,2025-04-02,A2,Campaign,Data Science
+329,Demo Given,2025-04-03,A2,Campaign,Data Science
+329,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+329,Registered,2025-04-05,A2,Campaign,Data Science
+329,Dropped / Inactive,2025-04-06,A2,Campaign,Data Science
+330,New Lead,2025-04-01,A2,Referral,Data Science
+330,Contacted,2025-04-02,A2,Referral,Data Science
+330,Demo Given,2025-04-03,A2,Referral,Data Science
+330,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+331,New Lead,2025-04-01,A2,Campaign,Data Science
+331,Contacted,2025-04-02,A2,Campaign,Data Science
+331,Demo Given,2025-04-03,A2,Campaign,Data Science
+332,New Lead,2025-04-01,A1,Campaign,MBA
+332,Contacted,2025-04-02,A1,Campaign,MBA
+333,New Lead,2025-04-01,A1,Website,MBA
+333,Contacted,2025-04-02,A1,Website,MBA
+333,Demo Given,2025-04-03,A1,Website,MBA
+334,New Lead,2025-04-01,A3,Website,MBA
+334,Contacted,2025-04-02,A3,Website,MBA
+334,Demo Given,2025-04-03,A3,Website,MBA
+334,Follow-up in Progress,2025-04-04,A3,Website,MBA
+334,Registered,2025-04-05,A3,Website,MBA
+334,Dropped / Inactive,2025-04-06,A3,Website,MBA
+335,New Lead,2025-04-01,A3,Website,B.Tech
+335,Contacted,2025-04-02,A3,Website,B.Tech
+335,Demo Given,2025-04-03,A3,Website,B.Tech
+335,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+336,New Lead,2025-04-01,A2,Website,Data Science
+336,Contacted,2025-04-02,A2,Website,Data Science
+336,Demo Given,2025-04-03,A2,Website,Data Science
+336,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+336,Registered,2025-04-05,A2,Website,Data Science
+336,Dropped / Inactive,2025-04-06,A2,Website,Data Science
+337,New Lead,2025-04-01,A3,Campaign,Data Science
+337,Contacted,2025-04-02,A3,Campaign,Data Science
+338,New Lead,2025-04-01,A2,Website,MBA
+338,Contacted,2025-04-02,A2,Website,MBA
+338,Demo Given,2025-04-03,A2,Website,MBA
+339,New Lead,2025-04-01,A2,Campaign,MBA
+339,Contacted,2025-04-02,A2,Campaign,MBA
+339,Demo Given,2025-04-03,A2,Campaign,MBA
+339,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+340,New Lead,2025-04-01,A1,Referral,Data Science
+340,Contacted,2025-04-02,A1,Referral,Data Science
+340,Demo Given,2025-04-03,A1,Referral,Data Science
+340,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+340,Registered,2025-04-05,A1,Referral,Data Science
+341,New Lead,2025-04-01,A3,Campaign,Data Science
+341,Contacted,2025-04-02,A3,Campaign,Data Science
+341,Demo Given,2025-04-03,A3,Campaign,Data Science
+341,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+341,Registered,2025-04-05,A3,Campaign,Data Science
+341,Dropped / Inactive,2025-04-06,A3,Campaign,Data Science
+342,New Lead,2025-04-01,A3,Referral,Data Science
+342,Contacted,2025-04-02,A3,Referral,Data Science
+342,Demo Given,2025-04-03,A3,Referral,Data Science
+342,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+343,New Lead,2025-04-01,A3,Referral,MBA
+343,Contacted,2025-04-02,A3,Referral,MBA
+343,Demo Given,2025-04-03,A3,Referral,MBA
+344,New Lead,2025-04-01,A3,Referral,MBA
+344,Contacted,2025-04-02,A3,Referral,MBA
+344,Demo Given,2025-04-03,A3,Referral,MBA
+344,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+344,Registered,2025-04-05,A3,Referral,MBA
+344,Dropped / Inactive,2025-04-06,A3,Referral,MBA
+345,New Lead,2025-04-01,A1,Campaign,B.Tech
+345,Contacted,2025-04-02,A1,Campaign,B.Tech
+345,Demo Given,2025-04-03,A1,Campaign,B.Tech
+345,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+345,Registered,2025-04-05,A1,Campaign,B.Tech
+346,New Lead,2025-04-01,A3,Referral,B.Tech
+346,Contacted,2025-04-02,A3,Referral,B.Tech
+347,New Lead,2025-04-01,A2,Referral,Data Science
+347,Contacted,2025-04-02,A2,Referral,Data Science
+347,Demo Given,2025-04-03,A2,Referral,Data Science
+347,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+348,New Lead,2025-04-01,A2,Website,MBA
+348,Contacted,2025-04-02,A2,Website,MBA
+348,Demo Given,2025-04-03,A2,Website,MBA
+349,New Lead,2025-04-01,A1,Website,Data Science
+349,Contacted,2025-04-02,A1,Website,Data Science
+350,New Lead,2025-04-01,A1,Website,Data Science
+350,Contacted,2025-04-02,A1,Website,Data Science
+350,Demo Given,2025-04-03,A1,Website,Data Science
+350,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+351,New Lead,2025-04-01,A2,Website,B.Tech
+351,Contacted,2025-04-02,A2,Website,B.Tech
+351,Demo Given,2025-04-03,A2,Website,B.Tech
+351,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+352,New Lead,2025-04-01,A3,Campaign,Data Science
+352,Contacted,2025-04-02,A3,Campaign,Data Science
+352,Demo Given,2025-04-03,A3,Campaign,Data Science
+352,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+352,Registered,2025-04-05,A3,Campaign,Data Science
+353,New Lead,2025-04-01,A3,Campaign,MBA
+353,Contacted,2025-04-02,A3,Campaign,MBA
+353,Demo Given,2025-04-03,A3,Campaign,MBA
+354,New Lead,2025-04-01,A3,Website,B.Tech
+354,Contacted,2025-04-02,A3,Website,B.Tech
+354,Demo Given,2025-04-03,A3,Website,B.Tech
+354,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+355,New Lead,2025-04-01,A1,Website,Data Science
+355,Contacted,2025-04-02,A1,Website,Data Science
+355,Demo Given,2025-04-03,A1,Website,Data Science
+356,New Lead,2025-04-01,A1,Referral,Data Science
+356,Contacted,2025-04-02,A1,Referral,Data Science
+356,Demo Given,2025-04-03,A1,Referral,Data Science
+356,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+356,Registered,2025-04-05,A1,Referral,Data Science
+357,New Lead,2025-04-01,A2,Referral,B.Tech
+357,Contacted,2025-04-02,A2,Referral,B.Tech
+357,Demo Given,2025-04-03,A2,Referral,B.Tech
+357,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+357,Registered,2025-04-05,A2,Referral,B.Tech
+357,Dropped / Inactive,2025-04-06,A2,Referral,B.Tech
+358,New Lead,2025-04-01,A1,Referral,Data Science
+358,Contacted,2025-04-02,A1,Referral,Data Science
+359,New Lead,2025-04-01,A2,Website,B.Tech
+359,Contacted,2025-04-02,A2,Website,B.Tech
+359,Demo Given,2025-04-03,A2,Website,B.Tech
+359,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+360,New Lead,2025-04-01,A2,Website,Data Science
+360,Contacted,2025-04-02,A2,Website,Data Science
+360,Demo Given,2025-04-03,A2,Website,Data Science
+361,New Lead,2025-04-01,A3,Campaign,B.Tech
+361,Contacted,2025-04-02,A3,Campaign,B.Tech
+362,New Lead,2025-04-01,A3,Campaign,Data Science
+362,Contacted,2025-04-02,A3,Campaign,Data Science
+362,Demo Given,2025-04-03,A3,Campaign,Data Science
+363,New Lead,2025-04-01,A3,Campaign,B.Tech
+363,Contacted,2025-04-02,A3,Campaign,B.Tech
+363,Demo Given,2025-04-03,A3,Campaign,B.Tech
+363,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+363,Registered,2025-04-05,A3,Campaign,B.Tech
+363,Dropped / Inactive,2025-04-06,A3,Campaign,B.Tech
+364,New Lead,2025-04-01,A3,Website,B.Tech
+364,Contacted,2025-04-02,A3,Website,B.Tech
+364,Demo Given,2025-04-03,A3,Website,B.Tech
+365,New Lead,2025-04-01,A3,Referral,Data Science
+365,Contacted,2025-04-02,A3,Referral,Data Science
+365,Demo Given,2025-04-03,A3,Referral,Data Science
+366,New Lead,2025-04-01,A3,Campaign,B.Tech
+366,Contacted,2025-04-02,A3,Campaign,B.Tech
+366,Demo Given,2025-04-03,A3,Campaign,B.Tech
+366,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+367,New Lead,2025-04-01,A2,Referral,MBA
+367,Contacted,2025-04-02,A2,Referral,MBA
+368,New Lead,2025-04-01,A2,Referral,B.Tech
+368,Contacted,2025-04-02,A2,Referral,B.Tech
+368,Demo Given,2025-04-03,A2,Referral,B.Tech
+368,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+368,Registered,2025-04-05,A2,Referral,B.Tech
+369,New Lead,2025-04-01,A1,Campaign,B.Tech
+369,Contacted,2025-04-02,A1,Campaign,B.Tech
+369,Demo Given,2025-04-03,A1,Campaign,B.Tech
+369,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+369,Registered,2025-04-05,A1,Campaign,B.Tech
+369,Dropped / Inactive,2025-04-06,A1,Campaign,B.Tech
+370,New Lead,2025-04-01,A3,Campaign,B.Tech
+370,Contacted,2025-04-02,A3,Campaign,B.Tech
+370,Demo Given,2025-04-03,A3,Campaign,B.Tech
+370,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+370,Registered,2025-04-05,A3,Campaign,B.Tech
+371,New Lead,2025-04-01,A3,Referral,Data Science
+371,Contacted,2025-04-02,A3,Referral,Data Science
+371,Demo Given,2025-04-03,A3,Referral,Data Science
+371,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+371,Registered,2025-04-05,A3,Referral,Data Science
+372,New Lead,2025-04-01,A1,Campaign,Data Science
+372,Contacted,2025-04-02,A1,Campaign,Data Science
+372,Demo Given,2025-04-03,A1,Campaign,Data Science
+372,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+372,Registered,2025-04-05,A1,Campaign,Data Science
+372,Dropped / Inactive,2025-04-06,A1,Campaign,Data Science
+373,New Lead,2025-04-01,A2,Website,Data Science
+373,Contacted,2025-04-02,A2,Website,Data Science
+373,Demo Given,2025-04-03,A2,Website,Data Science
+374,New Lead,2025-04-01,A2,Campaign,B.Tech
+374,Contacted,2025-04-02,A2,Campaign,B.Tech
+374,Demo Given,2025-04-03,A2,Campaign,B.Tech
+374,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+375,New Lead,2025-04-01,A2,Campaign,MBA
+375,Contacted,2025-04-02,A2,Campaign,MBA
+375,Demo Given,2025-04-03,A2,Campaign,MBA
+375,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+376,New Lead,2025-04-01,A3,Website,Data Science
+376,Contacted,2025-04-02,A3,Website,Data Science
+376,Demo Given,2025-04-03,A3,Website,Data Science
+377,New Lead,2025-04-01,A3,Referral,B.Tech
+377,Contacted,2025-04-02,A3,Referral,B.Tech
+377,Demo Given,2025-04-03,A3,Referral,B.Tech
+377,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+377,Registered,2025-04-05,A3,Referral,B.Tech
+378,New Lead,2025-04-01,A1,Campaign,Data Science
+378,Contacted,2025-04-02,A1,Campaign,Data Science
+378,Demo Given,2025-04-03,A1,Campaign,Data Science
+378,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+378,Registered,2025-04-05,A1,Campaign,Data Science
+378,Dropped / Inactive,2025-04-06,A1,Campaign,Data Science
+379,New Lead,2025-04-01,A2,Website,Data Science
+379,Contacted,2025-04-02,A2,Website,Data Science
+379,Demo Given,2025-04-03,A2,Website,Data Science
+379,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+379,Registered,2025-04-05,A2,Website,Data Science
+380,New Lead,2025-04-01,A3,Website,MBA
+380,Contacted,2025-04-02,A3,Website,MBA
+381,New Lead,2025-04-01,A3,Referral,Data Science
+381,Contacted,2025-04-02,A3,Referral,Data Science
+382,New Lead,2025-04-01,A2,Website,B.Tech
+382,Contacted,2025-04-02,A2,Website,B.Tech
+382,Demo Given,2025-04-03,A2,Website,B.Tech
+382,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+382,Registered,2025-04-05,A2,Website,B.Tech
+382,Dropped / Inactive,2025-04-06,A2,Website,B.Tech
+383,New Lead,2025-04-01,A2,Campaign,MBA
+383,Contacted,2025-04-02,A2,Campaign,MBA
+383,Demo Given,2025-04-03,A2,Campaign,MBA
+383,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+383,Registered,2025-04-05,A2,Campaign,MBA
+384,New Lead,2025-04-01,A2,Campaign,Data Science
+384,Contacted,2025-04-02,A2,Campaign,Data Science
+385,New Lead,2025-04-01,A1,Website,MBA
+385,Contacted,2025-04-02,A1,Website,MBA
+386,New Lead,2025-04-01,A3,Website,Data Science
+386,Contacted,2025-04-02,A3,Website,Data Science
+386,Demo Given,2025-04-03,A3,Website,Data Science
+386,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+386,Registered,2025-04-05,A3,Website,Data Science
+387,New Lead,2025-04-01,A3,Campaign,Data Science
+387,Contacted,2025-04-02,A3,Campaign,Data Science
+387,Demo Given,2025-04-03,A3,Campaign,Data Science
+387,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+387,Registered,2025-04-05,A3,Campaign,Data Science
+387,Dropped / Inactive,2025-04-06,A3,Campaign,Data Science
+388,New Lead,2025-04-01,A1,Referral,MBA
+388,Contacted,2025-04-02,A1,Referral,MBA
+388,Demo Given,2025-04-03,A1,Referral,MBA
+388,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+389,New Lead,2025-04-01,A2,Website,MBA
+389,Contacted,2025-04-02,A2,Website,MBA
+390,New Lead,2025-04-01,A3,Referral,Data Science
+390,Contacted,2025-04-02,A3,Referral,Data Science
+390,Demo Given,2025-04-03,A3,Referral,Data Science
+390,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+390,Registered,2025-04-05,A3,Referral,Data Science
+390,Dropped / Inactive,2025-04-06,A3,Referral,Data Science
+391,New Lead,2025-04-01,A3,Website,MBA
+391,Contacted,2025-04-02,A3,Website,MBA
+391,Demo Given,2025-04-03,A3,Website,MBA
+392,New Lead,2025-04-01,A3,Campaign,Data Science
+392,Contacted,2025-04-02,A3,Campaign,Data Science
+392,Demo Given,2025-04-03,A3,Campaign,Data Science
+393,New Lead,2025-04-01,A1,Website,MBA
+393,Contacted,2025-04-02,A1,Website,MBA
+393,Demo Given,2025-04-03,A1,Website,MBA
+393,Follow-up in Progress,2025-04-04,A1,Website,MBA
+394,New Lead,2025-04-01,A2,Website,Data Science
+394,Contacted,2025-04-02,A2,Website,Data Science
+395,New Lead,2025-04-01,A1,Referral,MBA
+395,Contacted,2025-04-02,A1,Referral,MBA
+396,New Lead,2025-04-01,A1,Referral,MBA
+396,Contacted,2025-04-02,A1,Referral,MBA
+396,Demo Given,2025-04-03,A1,Referral,MBA
+396,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+397,New Lead,2025-04-01,A2,Campaign,MBA
+397,Contacted,2025-04-02,A2,Campaign,MBA
+398,New Lead,2025-04-01,A3,Referral,MBA
+398,Contacted,2025-04-02,A3,Referral,MBA
+398,Demo Given,2025-04-03,A3,Referral,MBA
+398,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+398,Registered,2025-04-05,A3,Referral,MBA
+398,Dropped / Inactive,2025-04-06,A3,Referral,MBA
+399,New Lead,2025-04-01,A1,Referral,Data Science
+399,Contacted,2025-04-02,A1,Referral,Data Science
+400,New Lead,2025-04-01,A2,Website,MBA
+400,Contacted,2025-04-02,A2,Website,MBA
+400,Demo Given,2025-04-03,A2,Website,MBA
+400,Follow-up in Progress,2025-04-04,A2,Website,MBA
+401,New Lead,2025-04-01,A1,Referral,B.Tech
+401,Contacted,2025-04-02,A1,Referral,B.Tech
+401,Demo Given,2025-04-03,A1,Referral,B.Tech
+401,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+401,Registered,2025-04-05,A1,Referral,B.Tech
+402,New Lead,2025-04-01,A1,Website,B.Tech
+402,Contacted,2025-04-02,A1,Website,B.Tech
+403,New Lead,2025-04-01,A2,Campaign,Data Science
+403,Contacted,2025-04-02,A2,Campaign,Data Science
+404,New Lead,2025-04-01,A1,Referral,B.Tech
+404,Contacted,2025-04-02,A1,Referral,B.Tech
+404,Demo Given,2025-04-03,A1,Referral,B.Tech
+405,New Lead,2025-04-01,A3,Campaign,B.Tech
+405,Contacted,2025-04-02,A3,Campaign,B.Tech
+405,Demo Given,2025-04-03,A3,Campaign,B.Tech
+405,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+405,Registered,2025-04-05,A3,Campaign,B.Tech
+405,Dropped / Inactive,2025-04-06,A3,Campaign,B.Tech
+406,New Lead,2025-04-01,A2,Campaign,MBA
+406,Contacted,2025-04-02,A2,Campaign,MBA
+406,Demo Given,2025-04-03,A2,Campaign,MBA
+406,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+406,Registered,2025-04-05,A2,Campaign,MBA
+406,Dropped / Inactive,2025-04-06,A2,Campaign,MBA
+407,New Lead,2025-04-01,A1,Website,Data Science
+407,Contacted,2025-04-02,A1,Website,Data Science
+408,New Lead,2025-04-01,A2,Website,MBA
+408,Contacted,2025-04-02,A2,Website,MBA
+408,Demo Given,2025-04-03,A2,Website,MBA
+408,Follow-up in Progress,2025-04-04,A2,Website,MBA
+408,Registered,2025-04-05,A2,Website,MBA
+408,Dropped / Inactive,2025-04-06,A2,Website,MBA
+409,New Lead,2025-04-01,A3,Campaign,B.Tech
+409,Contacted,2025-04-02,A3,Campaign,B.Tech
+409,Demo Given,2025-04-03,A3,Campaign,B.Tech
+410,New Lead,2025-04-01,A3,Website,Data Science
+410,Contacted,2025-04-02,A3,Website,Data Science
+411,New Lead,2025-04-01,A2,Referral,Data Science
+411,Contacted,2025-04-02,A2,Referral,Data Science
+411,Demo Given,2025-04-03,A2,Referral,Data Science
+411,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+412,New Lead,2025-04-01,A3,Website,Data Science
+412,Contacted,2025-04-02,A3,Website,Data Science
+412,Demo Given,2025-04-03,A3,Website,Data Science
+412,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+413,New Lead,2025-04-01,A1,Website,Data Science
+413,Contacted,2025-04-02,A1,Website,Data Science
+413,Demo Given,2025-04-03,A1,Website,Data Science
+414,New Lead,2025-04-01,A3,Referral,MBA
+414,Contacted,2025-04-02,A3,Referral,MBA
+414,Demo Given,2025-04-03,A3,Referral,MBA
+414,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+414,Registered,2025-04-05,A3,Referral,MBA
+415,New Lead,2025-04-01,A3,Website,B.Tech
+415,Contacted,2025-04-02,A3,Website,B.Tech
+415,Demo Given,2025-04-03,A3,Website,B.Tech
+415,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+415,Registered,2025-04-05,A3,Website,B.Tech
+415,Dropped / Inactive,2025-04-06,A3,Website,B.Tech
+416,New Lead,2025-04-01,A2,Website,B.Tech
+416,Contacted,2025-04-02,A2,Website,B.Tech
+416,Demo Given,2025-04-03,A2,Website,B.Tech
+417,New Lead,2025-04-01,A2,Referral,Data Science
+417,Contacted,2025-04-02,A2,Referral,Data Science
+417,Demo Given,2025-04-03,A2,Referral,Data Science
+418,New Lead,2025-04-01,A2,Campaign,Data Science
+418,Contacted,2025-04-02,A2,Campaign,Data Science
+418,Demo Given,2025-04-03,A2,Campaign,Data Science
+418,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+418,Registered,2025-04-05,A2,Campaign,Data Science
+418,Dropped / Inactive,2025-04-06,A2,Campaign,Data Science
+419,New Lead,2025-04-01,A3,Campaign,Data Science
+419,Contacted,2025-04-02,A3,Campaign,Data Science
+419,Demo Given,2025-04-03,A3,Campaign,Data Science
+419,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+420,New Lead,2025-04-01,A1,Website,Data Science
+420,Contacted,2025-04-02,A1,Website,Data Science
+420,Demo Given,2025-04-03,A1,Website,Data Science
+421,New Lead,2025-04-01,A1,Referral,MBA
+421,Contacted,2025-04-02,A1,Referral,MBA
+421,Demo Given,2025-04-03,A1,Referral,MBA
+421,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+422,New Lead,2025-04-01,A2,Referral,MBA
+422,Contacted,2025-04-02,A2,Referral,MBA
+423,New Lead,2025-04-01,A2,Referral,B.Tech
+423,Contacted,2025-04-02,A2,Referral,B.Tech
+423,Demo Given,2025-04-03,A2,Referral,B.Tech
+423,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+423,Registered,2025-04-05,A2,Referral,B.Tech
+423,Dropped / Inactive,2025-04-06,A2,Referral,B.Tech
+424,New Lead,2025-04-01,A1,Campaign,MBA
+424,Contacted,2025-04-02,A1,Campaign,MBA
+424,Demo Given,2025-04-03,A1,Campaign,MBA
+424,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+424,Registered,2025-04-05,A1,Campaign,MBA
+425,New Lead,2025-04-01,A3,Website,MBA
+425,Contacted,2025-04-02,A3,Website,MBA
+426,New Lead,2025-04-01,A2,Campaign,Data Science
+426,Contacted,2025-04-02,A2,Campaign,Data Science
+426,Demo Given,2025-04-03,A2,Campaign,Data Science
+427,New Lead,2025-04-01,A3,Campaign,MBA
+427,Contacted,2025-04-02,A3,Campaign,MBA
+427,Demo Given,2025-04-03,A3,Campaign,MBA
+427,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+427,Registered,2025-04-05,A3,Campaign,MBA
+427,Dropped / Inactive,2025-04-06,A3,Campaign,MBA
+428,New Lead,2025-04-01,A3,Referral,Data Science
+428,Contacted,2025-04-02,A3,Referral,Data Science
+428,Demo Given,2025-04-03,A3,Referral,Data Science
+428,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+428,Registered,2025-04-05,A3,Referral,Data Science
+429,New Lead,2025-04-01,A3,Website,B.Tech
+429,Contacted,2025-04-02,A3,Website,B.Tech
+430,New Lead,2025-04-01,A2,Referral,B.Tech
+430,Contacted,2025-04-02,A2,Referral,B.Tech
+430,Demo Given,2025-04-03,A2,Referral,B.Tech
+430,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+431,New Lead,2025-04-01,A3,Campaign,B.Tech
+431,Contacted,2025-04-02,A3,Campaign,B.Tech
+431,Demo Given,2025-04-03,A3,Campaign,B.Tech
+432,New Lead,2025-04-01,A2,Campaign,MBA
+432,Contacted,2025-04-02,A2,Campaign,MBA
+432,Demo Given,2025-04-03,A2,Campaign,MBA
+432,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+432,Registered,2025-04-05,A2,Campaign,MBA
+432,Dropped / Inactive,2025-04-06,A2,Campaign,MBA
+433,New Lead,2025-04-01,A1,Referral,Data Science
+433,Contacted,2025-04-02,A1,Referral,Data Science
+434,New Lead,2025-04-01,A3,Referral,B.Tech
+434,Contacted,2025-04-02,A3,Referral,B.Tech
+434,Demo Given,2025-04-03,A3,Referral,B.Tech
+434,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+434,Registered,2025-04-05,A3,Referral,B.Tech
+434,Dropped / Inactive,2025-04-06,A3,Referral,B.Tech
+435,New Lead,2025-04-01,A1,Referral,MBA
+435,Contacted,2025-04-02,A1,Referral,MBA
+435,Demo Given,2025-04-03,A1,Referral,MBA
+435,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+435,Registered,2025-04-05,A1,Referral,MBA
+436,New Lead,2025-04-01,A2,Referral,B.Tech
+436,Contacted,2025-04-02,A2,Referral,B.Tech
+436,Demo Given,2025-04-03,A2,Referral,B.Tech
+436,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+437,New Lead,2025-04-01,A1,Campaign,Data Science
+437,Contacted,2025-04-02,A1,Campaign,Data Science
+437,Demo Given,2025-04-03,A1,Campaign,Data Science
+437,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+437,Registered,2025-04-05,A1,Campaign,Data Science
+437,Dropped / Inactive,2025-04-06,A1,Campaign,Data Science
+438,New Lead,2025-04-01,A3,Website,B.Tech
+438,Contacted,2025-04-02,A3,Website,B.Tech
+438,Demo Given,2025-04-03,A3,Website,B.Tech
+438,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+438,Registered,2025-04-05,A3,Website,B.Tech
+439,New Lead,2025-04-01,A2,Referral,Data Science
+439,Contacted,2025-04-02,A2,Referral,Data Science
+439,Demo Given,2025-04-03,A2,Referral,Data Science
+439,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+439,Registered,2025-04-05,A2,Referral,Data Science
+439,Dropped / Inactive,2025-04-06,A2,Referral,Data Science
+440,New Lead,2025-04-01,A3,Referral,Data Science
+440,Contacted,2025-04-02,A3,Referral,Data Science
+440,Demo Given,2025-04-03,A3,Referral,Data Science
+441,New Lead,2025-04-01,A2,Referral,MBA
+441,Contacted,2025-04-02,A2,Referral,MBA
+441,Demo Given,2025-04-03,A2,Referral,MBA
+441,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+441,Registered,2025-04-05,A2,Referral,MBA
+441,Dropped / Inactive,2025-04-06,A2,Referral,MBA
+442,New Lead,2025-04-01,A3,Website,Data Science
+442,Contacted,2025-04-02,A3,Website,Data Science
+442,Demo Given,2025-04-03,A3,Website,Data Science
+442,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+442,Registered,2025-04-05,A3,Website,Data Science
+443,New Lead,2025-04-01,A2,Referral,B.Tech
+443,Contacted,2025-04-02,A2,Referral,B.Tech
+443,Demo Given,2025-04-03,A2,Referral,B.Tech
+443,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+443,Registered,2025-04-05,A2,Referral,B.Tech
+444,New Lead,2025-04-01,A2,Website,Data Science
+444,Contacted,2025-04-02,A2,Website,Data Science
+444,Demo Given,2025-04-03,A2,Website,Data Science
+444,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+444,Registered,2025-04-05,A2,Website,Data Science
+444,Dropped / Inactive,2025-04-06,A2,Website,Data Science
+445,New Lead,2025-04-01,A1,Referral,B.Tech
+445,Contacted,2025-04-02,A1,Referral,B.Tech
+445,Demo Given,2025-04-03,A1,Referral,B.Tech
+446,New Lead,2025-04-01,A3,Referral,Data Science
+446,Contacted,2025-04-02,A3,Referral,Data Science
+446,Demo Given,2025-04-03,A3,Referral,Data Science
+446,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+446,Registered,2025-04-05,A3,Referral,Data Science
+447,New Lead,2025-04-01,A1,Campaign,B.Tech
+447,Contacted,2025-04-02,A1,Campaign,B.Tech
+447,Demo Given,2025-04-03,A1,Campaign,B.Tech
+447,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+447,Registered,2025-04-05,A1,Campaign,B.Tech
+448,New Lead,2025-04-01,A2,Referral,Data Science
+448,Contacted,2025-04-02,A2,Referral,Data Science
+449,New Lead,2025-04-01,A2,Website,MBA
+449,Contacted,2025-04-02,A2,Website,MBA
+450,New Lead,2025-04-01,A3,Campaign,MBA
+450,Contacted,2025-04-02,A3,Campaign,MBA
+450,Demo Given,2025-04-03,A3,Campaign,MBA
+450,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+450,Registered,2025-04-05,A3,Campaign,MBA
+450,Dropped / Inactive,2025-04-06,A3,Campaign,MBA
+451,New Lead,2025-04-01,A1,Campaign,B.Tech
+451,Contacted,2025-04-02,A1,Campaign,B.Tech
+451,Demo Given,2025-04-03,A1,Campaign,B.Tech
+451,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+451,Registered,2025-04-05,A1,Campaign,B.Tech
+451,Dropped / Inactive,2025-04-06,A1,Campaign,B.Tech
+452,New Lead,2025-04-01,A1,Website,MBA
+452,Contacted,2025-04-02,A1,Website,MBA
+452,Demo Given,2025-04-03,A1,Website,MBA
+453,New Lead,2025-04-01,A2,Referral,B.Tech
+453,Contacted,2025-04-02,A2,Referral,B.Tech
+453,Demo Given,2025-04-03,A2,Referral,B.Tech
+453,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+454,New Lead,2025-04-01,A1,Website,Data Science
+454,Contacted,2025-04-02,A1,Website,Data Science
+454,Demo Given,2025-04-03,A1,Website,Data Science
+454,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+454,Registered,2025-04-05,A1,Website,Data Science
+455,New Lead,2025-04-01,A2,Website,B.Tech
+455,Contacted,2025-04-02,A2,Website,B.Tech
+455,Demo Given,2025-04-03,A2,Website,B.Tech
+455,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+456,New Lead,2025-04-01,A1,Website,Data Science
+456,Contacted,2025-04-02,A1,Website,Data Science
+456,Demo Given,2025-04-03,A1,Website,Data Science
+456,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+456,Registered,2025-04-05,A1,Website,Data Science
+457,New Lead,2025-04-01,A1,Campaign,MBA
+457,Contacted,2025-04-02,A1,Campaign,MBA
+457,Demo Given,2025-04-03,A1,Campaign,MBA
+457,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+457,Registered,2025-04-05,A1,Campaign,MBA
+458,New Lead,2025-04-01,A1,Campaign,Data Science
+458,Contacted,2025-04-02,A1,Campaign,Data Science
+459,New Lead,2025-04-01,A1,Website,MBA
+459,Contacted,2025-04-02,A1,Website,MBA
+460,New Lead,2025-04-01,A1,Campaign,MBA
+460,Contacted,2025-04-02,A1,Campaign,MBA
+460,Demo Given,2025-04-03,A1,Campaign,MBA
+461,New Lead,2025-04-01,A2,Referral,MBA
+461,Contacted,2025-04-02,A2,Referral,MBA
+461,Demo Given,2025-04-03,A2,Referral,MBA
+462,New Lead,2025-04-01,A2,Referral,MBA
+462,Contacted,2025-04-02,A2,Referral,MBA
+462,Demo Given,2025-04-03,A2,Referral,MBA
+463,New Lead,2025-04-01,A3,Website,B.Tech
+463,Contacted,2025-04-02,A3,Website,B.Tech
+463,Demo Given,2025-04-03,A3,Website,B.Tech
+463,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+463,Registered,2025-04-05,A3,Website,B.Tech
+463,Dropped / Inactive,2025-04-06,A3,Website,B.Tech
+464,New Lead,2025-04-01,A3,Referral,MBA
+464,Contacted,2025-04-02,A3,Referral,MBA
+465,New Lead,2025-04-01,A2,Website,B.Tech
+465,Contacted,2025-04-02,A2,Website,B.Tech
+466,New Lead,2025-04-01,A2,Campaign,MBA
+466,Contacted,2025-04-02,A2,Campaign,MBA
+466,Demo Given,2025-04-03,A2,Campaign,MBA
+466,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+466,Registered,2025-04-05,A2,Campaign,MBA
+467,New Lead,2025-04-01,A2,Referral,B.Tech
+467,Contacted,2025-04-02,A2,Referral,B.Tech
+467,Demo Given,2025-04-03,A2,Referral,B.Tech
+467,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+468,New Lead,2025-04-01,A2,Campaign,MBA
+468,Contacted,2025-04-02,A2,Campaign,MBA
+468,Demo Given,2025-04-03,A2,Campaign,MBA
+469,New Lead,2025-04-01,A3,Referral,B.Tech
+469,Contacted,2025-04-02,A3,Referral,B.Tech
+470,New Lead,2025-04-01,A2,Campaign,B.Tech
+470,Contacted,2025-04-02,A2,Campaign,B.Tech
+470,Demo Given,2025-04-03,A2,Campaign,B.Tech
+471,New Lead,2025-04-01,A2,Referral,Data Science
+471,Contacted,2025-04-02,A2,Referral,Data Science
+472,New Lead,2025-04-01,A1,Referral,MBA
+472,Contacted,2025-04-02,A1,Referral,MBA
+472,Demo Given,2025-04-03,A1,Referral,MBA
+472,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+473,New Lead,2025-04-01,A3,Campaign,Data Science
+473,Contacted,2025-04-02,A3,Campaign,Data Science
+473,Demo Given,2025-04-03,A3,Campaign,Data Science
+473,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+473,Registered,2025-04-05,A3,Campaign,Data Science
+473,Dropped / Inactive,2025-04-06,A3,Campaign,Data Science
+474,New Lead,2025-04-01,A3,Website,B.Tech
+474,Contacted,2025-04-02,A3,Website,B.Tech
+474,Demo Given,2025-04-03,A3,Website,B.Tech
+474,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+475,New Lead,2025-04-01,A2,Campaign,MBA
+475,Contacted,2025-04-02,A2,Campaign,MBA
+475,Demo Given,2025-04-03,A2,Campaign,MBA
+475,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+476,New Lead,2025-04-01,A2,Website,Data Science
+476,Contacted,2025-04-02,A2,Website,Data Science
+476,Demo Given,2025-04-03,A2,Website,Data Science
+476,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+477,New Lead,2025-04-01,A3,Campaign,B.Tech
+477,Contacted,2025-04-02,A3,Campaign,B.Tech
+477,Demo Given,2025-04-03,A3,Campaign,B.Tech
+477,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+478,New Lead,2025-04-01,A1,Website,MBA
+478,Contacted,2025-04-02,A1,Website,MBA
+479,New Lead,2025-04-01,A3,Website,MBA
+479,Contacted,2025-04-02,A3,Website,MBA
+479,Demo Given,2025-04-03,A3,Website,MBA
+479,Follow-up in Progress,2025-04-04,A3,Website,MBA
+479,Registered,2025-04-05,A3,Website,MBA
+479,Dropped / Inactive,2025-04-06,A3,Website,MBA
+480,New Lead,2025-04-01,A3,Campaign,Data Science
+480,Contacted,2025-04-02,A3,Campaign,Data Science
+480,Demo Given,2025-04-03,A3,Campaign,Data Science
+480,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+480,Registered,2025-04-05,A3,Campaign,Data Science
+481,New Lead,2025-04-01,A1,Campaign,MBA
+481,Contacted,2025-04-02,A1,Campaign,MBA
+482,New Lead,2025-04-01,A3,Website,MBA
+482,Contacted,2025-04-02,A3,Website,MBA
+482,Demo Given,2025-04-03,A3,Website,MBA
+482,Follow-up in Progress,2025-04-04,A3,Website,MBA
+482,Registered,2025-04-05,A3,Website,MBA
+482,Dropped / Inactive,2025-04-06,A3,Website,MBA
+483,New Lead,2025-04-01,A2,Campaign,B.Tech
+483,Contacted,2025-04-02,A2,Campaign,B.Tech
+483,Demo Given,2025-04-03,A2,Campaign,B.Tech
+484,New Lead,2025-04-01,A2,Referral,MBA
+484,Contacted,2025-04-02,A2,Referral,MBA
+484,Demo Given,2025-04-03,A2,Referral,MBA
+484,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+485,New Lead,2025-04-01,A3,Campaign,MBA
+485,Contacted,2025-04-02,A3,Campaign,MBA
+485,Demo Given,2025-04-03,A3,Campaign,MBA
+485,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+485,Registered,2025-04-05,A3,Campaign,MBA
+485,Dropped / Inactive,2025-04-06,A3,Campaign,MBA
+486,New Lead,2025-04-01,A3,Website,MBA
+486,Contacted,2025-04-02,A3,Website,MBA
+486,Demo Given,2025-04-03,A3,Website,MBA
+486,Follow-up in Progress,2025-04-04,A3,Website,MBA
+486,Registered,2025-04-05,A3,Website,MBA
+486,Dropped / Inactive,2025-04-06,A3,Website,MBA
+487,New Lead,2025-04-01,A3,Website,B.Tech
+487,Contacted,2025-04-02,A3,Website,B.Tech
+487,Demo Given,2025-04-03,A3,Website,B.Tech
+488,New Lead,2025-04-01,A2,Referral,MBA
+488,Contacted,2025-04-02,A2,Referral,MBA
+488,Demo Given,2025-04-03,A2,Referral,MBA
+488,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+488,Registered,2025-04-05,A2,Referral,MBA
+489,New Lead,2025-04-01,A2,Campaign,MBA
+489,Contacted,2025-04-02,A2,Campaign,MBA
+489,Demo Given,2025-04-03,A2,Campaign,MBA
+489,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+489,Registered,2025-04-05,A2,Campaign,MBA
+489,Dropped / Inactive,2025-04-06,A2,Campaign,MBA
+490,New Lead,2025-04-01,A1,Campaign,Data Science
+490,Contacted,2025-04-02,A1,Campaign,Data Science
+491,New Lead,2025-04-01,A2,Campaign,Data Science
+491,Contacted,2025-04-02,A2,Campaign,Data Science
+492,New Lead,2025-04-01,A2,Referral,MBA
+492,Contacted,2025-04-02,A2,Referral,MBA
+493,New Lead,2025-04-01,A3,Website,Data Science
+493,Contacted,2025-04-02,A3,Website,Data Science
+493,Demo Given,2025-04-03,A3,Website,Data Science
+493,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+493,Registered,2025-04-05,A3,Website,Data Science
+494,New Lead,2025-04-01,A2,Referral,Data Science
+494,Contacted,2025-04-02,A2,Referral,Data Science
+494,Demo Given,2025-04-03,A2,Referral,Data Science
+494,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+494,Registered,2025-04-05,A2,Referral,Data Science
+494,Dropped / Inactive,2025-04-06,A2,Referral,Data Science
+495,New Lead,2025-04-01,A3,Website,Data Science
+495,Contacted,2025-04-02,A3,Website,Data Science
+495,Demo Given,2025-04-03,A3,Website,Data Science
+495,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+496,New Lead,2025-04-01,A2,Referral,MBA
+496,Contacted,2025-04-02,A2,Referral,MBA
+496,Demo Given,2025-04-03,A2,Referral,MBA
+497,New Lead,2025-04-01,A1,Campaign,MBA
+497,Contacted,2025-04-02,A1,Campaign,MBA
+498,New Lead,2025-04-01,A1,Website,B.Tech
+498,Contacted,2025-04-02,A1,Website,B.Tech
+498,Demo Given,2025-04-03,A1,Website,B.Tech
+498,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+498,Registered,2025-04-05,A1,Website,B.Tech
+499,New Lead,2025-04-01,A1,Website,MBA
+499,Contacted,2025-04-02,A1,Website,MBA
+499,Demo Given,2025-04-03,A1,Website,MBA
+499,Follow-up in Progress,2025-04-04,A1,Website,MBA
+499,Registered,2025-04-05,A1,Website,MBA
+500,New Lead,2025-04-01,A1,Referral,Data Science
+500,Contacted,2025-04-02,A1,Referral,Data Science
+500,Demo Given,2025-04-03,A1,Referral,Data Science
+500,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+500,Registered,2025-04-05,A1,Referral,Data Science
+500,Dropped / Inactive,2025-04-06,A1,Referral,Data Science
+501,New Lead,2025-04-01,A1,Website,Data Science
+501,Contacted,2025-04-02,A1,Website,Data Science
+501,Demo Given,2025-04-03,A1,Website,Data Science
+501,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+501,Registered,2025-04-05,A1,Website,Data Science
+502,New Lead,2025-04-01,A3,Referral,MBA
+502,Contacted,2025-04-02,A3,Referral,MBA
+502,Demo Given,2025-04-03,A3,Referral,MBA
+502,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+502,Registered,2025-04-05,A3,Referral,MBA
+503,New Lead,2025-04-01,A3,Website,MBA
+503,Contacted,2025-04-02,A3,Website,MBA
+503,Demo Given,2025-04-03,A3,Website,MBA
+504,New Lead,2025-04-01,A1,Referral,Data Science
+504,Contacted,2025-04-02,A1,Referral,Data Science
+504,Demo Given,2025-04-03,A1,Referral,Data Science
+504,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+504,Registered,2025-04-05,A1,Referral,Data Science
+505,New Lead,2025-04-01,A2,Website,Data Science
+505,Contacted,2025-04-02,A2,Website,Data Science
+505,Demo Given,2025-04-03,A2,Website,Data Science
+505,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+506,New Lead,2025-04-01,A2,Website,Data Science
+506,Contacted,2025-04-02,A2,Website,Data Science
+506,Demo Given,2025-04-03,A2,Website,Data Science
+506,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+507,New Lead,2025-04-01,A1,Website,Data Science
+507,Contacted,2025-04-02,A1,Website,Data Science
+507,Demo Given,2025-04-03,A1,Website,Data Science
+507,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+508,New Lead,2025-04-01,A2,Campaign,Data Science
+508,Contacted,2025-04-02,A2,Campaign,Data Science
+508,Demo Given,2025-04-03,A2,Campaign,Data Science
+509,New Lead,2025-04-01,A3,Referral,MBA
+509,Contacted,2025-04-02,A3,Referral,MBA
+509,Demo Given,2025-04-03,A3,Referral,MBA
+510,New Lead,2025-04-01,A1,Campaign,Data Science
+510,Contacted,2025-04-02,A1,Campaign,Data Science
+511,New Lead,2025-04-01,A3,Referral,B.Tech
+511,Contacted,2025-04-02,A3,Referral,B.Tech
+511,Demo Given,2025-04-03,A3,Referral,B.Tech
+511,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+512,New Lead,2025-04-01,A2,Referral,MBA
+512,Contacted,2025-04-02,A2,Referral,MBA
+512,Demo Given,2025-04-03,A2,Referral,MBA
+512,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+512,Registered,2025-04-05,A2,Referral,MBA
+513,New Lead,2025-04-01,A3,Campaign,Data Science
+513,Contacted,2025-04-02,A3,Campaign,Data Science
+513,Demo Given,2025-04-03,A3,Campaign,Data Science
+513,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+513,Registered,2025-04-05,A3,Campaign,Data Science
+514,New Lead,2025-04-01,A2,Campaign,B.Tech
+514,Contacted,2025-04-02,A2,Campaign,B.Tech
+514,Demo Given,2025-04-03,A2,Campaign,B.Tech
+515,New Lead,2025-04-01,A1,Website,B.Tech
+515,Contacted,2025-04-02,A1,Website,B.Tech
+515,Demo Given,2025-04-03,A1,Website,B.Tech
+515,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+515,Registered,2025-04-05,A1,Website,B.Tech
+515,Dropped / Inactive,2025-04-06,A1,Website,B.Tech
+516,New Lead,2025-04-01,A2,Website,B.Tech
+516,Contacted,2025-04-02,A2,Website,B.Tech
+516,Demo Given,2025-04-03,A2,Website,B.Tech
+517,New Lead,2025-04-01,A1,Referral,B.Tech
+517,Contacted,2025-04-02,A1,Referral,B.Tech
+517,Demo Given,2025-04-03,A1,Referral,B.Tech
+518,New Lead,2025-04-01,A3,Campaign,MBA
+518,Contacted,2025-04-02,A3,Campaign,MBA
+518,Demo Given,2025-04-03,A3,Campaign,MBA
+519,New Lead,2025-04-01,A2,Website,MBA
+519,Contacted,2025-04-02,A2,Website,MBA
+520,New Lead,2025-04-01,A3,Website,MBA
+520,Contacted,2025-04-02,A3,Website,MBA
+520,Demo Given,2025-04-03,A3,Website,MBA
+520,Follow-up in Progress,2025-04-04,A3,Website,MBA
+520,Registered,2025-04-05,A3,Website,MBA
+521,New Lead,2025-04-01,A1,Website,B.Tech
+521,Contacted,2025-04-02,A1,Website,B.Tech
+521,Demo Given,2025-04-03,A1,Website,B.Tech
+521,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+521,Registered,2025-04-05,A1,Website,B.Tech
+521,Dropped / Inactive,2025-04-06,A1,Website,B.Tech
+522,New Lead,2025-04-01,A1,Website,MBA
+522,Contacted,2025-04-02,A1,Website,MBA
+522,Demo Given,2025-04-03,A1,Website,MBA
+522,Follow-up in Progress,2025-04-04,A1,Website,MBA
+522,Registered,2025-04-05,A1,Website,MBA
+523,New Lead,2025-04-01,A2,Campaign,MBA
+523,Contacted,2025-04-02,A2,Campaign,MBA
+524,New Lead,2025-04-01,A1,Website,Data Science
+524,Contacted,2025-04-02,A1,Website,Data Science
+524,Demo Given,2025-04-03,A1,Website,Data Science
+524,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+524,Registered,2025-04-05,A1,Website,Data Science
+524,Dropped / Inactive,2025-04-06,A1,Website,Data Science
+525,New Lead,2025-04-01,A1,Website,Data Science
+525,Contacted,2025-04-02,A1,Website,Data Science
+526,New Lead,2025-04-01,A3,Campaign,Data Science
+526,Contacted,2025-04-02,A3,Campaign,Data Science
+526,Demo Given,2025-04-03,A3,Campaign,Data Science
+526,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+526,Registered,2025-04-05,A3,Campaign,Data Science
+527,New Lead,2025-04-01,A2,Referral,MBA
+527,Contacted,2025-04-02,A2,Referral,MBA
+527,Demo Given,2025-04-03,A2,Referral,MBA
+528,New Lead,2025-04-01,A2,Website,Data Science
+528,Contacted,2025-04-02,A2,Website,Data Science
+528,Demo Given,2025-04-03,A2,Website,Data Science
+528,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+529,New Lead,2025-04-01,A1,Referral,Data Science
+529,Contacted,2025-04-02,A1,Referral,Data Science
+530,New Lead,2025-04-01,A1,Referral,Data Science
+530,Contacted,2025-04-02,A1,Referral,Data Science
+530,Demo Given,2025-04-03,A1,Referral,Data Science
+530,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+530,Registered,2025-04-05,A1,Referral,Data Science
+531,New Lead,2025-04-01,A2,Referral,B.Tech
+531,Contacted,2025-04-02,A2,Referral,B.Tech
+531,Demo Given,2025-04-03,A2,Referral,B.Tech
+531,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+531,Registered,2025-04-05,A2,Referral,B.Tech
+531,Dropped / Inactive,2025-04-06,A2,Referral,B.Tech
+532,New Lead,2025-04-01,A3,Website,Data Science
+532,Contacted,2025-04-02,A3,Website,Data Science
+533,New Lead,2025-04-01,A1,Website,B.Tech
+533,Contacted,2025-04-02,A1,Website,B.Tech
+533,Demo Given,2025-04-03,A1,Website,B.Tech
+533,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+533,Registered,2025-04-05,A1,Website,B.Tech
+534,New Lead,2025-04-01,A2,Campaign,B.Tech
+534,Contacted,2025-04-02,A2,Campaign,B.Tech
+534,Demo Given,2025-04-03,A2,Campaign,B.Tech
+534,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+535,New Lead,2025-04-01,A2,Campaign,MBA
+535,Contacted,2025-04-02,A2,Campaign,MBA
+535,Demo Given,2025-04-03,A2,Campaign,MBA
+536,New Lead,2025-04-01,A2,Website,B.Tech
+536,Contacted,2025-04-02,A2,Website,B.Tech
+536,Demo Given,2025-04-03,A2,Website,B.Tech
+536,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+536,Registered,2025-04-05,A2,Website,B.Tech
+536,Dropped / Inactive,2025-04-06,A2,Website,B.Tech
+537,New Lead,2025-04-01,A2,Campaign,MBA
+537,Contacted,2025-04-02,A2,Campaign,MBA
+537,Demo Given,2025-04-03,A2,Campaign,MBA
+537,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+537,Registered,2025-04-05,A2,Campaign,MBA
+538,New Lead,2025-04-01,A1,Website,MBA
+538,Contacted,2025-04-02,A1,Website,MBA
+539,New Lead,2025-04-01,A1,Campaign,Data Science
+539,Contacted,2025-04-02,A1,Campaign,Data Science
+539,Demo Given,2025-04-03,A1,Campaign,Data Science
+539,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+539,Registered,2025-04-05,A1,Campaign,Data Science
+540,New Lead,2025-04-01,A3,Referral,B.Tech
+540,Contacted,2025-04-02,A3,Referral,B.Tech
+540,Demo Given,2025-04-03,A3,Referral,B.Tech
+541,New Lead,2025-04-01,A3,Referral,Data Science
+541,Contacted,2025-04-02,A3,Referral,Data Science
+541,Demo Given,2025-04-03,A3,Referral,Data Science
+541,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+541,Registered,2025-04-05,A3,Referral,Data Science
+541,Dropped / Inactive,2025-04-06,A3,Referral,Data Science
+542,New Lead,2025-04-01,A3,Referral,B.Tech
+542,Contacted,2025-04-02,A3,Referral,B.Tech
+542,Demo Given,2025-04-03,A3,Referral,B.Tech
+542,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+542,Registered,2025-04-05,A3,Referral,B.Tech
+542,Dropped / Inactive,2025-04-06,A3,Referral,B.Tech
+543,New Lead,2025-04-01,A3,Website,B.Tech
+543,Contacted,2025-04-02,A3,Website,B.Tech
+543,Demo Given,2025-04-03,A3,Website,B.Tech
+543,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+544,New Lead,2025-04-01,A3,Website,Data Science
+544,Contacted,2025-04-02,A3,Website,Data Science
+544,Demo Given,2025-04-03,A3,Website,Data Science
+544,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+545,New Lead,2025-04-01,A2,Campaign,Data Science
+545,Contacted,2025-04-02,A2,Campaign,Data Science
+545,Demo Given,2025-04-03,A2,Campaign,Data Science
+545,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+545,Registered,2025-04-05,A2,Campaign,Data Science
+546,New Lead,2025-04-01,A1,Campaign,B.Tech
+546,Contacted,2025-04-02,A1,Campaign,B.Tech
+546,Demo Given,2025-04-03,A1,Campaign,B.Tech
+546,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+546,Registered,2025-04-05,A1,Campaign,B.Tech
+546,Dropped / Inactive,2025-04-06,A1,Campaign,B.Tech
+547,New Lead,2025-04-01,A3,Referral,MBA
+547,Contacted,2025-04-02,A3,Referral,MBA
+547,Demo Given,2025-04-03,A3,Referral,MBA
+547,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+547,Registered,2025-04-05,A3,Referral,MBA
+548,New Lead,2025-04-01,A2,Campaign,MBA
+548,Contacted,2025-04-02,A2,Campaign,MBA
+549,New Lead,2025-04-01,A1,Campaign,Data Science
+549,Contacted,2025-04-02,A1,Campaign,Data Science
+549,Demo Given,2025-04-03,A1,Campaign,Data Science
+549,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+550,New Lead,2025-04-01,A3,Referral,MBA
+550,Contacted,2025-04-02,A3,Referral,MBA
+550,Demo Given,2025-04-03,A3,Referral,MBA
+550,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+550,Registered,2025-04-05,A3,Referral,MBA
+550,Dropped / Inactive,2025-04-06,A3,Referral,MBA
+551,New Lead,2025-04-01,A3,Referral,B.Tech
+551,Contacted,2025-04-02,A3,Referral,B.Tech
+552,New Lead,2025-04-01,A2,Website,MBA
+552,Contacted,2025-04-02,A2,Website,MBA
+552,Demo Given,2025-04-03,A2,Website,MBA
+552,Follow-up in Progress,2025-04-04,A2,Website,MBA
+552,Registered,2025-04-05,A2,Website,MBA
+553,New Lead,2025-04-01,A2,Referral,MBA
+553,Contacted,2025-04-02,A2,Referral,MBA
+554,New Lead,2025-04-01,A1,Campaign,B.Tech
+554,Contacted,2025-04-02,A1,Campaign,B.Tech
+554,Demo Given,2025-04-03,A1,Campaign,B.Tech
+554,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+555,New Lead,2025-04-01,A1,Referral,MBA
+555,Contacted,2025-04-02,A1,Referral,MBA
+555,Demo Given,2025-04-03,A1,Referral,MBA
+555,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+555,Registered,2025-04-05,A1,Referral,MBA
+555,Dropped / Inactive,2025-04-06,A1,Referral,MBA
+556,New Lead,2025-04-01,A2,Website,MBA
+556,Contacted,2025-04-02,A2,Website,MBA
+557,New Lead,2025-04-01,A3,Campaign,MBA
+557,Contacted,2025-04-02,A3,Campaign,MBA
+558,New Lead,2025-04-01,A1,Campaign,Data Science
+558,Contacted,2025-04-02,A1,Campaign,Data Science
+558,Demo Given,2025-04-03,A1,Campaign,Data Science
+559,New Lead,2025-04-01,A3,Website,MBA
+559,Contacted,2025-04-02,A3,Website,MBA
+559,Demo Given,2025-04-03,A3,Website,MBA
+559,Follow-up in Progress,2025-04-04,A3,Website,MBA
+560,New Lead,2025-04-01,A3,Campaign,Data Science
+560,Contacted,2025-04-02,A3,Campaign,Data Science
+560,Demo Given,2025-04-03,A3,Campaign,Data Science
+561,New Lead,2025-04-01,A3,Campaign,Data Science
+561,Contacted,2025-04-02,A3,Campaign,Data Science
+561,Demo Given,2025-04-03,A3,Campaign,Data Science
+562,New Lead,2025-04-01,A1,Referral,Data Science
+562,Contacted,2025-04-02,A1,Referral,Data Science
+562,Demo Given,2025-04-03,A1,Referral,Data Science
+562,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+563,New Lead,2025-04-01,A2,Website,B.Tech
+563,Contacted,2025-04-02,A2,Website,B.Tech
+563,Demo Given,2025-04-03,A2,Website,B.Tech
+563,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+563,Registered,2025-04-05,A2,Website,B.Tech
+563,Dropped / Inactive,2025-04-06,A2,Website,B.Tech
+564,New Lead,2025-04-01,A1,Campaign,Data Science
+564,Contacted,2025-04-02,A1,Campaign,Data Science
+564,Demo Given,2025-04-03,A1,Campaign,Data Science
+564,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+565,New Lead,2025-04-01,A3,Referral,MBA
+565,Contacted,2025-04-02,A3,Referral,MBA
+566,New Lead,2025-04-01,A2,Website,Data Science
+566,Contacted,2025-04-02,A2,Website,Data Science
+567,New Lead,2025-04-01,A2,Website,MBA
+567,Contacted,2025-04-02,A2,Website,MBA
+567,Demo Given,2025-04-03,A2,Website,MBA
+567,Follow-up in Progress,2025-04-04,A2,Website,MBA
+568,New Lead,2025-04-01,A3,Website,MBA
+568,Contacted,2025-04-02,A3,Website,MBA
+568,Demo Given,2025-04-03,A3,Website,MBA
+568,Follow-up in Progress,2025-04-04,A3,Website,MBA
+569,New Lead,2025-04-01,A2,Campaign,Data Science
+569,Contacted,2025-04-02,A2,Campaign,Data Science
+570,New Lead,2025-04-01,A1,Referral,B.Tech
+570,Contacted,2025-04-02,A1,Referral,B.Tech
+570,Demo Given,2025-04-03,A1,Referral,B.Tech
+570,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+570,Registered,2025-04-05,A1,Referral,B.Tech
+571,New Lead,2025-04-01,A2,Referral,MBA
+571,Contacted,2025-04-02,A2,Referral,MBA
+571,Demo Given,2025-04-03,A2,Referral,MBA
+572,New Lead,2025-04-01,A3,Website,MBA
+572,Contacted,2025-04-02,A3,Website,MBA
+572,Demo Given,2025-04-03,A3,Website,MBA
+572,Follow-up in Progress,2025-04-04,A3,Website,MBA
+572,Registered,2025-04-05,A3,Website,MBA
+573,New Lead,2025-04-01,A1,Website,B.Tech
+573,Contacted,2025-04-02,A1,Website,B.Tech
+574,New Lead,2025-04-01,A1,Referral,MBA
+574,Contacted,2025-04-02,A1,Referral,MBA
+575,New Lead,2025-04-01,A3,Website,Data Science
+575,Contacted,2025-04-02,A3,Website,Data Science
+575,Demo Given,2025-04-03,A3,Website,Data Science
+575,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+575,Registered,2025-04-05,A3,Website,Data Science
+576,New Lead,2025-04-01,A2,Website,B.Tech
+576,Contacted,2025-04-02,A2,Website,B.Tech
+576,Demo Given,2025-04-03,A2,Website,B.Tech
+576,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+576,Registered,2025-04-05,A2,Website,B.Tech
+576,Dropped / Inactive,2025-04-06,A2,Website,B.Tech
+577,New Lead,2025-04-01,A2,Campaign,B.Tech
+577,Contacted,2025-04-02,A2,Campaign,B.Tech
+577,Demo Given,2025-04-03,A2,Campaign,B.Tech
+577,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+577,Registered,2025-04-05,A2,Campaign,B.Tech
+578,New Lead,2025-04-01,A1,Campaign,B.Tech
+578,Contacted,2025-04-02,A1,Campaign,B.Tech
+578,Demo Given,2025-04-03,A1,Campaign,B.Tech
+579,New Lead,2025-04-01,A3,Campaign,MBA
+579,Contacted,2025-04-02,A3,Campaign,MBA
+580,New Lead,2025-04-01,A3,Campaign,B.Tech
+580,Contacted,2025-04-02,A3,Campaign,B.Tech
+580,Demo Given,2025-04-03,A3,Campaign,B.Tech
+580,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+580,Registered,2025-04-05,A3,Campaign,B.Tech
+581,New Lead,2025-04-01,A2,Campaign,Data Science
+581,Contacted,2025-04-02,A2,Campaign,Data Science
+581,Demo Given,2025-04-03,A2,Campaign,Data Science
+581,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+581,Registered,2025-04-05,A2,Campaign,Data Science
+581,Dropped / Inactive,2025-04-06,A2,Campaign,Data Science
+582,New Lead,2025-04-01,A1,Referral,B.Tech
+582,Contacted,2025-04-02,A1,Referral,B.Tech
+583,New Lead,2025-04-01,A3,Campaign,MBA
+583,Contacted,2025-04-02,A3,Campaign,MBA
+584,New Lead,2025-04-01,A3,Website,B.Tech
+584,Contacted,2025-04-02,A3,Website,B.Tech
+584,Demo Given,2025-04-03,A3,Website,B.Tech
+584,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+584,Registered,2025-04-05,A3,Website,B.Tech
+584,Dropped / Inactive,2025-04-06,A3,Website,B.Tech
+585,New Lead,2025-04-01,A3,Referral,MBA
+585,Contacted,2025-04-02,A3,Referral,MBA
+585,Demo Given,2025-04-03,A3,Referral,MBA
+585,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+585,Registered,2025-04-05,A3,Referral,MBA
+585,Dropped / Inactive,2025-04-06,A3,Referral,MBA
+586,New Lead,2025-04-01,A1,Website,MBA
+586,Contacted,2025-04-02,A1,Website,MBA
+586,Demo Given,2025-04-03,A1,Website,MBA
+586,Follow-up in Progress,2025-04-04,A1,Website,MBA
+586,Registered,2025-04-05,A1,Website,MBA
+586,Dropped / Inactive,2025-04-06,A1,Website,MBA
+587,New Lead,2025-04-01,A2,Campaign,MBA
+587,Contacted,2025-04-02,A2,Campaign,MBA
+588,New Lead,2025-04-01,A1,Campaign,MBA
+588,Contacted,2025-04-02,A1,Campaign,MBA
+588,Demo Given,2025-04-03,A1,Campaign,MBA
+588,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+588,Registered,2025-04-05,A1,Campaign,MBA
+588,Dropped / Inactive,2025-04-06,A1,Campaign,MBA
+589,New Lead,2025-04-01,A2,Website,B.Tech
+589,Contacted,2025-04-02,A2,Website,B.Tech
+589,Demo Given,2025-04-03,A2,Website,B.Tech
+590,New Lead,2025-04-01,A1,Campaign,Data Science
+590,Contacted,2025-04-02,A1,Campaign,Data Science
+590,Demo Given,2025-04-03,A1,Campaign,Data Science
+590,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+590,Registered,2025-04-05,A1,Campaign,Data Science
+590,Dropped / Inactive,2025-04-06,A1,Campaign,Data Science
+591,New Lead,2025-04-01,A2,Referral,Data Science
+591,Contacted,2025-04-02,A2,Referral,Data Science
+592,New Lead,2025-04-01,A1,Referral,B.Tech
+592,Contacted,2025-04-02,A1,Referral,B.Tech
+592,Demo Given,2025-04-03,A1,Referral,B.Tech
+592,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+592,Registered,2025-04-05,A1,Referral,B.Tech
+593,New Lead,2025-04-01,A2,Referral,MBA
+593,Contacted,2025-04-02,A2,Referral,MBA
+593,Demo Given,2025-04-03,A2,Referral,MBA
+593,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+593,Registered,2025-04-05,A2,Referral,MBA
+594,New Lead,2025-04-01,A2,Referral,MBA
+594,Contacted,2025-04-02,A2,Referral,MBA
+594,Demo Given,2025-04-03,A2,Referral,MBA
+594,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+595,New Lead,2025-04-01,A2,Referral,B.Tech
+595,Contacted,2025-04-02,A2,Referral,B.Tech
+595,Demo Given,2025-04-03,A2,Referral,B.Tech
+595,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+595,Registered,2025-04-05,A2,Referral,B.Tech
+596,New Lead,2025-04-01,A1,Campaign,B.Tech
+596,Contacted,2025-04-02,A1,Campaign,B.Tech
+597,New Lead,2025-04-01,A2,Campaign,MBA
+597,Contacted,2025-04-02,A2,Campaign,MBA
+597,Demo Given,2025-04-03,A2,Campaign,MBA
+597,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+597,Registered,2025-04-05,A2,Campaign,MBA
+597,Dropped / Inactive,2025-04-06,A2,Campaign,MBA
+598,New Lead,2025-04-01,A3,Campaign,MBA
+598,Contacted,2025-04-02,A3,Campaign,MBA
+598,Demo Given,2025-04-03,A3,Campaign,MBA
+598,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+599,New Lead,2025-04-01,A3,Campaign,Data Science
+599,Contacted,2025-04-02,A3,Campaign,Data Science
+599,Demo Given,2025-04-03,A3,Campaign,Data Science
+599,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+599,Registered,2025-04-05,A3,Campaign,Data Science
+599,Dropped / Inactive,2025-04-06,A3,Campaign,Data Science
+600,New Lead,2025-04-01,A3,Campaign,B.Tech
+600,Contacted,2025-04-02,A3,Campaign,B.Tech
+600,Demo Given,2025-04-03,A3,Campaign,B.Tech
+601,New Lead,2025-04-01,A3,Campaign,MBA
+601,Contacted,2025-04-02,A3,Campaign,MBA
+601,Demo Given,2025-04-03,A3,Campaign,MBA
+601,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+601,Registered,2025-04-05,A3,Campaign,MBA
+602,New Lead,2025-04-01,A2,Campaign,Data Science
+602,Contacted,2025-04-02,A2,Campaign,Data Science
+602,Demo Given,2025-04-03,A2,Campaign,Data Science
+603,New Lead,2025-04-01,A1,Website,MBA
+603,Contacted,2025-04-02,A1,Website,MBA
+604,New Lead,2025-04-01,A3,Campaign,Data Science
+604,Contacted,2025-04-02,A3,Campaign,Data Science
+604,Demo Given,2025-04-03,A3,Campaign,Data Science
+604,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+604,Registered,2025-04-05,A3,Campaign,Data Science
+604,Dropped / Inactive,2025-04-06,A3,Campaign,Data Science
+605,New Lead,2025-04-01,A3,Referral,Data Science
+605,Contacted,2025-04-02,A3,Referral,Data Science
+606,New Lead,2025-04-01,A1,Website,MBA
+606,Contacted,2025-04-02,A1,Website,MBA
+606,Demo Given,2025-04-03,A1,Website,MBA
+606,Follow-up in Progress,2025-04-04,A1,Website,MBA
+606,Registered,2025-04-05,A1,Website,MBA
+606,Dropped / Inactive,2025-04-06,A1,Website,MBA
+607,New Lead,2025-04-01,A2,Website,B.Tech
+607,Contacted,2025-04-02,A2,Website,B.Tech
+607,Demo Given,2025-04-03,A2,Website,B.Tech
+607,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+607,Registered,2025-04-05,A2,Website,B.Tech
+608,New Lead,2025-04-01,A1,Website,B.Tech
+608,Contacted,2025-04-02,A1,Website,B.Tech
+608,Demo Given,2025-04-03,A1,Website,B.Tech
+608,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+608,Registered,2025-04-05,A1,Website,B.Tech
+609,New Lead,2025-04-01,A2,Website,B.Tech
+609,Contacted,2025-04-02,A2,Website,B.Tech
+609,Demo Given,2025-04-03,A2,Website,B.Tech
+609,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+609,Registered,2025-04-05,A2,Website,B.Tech
+609,Dropped / Inactive,2025-04-06,A2,Website,B.Tech
+610,New Lead,2025-04-01,A3,Campaign,MBA
+610,Contacted,2025-04-02,A3,Campaign,MBA
+610,Demo Given,2025-04-03,A3,Campaign,MBA
+610,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+610,Registered,2025-04-05,A3,Campaign,MBA
+611,New Lead,2025-04-01,A3,Referral,B.Tech
+611,Contacted,2025-04-02,A3,Referral,B.Tech
+611,Demo Given,2025-04-03,A3,Referral,B.Tech
+611,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+612,New Lead,2025-04-01,A1,Referral,MBA
+612,Contacted,2025-04-02,A1,Referral,MBA
+612,Demo Given,2025-04-03,A1,Referral,MBA
+613,New Lead,2025-04-01,A1,Campaign,MBA
+613,Contacted,2025-04-02,A1,Campaign,MBA
+613,Demo Given,2025-04-03,A1,Campaign,MBA
+613,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+614,New Lead,2025-04-01,A2,Website,B.Tech
+614,Contacted,2025-04-02,A2,Website,B.Tech
+615,New Lead,2025-04-01,A3,Referral,Data Science
+615,Contacted,2025-04-02,A3,Referral,Data Science
+615,Demo Given,2025-04-03,A3,Referral,Data Science
+615,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+616,New Lead,2025-04-01,A1,Website,MBA
+616,Contacted,2025-04-02,A1,Website,MBA
+616,Demo Given,2025-04-03,A1,Website,MBA
+616,Follow-up in Progress,2025-04-04,A1,Website,MBA
+617,New Lead,2025-04-01,A3,Website,B.Tech
+617,Contacted,2025-04-02,A3,Website,B.Tech
+618,New Lead,2025-04-01,A1,Referral,Data Science
+618,Contacted,2025-04-02,A1,Referral,Data Science
+618,Demo Given,2025-04-03,A1,Referral,Data Science
+618,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+618,Registered,2025-04-05,A1,Referral,Data Science
+619,New Lead,2025-04-01,A2,Referral,MBA
+619,Contacted,2025-04-02,A2,Referral,MBA
+619,Demo Given,2025-04-03,A2,Referral,MBA
+619,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+619,Registered,2025-04-05,A2,Referral,MBA
+619,Dropped / Inactive,2025-04-06,A2,Referral,MBA
+620,New Lead,2025-04-01,A3,Campaign,Data Science
+620,Contacted,2025-04-02,A3,Campaign,Data Science
+620,Demo Given,2025-04-03,A3,Campaign,Data Science
+620,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+621,New Lead,2025-04-01,A3,Referral,MBA
+621,Contacted,2025-04-02,A3,Referral,MBA
+621,Demo Given,2025-04-03,A3,Referral,MBA
+621,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+621,Registered,2025-04-05,A3,Referral,MBA
+621,Dropped / Inactive,2025-04-06,A3,Referral,MBA
+622,New Lead,2025-04-01,A1,Campaign,Data Science
+622,Contacted,2025-04-02,A1,Campaign,Data Science
+622,Demo Given,2025-04-03,A1,Campaign,Data Science
+623,New Lead,2025-04-01,A2,Referral,Data Science
+623,Contacted,2025-04-02,A2,Referral,Data Science
+623,Demo Given,2025-04-03,A2,Referral,Data Science
+623,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+623,Registered,2025-04-05,A2,Referral,Data Science
+623,Dropped / Inactive,2025-04-06,A2,Referral,Data Science
+624,New Lead,2025-04-01,A2,Referral,MBA
+624,Contacted,2025-04-02,A2,Referral,MBA
+624,Demo Given,2025-04-03,A2,Referral,MBA
+624,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+624,Registered,2025-04-05,A2,Referral,MBA
+624,Dropped / Inactive,2025-04-06,A2,Referral,MBA
+625,New Lead,2025-04-01,A1,Website,Data Science
+625,Contacted,2025-04-02,A1,Website,Data Science
+625,Demo Given,2025-04-03,A1,Website,Data Science
+626,New Lead,2025-04-01,A2,Website,Data Science
+626,Contacted,2025-04-02,A2,Website,Data Science
+626,Demo Given,2025-04-03,A2,Website,Data Science
+626,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+626,Registered,2025-04-05,A2,Website,Data Science
+626,Dropped / Inactive,2025-04-06,A2,Website,Data Science
+627,New Lead,2025-04-01,A2,Website,Data Science
+627,Contacted,2025-04-02,A2,Website,Data Science
+627,Demo Given,2025-04-03,A2,Website,Data Science
+627,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+627,Registered,2025-04-05,A2,Website,Data Science
+628,New Lead,2025-04-01,A1,Referral,Data Science
+628,Contacted,2025-04-02,A1,Referral,Data Science
+628,Demo Given,2025-04-03,A1,Referral,Data Science
+628,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+628,Registered,2025-04-05,A1,Referral,Data Science
+629,New Lead,2025-04-01,A3,Referral,Data Science
+629,Contacted,2025-04-02,A3,Referral,Data Science
+629,Demo Given,2025-04-03,A3,Referral,Data Science
+629,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+629,Registered,2025-04-05,A3,Referral,Data Science
+630,New Lead,2025-04-01,A3,Website,MBA
+630,Contacted,2025-04-02,A3,Website,MBA
+630,Demo Given,2025-04-03,A3,Website,MBA
+630,Follow-up in Progress,2025-04-04,A3,Website,MBA
+630,Registered,2025-04-05,A3,Website,MBA
+631,New Lead,2025-04-01,A2,Campaign,B.Tech
+631,Contacted,2025-04-02,A2,Campaign,B.Tech
+632,New Lead,2025-04-01,A1,Website,MBA
+632,Contacted,2025-04-02,A1,Website,MBA
+632,Demo Given,2025-04-03,A1,Website,MBA
+633,New Lead,2025-04-01,A1,Campaign,Data Science
+633,Contacted,2025-04-02,A1,Campaign,Data Science
+634,New Lead,2025-04-01,A1,Website,Data Science
+634,Contacted,2025-04-02,A1,Website,Data Science
+635,New Lead,2025-04-01,A1,Campaign,Data Science
+635,Contacted,2025-04-02,A1,Campaign,Data Science
+636,New Lead,2025-04-01,A2,Campaign,MBA
+636,Contacted,2025-04-02,A2,Campaign,MBA
+636,Demo Given,2025-04-03,A2,Campaign,MBA
+636,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+636,Registered,2025-04-05,A2,Campaign,MBA
+637,New Lead,2025-04-01,A1,Referral,B.Tech
+637,Contacted,2025-04-02,A1,Referral,B.Tech
+637,Demo Given,2025-04-03,A1,Referral,B.Tech
+638,New Lead,2025-04-01,A3,Campaign,Data Science
+638,Contacted,2025-04-02,A3,Campaign,Data Science
+639,New Lead,2025-04-01,A3,Website,B.Tech
+639,Contacted,2025-04-02,A3,Website,B.Tech
+639,Demo Given,2025-04-03,A3,Website,B.Tech
+639,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+639,Registered,2025-04-05,A3,Website,B.Tech
+639,Dropped / Inactive,2025-04-06,A3,Website,B.Tech
+640,New Lead,2025-04-01,A1,Referral,Data Science
+640,Contacted,2025-04-02,A1,Referral,Data Science
+640,Demo Given,2025-04-03,A1,Referral,Data Science
+640,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+640,Registered,2025-04-05,A1,Referral,Data Science
+640,Dropped / Inactive,2025-04-06,A1,Referral,Data Science
+641,New Lead,2025-04-01,A1,Referral,B.Tech
+641,Contacted,2025-04-02,A1,Referral,B.Tech
+642,New Lead,2025-04-01,A1,Referral,B.Tech
+642,Contacted,2025-04-02,A1,Referral,B.Tech
+643,New Lead,2025-04-01,A1,Website,MBA
+643,Contacted,2025-04-02,A1,Website,MBA
+643,Demo Given,2025-04-03,A1,Website,MBA
+643,Follow-up in Progress,2025-04-04,A1,Website,MBA
+643,Registered,2025-04-05,A1,Website,MBA
+644,New Lead,2025-04-01,A3,Referral,B.Tech
+644,Contacted,2025-04-02,A3,Referral,B.Tech
+644,Demo Given,2025-04-03,A3,Referral,B.Tech
+644,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+645,New Lead,2025-04-01,A3,Referral,MBA
+645,Contacted,2025-04-02,A3,Referral,MBA
+645,Demo Given,2025-04-03,A3,Referral,MBA
+645,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+645,Registered,2025-04-05,A3,Referral,MBA
+645,Dropped / Inactive,2025-04-06,A3,Referral,MBA
+646,New Lead,2025-04-01,A1,Campaign,MBA
+646,Contacted,2025-04-02,A1,Campaign,MBA
+646,Demo Given,2025-04-03,A1,Campaign,MBA
+647,New Lead,2025-04-01,A2,Referral,Data Science
+647,Contacted,2025-04-02,A2,Referral,Data Science
+648,New Lead,2025-04-01,A1,Campaign,B.Tech
+648,Contacted,2025-04-02,A1,Campaign,B.Tech
+648,Demo Given,2025-04-03,A1,Campaign,B.Tech
+649,New Lead,2025-04-01,A3,Website,MBA
+649,Contacted,2025-04-02,A3,Website,MBA
+649,Demo Given,2025-04-03,A3,Website,MBA
+649,Follow-up in Progress,2025-04-04,A3,Website,MBA
+649,Registered,2025-04-05,A3,Website,MBA
+650,New Lead,2025-04-01,A2,Website,Data Science
+650,Contacted,2025-04-02,A2,Website,Data Science
+651,New Lead,2025-04-01,A2,Referral,MBA
+651,Contacted,2025-04-02,A2,Referral,MBA
+651,Demo Given,2025-04-03,A2,Referral,MBA
+652,New Lead,2025-04-01,A2,Website,B.Tech
+652,Contacted,2025-04-02,A2,Website,B.Tech
+652,Demo Given,2025-04-03,A2,Website,B.Tech
+653,New Lead,2025-04-01,A2,Website,Data Science
+653,Contacted,2025-04-02,A2,Website,Data Science
+653,Demo Given,2025-04-03,A2,Website,Data Science
+653,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+653,Registered,2025-04-05,A2,Website,Data Science
+654,New Lead,2025-04-01,A2,Referral,MBA
+654,Contacted,2025-04-02,A2,Referral,MBA
+655,New Lead,2025-04-01,A2,Referral,Data Science
+655,Contacted,2025-04-02,A2,Referral,Data Science
+656,New Lead,2025-04-01,A3,Campaign,MBA
+656,Contacted,2025-04-02,A3,Campaign,MBA
+657,New Lead,2025-04-01,A2,Campaign,MBA
+657,Contacted,2025-04-02,A2,Campaign,MBA
+657,Demo Given,2025-04-03,A2,Campaign,MBA
+657,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+657,Registered,2025-04-05,A2,Campaign,MBA
+658,New Lead,2025-04-01,A1,Referral,MBA
+658,Contacted,2025-04-02,A1,Referral,MBA
+659,New Lead,2025-04-01,A1,Referral,MBA
+659,Contacted,2025-04-02,A1,Referral,MBA
+660,New Lead,2025-04-01,A1,Referral,MBA
+660,Contacted,2025-04-02,A1,Referral,MBA
+660,Demo Given,2025-04-03,A1,Referral,MBA
+660,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+660,Registered,2025-04-05,A1,Referral,MBA
+660,Dropped / Inactive,2025-04-06,A1,Referral,MBA
+661,New Lead,2025-04-01,A1,Campaign,Data Science
+661,Contacted,2025-04-02,A1,Campaign,Data Science
+661,Demo Given,2025-04-03,A1,Campaign,Data Science
+661,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+661,Registered,2025-04-05,A1,Campaign,Data Science
+662,New Lead,2025-04-01,A3,Campaign,MBA
+662,Contacted,2025-04-02,A3,Campaign,MBA
+662,Demo Given,2025-04-03,A3,Campaign,MBA
+662,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+663,New Lead,2025-04-01,A1,Campaign,Data Science
+663,Contacted,2025-04-02,A1,Campaign,Data Science
+663,Demo Given,2025-04-03,A1,Campaign,Data Science
+663,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+663,Registered,2025-04-05,A1,Campaign,Data Science
+663,Dropped / Inactive,2025-04-06,A1,Campaign,Data Science
+664,New Lead,2025-04-01,A2,Campaign,Data Science
+664,Contacted,2025-04-02,A2,Campaign,Data Science
+664,Demo Given,2025-04-03,A2,Campaign,Data Science
+664,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+664,Registered,2025-04-05,A2,Campaign,Data Science
+664,Dropped / Inactive,2025-04-06,A2,Campaign,Data Science
+665,New Lead,2025-04-01,A3,Referral,MBA
+665,Contacted,2025-04-02,A3,Referral,MBA
+665,Demo Given,2025-04-03,A3,Referral,MBA
+665,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+666,New Lead,2025-04-01,A3,Website,MBA
+666,Contacted,2025-04-02,A3,Website,MBA
+666,Demo Given,2025-04-03,A3,Website,MBA
+666,Follow-up in Progress,2025-04-04,A3,Website,MBA
+667,New Lead,2025-04-01,A1,Website,Data Science
+667,Contacted,2025-04-02,A1,Website,Data Science
+667,Demo Given,2025-04-03,A1,Website,Data Science
+667,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+668,New Lead,2025-04-01,A3,Campaign,B.Tech
+668,Contacted,2025-04-02,A3,Campaign,B.Tech
+668,Demo Given,2025-04-03,A3,Campaign,B.Tech
+668,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+668,Registered,2025-04-05,A3,Campaign,B.Tech
+668,Dropped / Inactive,2025-04-06,A3,Campaign,B.Tech
+669,New Lead,2025-04-01,A2,Referral,B.Tech
+669,Contacted,2025-04-02,A2,Referral,B.Tech
+670,New Lead,2025-04-01,A1,Referral,MBA
+670,Contacted,2025-04-02,A1,Referral,MBA
+670,Demo Given,2025-04-03,A1,Referral,MBA
+671,New Lead,2025-04-01,A1,Website,B.Tech
+671,Contacted,2025-04-02,A1,Website,B.Tech
+672,New Lead,2025-04-01,A3,Campaign,MBA
+672,Contacted,2025-04-02,A3,Campaign,MBA
+672,Demo Given,2025-04-03,A3,Campaign,MBA
+672,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+673,New Lead,2025-04-01,A1,Campaign,Data Science
+673,Contacted,2025-04-02,A1,Campaign,Data Science
+673,Demo Given,2025-04-03,A1,Campaign,Data Science
+673,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+674,New Lead,2025-04-01,A3,Campaign,Data Science
+674,Contacted,2025-04-02,A3,Campaign,Data Science
+674,Demo Given,2025-04-03,A3,Campaign,Data Science
+674,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+674,Registered,2025-04-05,A3,Campaign,Data Science
+674,Dropped / Inactive,2025-04-06,A3,Campaign,Data Science
+675,New Lead,2025-04-01,A1,Campaign,MBA
+675,Contacted,2025-04-02,A1,Campaign,MBA
+675,Demo Given,2025-04-03,A1,Campaign,MBA
+676,New Lead,2025-04-01,A2,Campaign,Data Science
+676,Contacted,2025-04-02,A2,Campaign,Data Science
+677,New Lead,2025-04-01,A2,Website,Data Science
+677,Contacted,2025-04-02,A2,Website,Data Science
+677,Demo Given,2025-04-03,A2,Website,Data Science
+677,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+677,Registered,2025-04-05,A2,Website,Data Science
+678,New Lead,2025-04-01,A3,Referral,B.Tech
+678,Contacted,2025-04-02,A3,Referral,B.Tech
+678,Demo Given,2025-04-03,A3,Referral,B.Tech
+678,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+679,New Lead,2025-04-01,A1,Campaign,B.Tech
+679,Contacted,2025-04-02,A1,Campaign,B.Tech
+679,Demo Given,2025-04-03,A1,Campaign,B.Tech
+679,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+679,Registered,2025-04-05,A1,Campaign,B.Tech
+679,Dropped / Inactive,2025-04-06,A1,Campaign,B.Tech
+680,New Lead,2025-04-01,A2,Campaign,B.Tech
+680,Contacted,2025-04-02,A2,Campaign,B.Tech
+680,Demo Given,2025-04-03,A2,Campaign,B.Tech
+681,New Lead,2025-04-01,A1,Campaign,Data Science
+681,Contacted,2025-04-02,A1,Campaign,Data Science
+681,Demo Given,2025-04-03,A1,Campaign,Data Science
+681,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+681,Registered,2025-04-05,A1,Campaign,Data Science
+681,Dropped / Inactive,2025-04-06,A1,Campaign,Data Science
+682,New Lead,2025-04-01,A2,Campaign,MBA
+682,Contacted,2025-04-02,A2,Campaign,MBA
+682,Demo Given,2025-04-03,A2,Campaign,MBA
+682,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+682,Registered,2025-04-05,A2,Campaign,MBA
+683,New Lead,2025-04-01,A1,Website,Data Science
+683,Contacted,2025-04-02,A1,Website,Data Science
+683,Demo Given,2025-04-03,A1,Website,Data Science
+683,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+683,Registered,2025-04-05,A1,Website,Data Science
+684,New Lead,2025-04-01,A1,Campaign,B.Tech
+684,Contacted,2025-04-02,A1,Campaign,B.Tech
+684,Demo Given,2025-04-03,A1,Campaign,B.Tech
+684,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+684,Registered,2025-04-05,A1,Campaign,B.Tech
+684,Dropped / Inactive,2025-04-06,A1,Campaign,B.Tech
+685,New Lead,2025-04-01,A2,Referral,MBA
+685,Contacted,2025-04-02,A2,Referral,MBA
+685,Demo Given,2025-04-03,A2,Referral,MBA
+686,New Lead,2025-04-01,A2,Campaign,B.Tech
+686,Contacted,2025-04-02,A2,Campaign,B.Tech
+686,Demo Given,2025-04-03,A2,Campaign,B.Tech
+686,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+686,Registered,2025-04-05,A2,Campaign,B.Tech
+687,New Lead,2025-04-01,A3,Website,B.Tech
+687,Contacted,2025-04-02,A3,Website,B.Tech
+687,Demo Given,2025-04-03,A3,Website,B.Tech
+687,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+688,New Lead,2025-04-01,A2,Website,MBA
+688,Contacted,2025-04-02,A2,Website,MBA
+688,Demo Given,2025-04-03,A2,Website,MBA
+689,New Lead,2025-04-01,A2,Website,B.Tech
+689,Contacted,2025-04-02,A2,Website,B.Tech
+689,Demo Given,2025-04-03,A2,Website,B.Tech
+689,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+689,Registered,2025-04-05,A2,Website,B.Tech
+690,New Lead,2025-04-01,A3,Website,MBA
+690,Contacted,2025-04-02,A3,Website,MBA
+691,New Lead,2025-04-01,A3,Website,MBA
+691,Contacted,2025-04-02,A3,Website,MBA
+691,Demo Given,2025-04-03,A3,Website,MBA
+691,Follow-up in Progress,2025-04-04,A3,Website,MBA
+691,Registered,2025-04-05,A3,Website,MBA
+692,New Lead,2025-04-01,A1,Referral,B.Tech
+692,Contacted,2025-04-02,A1,Referral,B.Tech
+692,Demo Given,2025-04-03,A1,Referral,B.Tech
+692,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+693,New Lead,2025-04-01,A1,Campaign,Data Science
+693,Contacted,2025-04-02,A1,Campaign,Data Science
+694,New Lead,2025-04-01,A1,Campaign,B.Tech
+694,Contacted,2025-04-02,A1,Campaign,B.Tech
+694,Demo Given,2025-04-03,A1,Campaign,B.Tech
+694,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+695,New Lead,2025-04-01,A3,Campaign,B.Tech
+695,Contacted,2025-04-02,A3,Campaign,B.Tech
+695,Demo Given,2025-04-03,A3,Campaign,B.Tech
+695,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+695,Registered,2025-04-05,A3,Campaign,B.Tech
+696,New Lead,2025-04-01,A3,Referral,Data Science
+696,Contacted,2025-04-02,A3,Referral,Data Science
+696,Demo Given,2025-04-03,A3,Referral,Data Science
+697,New Lead,2025-04-01,A1,Website,Data Science
+697,Contacted,2025-04-02,A1,Website,Data Science
+697,Demo Given,2025-04-03,A1,Website,Data Science
+698,New Lead,2025-04-01,A2,Referral,Data Science
+698,Contacted,2025-04-02,A2,Referral,Data Science
+698,Demo Given,2025-04-03,A2,Referral,Data Science
+698,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+699,New Lead,2025-04-01,A1,Campaign,MBA
+699,Contacted,2025-04-02,A1,Campaign,MBA
+699,Demo Given,2025-04-03,A1,Campaign,MBA
+699,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+699,Registered,2025-04-05,A1,Campaign,MBA
+699,Dropped / Inactive,2025-04-06,A1,Campaign,MBA
+700,New Lead,2025-04-01,A2,Website,B.Tech
+700,Contacted,2025-04-02,A2,Website,B.Tech
+700,Demo Given,2025-04-03,A2,Website,B.Tech
+700,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+700,Registered,2025-04-05,A2,Website,B.Tech
+700,Dropped / Inactive,2025-04-06,A2,Website,B.Tech
+701,New Lead,2025-04-01,A3,Website,B.Tech
+701,Contacted,2025-04-02,A3,Website,B.Tech
+701,Demo Given,2025-04-03,A3,Website,B.Tech
+702,New Lead,2025-04-01,A3,Campaign,MBA
+702,Contacted,2025-04-02,A3,Campaign,MBA
+702,Demo Given,2025-04-03,A3,Campaign,MBA
+702,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+703,New Lead,2025-04-01,A1,Website,Data Science
+703,Contacted,2025-04-02,A1,Website,Data Science
+703,Demo Given,2025-04-03,A1,Website,Data Science
+703,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+703,Registered,2025-04-05,A1,Website,Data Science
+704,New Lead,2025-04-01,A1,Website,MBA
+704,Contacted,2025-04-02,A1,Website,MBA
+704,Demo Given,2025-04-03,A1,Website,MBA
+704,Follow-up in Progress,2025-04-04,A1,Website,MBA
+704,Registered,2025-04-05,A1,Website,MBA
+704,Dropped / Inactive,2025-04-06,A1,Website,MBA
+705,New Lead,2025-04-01,A2,Campaign,MBA
+705,Contacted,2025-04-02,A2,Campaign,MBA
+705,Demo Given,2025-04-03,A2,Campaign,MBA
+706,New Lead,2025-04-01,A3,Website,Data Science
+706,Contacted,2025-04-02,A3,Website,Data Science
+706,Demo Given,2025-04-03,A3,Website,Data Science
+706,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+706,Registered,2025-04-05,A3,Website,Data Science
+707,New Lead,2025-04-01,A2,Website,MBA
+707,Contacted,2025-04-02,A2,Website,MBA
+707,Demo Given,2025-04-03,A2,Website,MBA
+707,Follow-up in Progress,2025-04-04,A2,Website,MBA
+707,Registered,2025-04-05,A2,Website,MBA
+708,New Lead,2025-04-01,A1,Referral,Data Science
+708,Contacted,2025-04-02,A1,Referral,Data Science
+708,Demo Given,2025-04-03,A1,Referral,Data Science
+708,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+708,Registered,2025-04-05,A1,Referral,Data Science
+709,New Lead,2025-04-01,A1,Campaign,MBA
+709,Contacted,2025-04-02,A1,Campaign,MBA
+709,Demo Given,2025-04-03,A1,Campaign,MBA
+709,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+709,Registered,2025-04-05,A1,Campaign,MBA
+710,New Lead,2025-04-01,A3,Referral,B.Tech
+710,Contacted,2025-04-02,A3,Referral,B.Tech
+710,Demo Given,2025-04-03,A3,Referral,B.Tech
+710,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+710,Registered,2025-04-05,A3,Referral,B.Tech
+711,New Lead,2025-04-01,A2,Campaign,MBA
+711,Contacted,2025-04-02,A2,Campaign,MBA
+711,Demo Given,2025-04-03,A2,Campaign,MBA
+712,New Lead,2025-04-01,A1,Website,MBA
+712,Contacted,2025-04-02,A1,Website,MBA
+712,Demo Given,2025-04-03,A1,Website,MBA
+712,Follow-up in Progress,2025-04-04,A1,Website,MBA
+712,Registered,2025-04-05,A1,Website,MBA
+713,New Lead,2025-04-01,A1,Website,B.Tech
+713,Contacted,2025-04-02,A1,Website,B.Tech
+713,Demo Given,2025-04-03,A1,Website,B.Tech
+713,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+713,Registered,2025-04-05,A1,Website,B.Tech
+714,New Lead,2025-04-01,A2,Campaign,B.Tech
+714,Contacted,2025-04-02,A2,Campaign,B.Tech
+715,New Lead,2025-04-01,A1,Campaign,Data Science
+715,Contacted,2025-04-02,A1,Campaign,Data Science
+715,Demo Given,2025-04-03,A1,Campaign,Data Science
+715,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+716,New Lead,2025-04-01,A3,Campaign,B.Tech
+716,Contacted,2025-04-02,A3,Campaign,B.Tech
+716,Demo Given,2025-04-03,A3,Campaign,B.Tech
+717,New Lead,2025-04-01,A3,Referral,B.Tech
+717,Contacted,2025-04-02,A3,Referral,B.Tech
+717,Demo Given,2025-04-03,A3,Referral,B.Tech
+717,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+717,Registered,2025-04-05,A3,Referral,B.Tech
+717,Dropped / Inactive,2025-04-06,A3,Referral,B.Tech
+718,New Lead,2025-04-01,A2,Campaign,MBA
+718,Contacted,2025-04-02,A2,Campaign,MBA
+719,New Lead,2025-04-01,A1,Campaign,Data Science
+719,Contacted,2025-04-02,A1,Campaign,Data Science
+719,Demo Given,2025-04-03,A1,Campaign,Data Science
+720,New Lead,2025-04-01,A1,Referral,B.Tech
+720,Contacted,2025-04-02,A1,Referral,B.Tech
+720,Demo Given,2025-04-03,A1,Referral,B.Tech
+721,New Lead,2025-04-01,A1,Website,B.Tech
+721,Contacted,2025-04-02,A1,Website,B.Tech
+721,Demo Given,2025-04-03,A1,Website,B.Tech
+721,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+722,New Lead,2025-04-01,A1,Website,Data Science
+722,Contacted,2025-04-02,A1,Website,Data Science
+722,Demo Given,2025-04-03,A1,Website,Data Science
+722,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+722,Registered,2025-04-05,A1,Website,Data Science
+722,Dropped / Inactive,2025-04-06,A1,Website,Data Science
+723,New Lead,2025-04-01,A1,Website,MBA
+723,Contacted,2025-04-02,A1,Website,MBA
+723,Demo Given,2025-04-03,A1,Website,MBA
+723,Follow-up in Progress,2025-04-04,A1,Website,MBA
+723,Registered,2025-04-05,A1,Website,MBA
+723,Dropped / Inactive,2025-04-06,A1,Website,MBA
+724,New Lead,2025-04-01,A3,Campaign,Data Science
+724,Contacted,2025-04-02,A3,Campaign,Data Science
+725,New Lead,2025-04-01,A1,Website,Data Science
+725,Contacted,2025-04-02,A1,Website,Data Science
+725,Demo Given,2025-04-03,A1,Website,Data Science
+726,New Lead,2025-04-01,A2,Referral,Data Science
+726,Contacted,2025-04-02,A2,Referral,Data Science
+727,New Lead,2025-04-01,A1,Campaign,MBA
+727,Contacted,2025-04-02,A1,Campaign,MBA
+727,Demo Given,2025-04-03,A1,Campaign,MBA
+728,New Lead,2025-04-01,A1,Campaign,Data Science
+728,Contacted,2025-04-02,A1,Campaign,Data Science
+728,Demo Given,2025-04-03,A1,Campaign,Data Science
+728,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+728,Registered,2025-04-05,A1,Campaign,Data Science
+728,Dropped / Inactive,2025-04-06,A1,Campaign,Data Science
+729,New Lead,2025-04-01,A2,Campaign,Data Science
+729,Contacted,2025-04-02,A2,Campaign,Data Science
+729,Demo Given,2025-04-03,A2,Campaign,Data Science
+730,New Lead,2025-04-01,A2,Campaign,B.Tech
+730,Contacted,2025-04-02,A2,Campaign,B.Tech
+730,Demo Given,2025-04-03,A2,Campaign,B.Tech
+730,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+730,Registered,2025-04-05,A2,Campaign,B.Tech
+730,Dropped / Inactive,2025-04-06,A2,Campaign,B.Tech
+731,New Lead,2025-04-01,A3,Campaign,B.Tech
+731,Contacted,2025-04-02,A3,Campaign,B.Tech
+731,Demo Given,2025-04-03,A3,Campaign,B.Tech
+731,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+731,Registered,2025-04-05,A3,Campaign,B.Tech
+732,New Lead,2025-04-01,A3,Campaign,B.Tech
+732,Contacted,2025-04-02,A3,Campaign,B.Tech
+732,Demo Given,2025-04-03,A3,Campaign,B.Tech
+732,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+733,New Lead,2025-04-01,A3,Website,B.Tech
+733,Contacted,2025-04-02,A3,Website,B.Tech
+733,Demo Given,2025-04-03,A3,Website,B.Tech
+733,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+733,Registered,2025-04-05,A3,Website,B.Tech
+733,Dropped / Inactive,2025-04-06,A3,Website,B.Tech
+734,New Lead,2025-04-01,A2,Referral,MBA
+734,Contacted,2025-04-02,A2,Referral,MBA
+734,Demo Given,2025-04-03,A2,Referral,MBA
+734,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+734,Registered,2025-04-05,A2,Referral,MBA
+735,New Lead,2025-04-01,A2,Referral,Data Science
+735,Contacted,2025-04-02,A2,Referral,Data Science
+735,Demo Given,2025-04-03,A2,Referral,Data Science
+735,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+735,Registered,2025-04-05,A2,Referral,Data Science
+736,New Lead,2025-04-01,A2,Referral,Data Science
+736,Contacted,2025-04-02,A2,Referral,Data Science
+737,New Lead,2025-04-01,A2,Campaign,Data Science
+737,Contacted,2025-04-02,A2,Campaign,Data Science
+737,Demo Given,2025-04-03,A2,Campaign,Data Science
+738,New Lead,2025-04-01,A1,Campaign,B.Tech
+738,Contacted,2025-04-02,A1,Campaign,B.Tech
+738,Demo Given,2025-04-03,A1,Campaign,B.Tech
+738,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+738,Registered,2025-04-05,A1,Campaign,B.Tech
+739,New Lead,2025-04-01,A1,Campaign,B.Tech
+739,Contacted,2025-04-02,A1,Campaign,B.Tech
+739,Demo Given,2025-04-03,A1,Campaign,B.Tech
+739,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+739,Registered,2025-04-05,A1,Campaign,B.Tech
+740,New Lead,2025-04-01,A3,Website,B.Tech
+740,Contacted,2025-04-02,A3,Website,B.Tech
+740,Demo Given,2025-04-03,A3,Website,B.Tech
+741,New Lead,2025-04-01,A3,Referral,Data Science
+741,Contacted,2025-04-02,A3,Referral,Data Science
+741,Demo Given,2025-04-03,A3,Referral,Data Science
+741,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+742,New Lead,2025-04-01,A3,Campaign,Data Science
+742,Contacted,2025-04-02,A3,Campaign,Data Science
+742,Demo Given,2025-04-03,A3,Campaign,Data Science
+742,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+742,Registered,2025-04-05,A3,Campaign,Data Science
+743,New Lead,2025-04-01,A1,Website,B.Tech
+743,Contacted,2025-04-02,A1,Website,B.Tech
+744,New Lead,2025-04-01,A3,Referral,MBA
+744,Contacted,2025-04-02,A3,Referral,MBA
+744,Demo Given,2025-04-03,A3,Referral,MBA
+745,New Lead,2025-04-01,A2,Campaign,MBA
+745,Contacted,2025-04-02,A2,Campaign,MBA
+745,Demo Given,2025-04-03,A2,Campaign,MBA
+745,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+746,New Lead,2025-04-01,A1,Referral,B.Tech
+746,Contacted,2025-04-02,A1,Referral,B.Tech
+746,Demo Given,2025-04-03,A1,Referral,B.Tech
+747,New Lead,2025-04-01,A3,Campaign,Data Science
+747,Contacted,2025-04-02,A3,Campaign,Data Science
+747,Demo Given,2025-04-03,A3,Campaign,Data Science
+747,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+747,Registered,2025-04-05,A3,Campaign,Data Science
+748,New Lead,2025-04-01,A1,Referral,Data Science
+748,Contacted,2025-04-02,A1,Referral,Data Science
+748,Demo Given,2025-04-03,A1,Referral,Data Science
+748,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+748,Registered,2025-04-05,A1,Referral,Data Science
+749,New Lead,2025-04-01,A3,Website,MBA
+749,Contacted,2025-04-02,A3,Website,MBA
+749,Demo Given,2025-04-03,A3,Website,MBA
+749,Follow-up in Progress,2025-04-04,A3,Website,MBA
+750,New Lead,2025-04-01,A1,Referral,MBA
+750,Contacted,2025-04-02,A1,Referral,MBA
+751,New Lead,2025-04-01,A3,Website,B.Tech
+751,Contacted,2025-04-02,A3,Website,B.Tech
+751,Demo Given,2025-04-03,A3,Website,B.Tech
+751,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+751,Registered,2025-04-05,A3,Website,B.Tech
+751,Dropped / Inactive,2025-04-06,A3,Website,B.Tech
+752,New Lead,2025-04-01,A1,Campaign,Data Science
+752,Contacted,2025-04-02,A1,Campaign,Data Science
+752,Demo Given,2025-04-03,A1,Campaign,Data Science
+753,New Lead,2025-04-01,A2,Campaign,B.Tech
+753,Contacted,2025-04-02,A2,Campaign,B.Tech
+753,Demo Given,2025-04-03,A2,Campaign,B.Tech
+753,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+754,New Lead,2025-04-01,A3,Referral,Data Science
+754,Contacted,2025-04-02,A3,Referral,Data Science
+755,New Lead,2025-04-01,A3,Website,Data Science
+755,Contacted,2025-04-02,A3,Website,Data Science
+755,Demo Given,2025-04-03,A3,Website,Data Science
+755,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+755,Registered,2025-04-05,A3,Website,Data Science
+756,New Lead,2025-04-01,A2,Campaign,MBA
+756,Contacted,2025-04-02,A2,Campaign,MBA
+756,Demo Given,2025-04-03,A2,Campaign,MBA
+756,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+756,Registered,2025-04-05,A2,Campaign,MBA
+756,Dropped / Inactive,2025-04-06,A2,Campaign,MBA
+757,New Lead,2025-04-01,A3,Website,Data Science
+757,Contacted,2025-04-02,A3,Website,Data Science
+758,New Lead,2025-04-01,A2,Campaign,MBA
+758,Contacted,2025-04-02,A2,Campaign,MBA
+758,Demo Given,2025-04-03,A2,Campaign,MBA
+758,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+759,New Lead,2025-04-01,A1,Referral,MBA
+759,Contacted,2025-04-02,A1,Referral,MBA
+759,Demo Given,2025-04-03,A1,Referral,MBA
+759,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+759,Registered,2025-04-05,A1,Referral,MBA
+760,New Lead,2025-04-01,A1,Website,MBA
+760,Contacted,2025-04-02,A1,Website,MBA
+760,Demo Given,2025-04-03,A1,Website,MBA
+760,Follow-up in Progress,2025-04-04,A1,Website,MBA
+761,New Lead,2025-04-01,A2,Campaign,Data Science
+761,Contacted,2025-04-02,A2,Campaign,Data Science
+761,Demo Given,2025-04-03,A2,Campaign,Data Science
+761,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+761,Registered,2025-04-05,A2,Campaign,Data Science
+762,New Lead,2025-04-01,A2,Campaign,Data Science
+762,Contacted,2025-04-02,A2,Campaign,Data Science
+762,Demo Given,2025-04-03,A2,Campaign,Data Science
+762,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+762,Registered,2025-04-05,A2,Campaign,Data Science
+762,Dropped / Inactive,2025-04-06,A2,Campaign,Data Science
+763,New Lead,2025-04-01,A3,Campaign,Data Science
+763,Contacted,2025-04-02,A3,Campaign,Data Science
+763,Demo Given,2025-04-03,A3,Campaign,Data Science
+763,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+764,New Lead,2025-04-01,A3,Campaign,MBA
+764,Contacted,2025-04-02,A3,Campaign,MBA
+764,Demo Given,2025-04-03,A3,Campaign,MBA
+764,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+765,New Lead,2025-04-01,A1,Referral,MBA
+765,Contacted,2025-04-02,A1,Referral,MBA
+766,New Lead,2025-04-01,A1,Referral,MBA
+766,Contacted,2025-04-02,A1,Referral,MBA
+766,Demo Given,2025-04-03,A1,Referral,MBA
+766,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+767,New Lead,2025-04-01,A3,Website,Data Science
+767,Contacted,2025-04-02,A3,Website,Data Science
+767,Demo Given,2025-04-03,A3,Website,Data Science
+768,New Lead,2025-04-01,A2,Referral,B.Tech
+768,Contacted,2025-04-02,A2,Referral,B.Tech
+769,New Lead,2025-04-01,A1,Referral,B.Tech
+769,Contacted,2025-04-02,A1,Referral,B.Tech
+769,Demo Given,2025-04-03,A1,Referral,B.Tech
+769,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+770,New Lead,2025-04-01,A2,Website,B.Tech
+770,Contacted,2025-04-02,A2,Website,B.Tech
+770,Demo Given,2025-04-03,A2,Website,B.Tech
+770,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+770,Registered,2025-04-05,A2,Website,B.Tech
+770,Dropped / Inactive,2025-04-06,A2,Website,B.Tech
+771,New Lead,2025-04-01,A3,Website,Data Science
+771,Contacted,2025-04-02,A3,Website,Data Science
+771,Demo Given,2025-04-03,A3,Website,Data Science
+771,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+771,Registered,2025-04-05,A3,Website,Data Science
+771,Dropped / Inactive,2025-04-06,A3,Website,Data Science
+772,New Lead,2025-04-01,A2,Campaign,Data Science
+772,Contacted,2025-04-02,A2,Campaign,Data Science
+773,New Lead,2025-04-01,A3,Website,B.Tech
+773,Contacted,2025-04-02,A3,Website,B.Tech
+773,Demo Given,2025-04-03,A3,Website,B.Tech
+774,New Lead,2025-04-01,A3,Website,MBA
+774,Contacted,2025-04-02,A3,Website,MBA
+774,Demo Given,2025-04-03,A3,Website,MBA
+774,Follow-up in Progress,2025-04-04,A3,Website,MBA
+775,New Lead,2025-04-01,A3,Referral,B.Tech
+775,Contacted,2025-04-02,A3,Referral,B.Tech
+775,Demo Given,2025-04-03,A3,Referral,B.Tech
+775,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+776,New Lead,2025-04-01,A2,Campaign,MBA
+776,Contacted,2025-04-02,A2,Campaign,MBA
+776,Demo Given,2025-04-03,A2,Campaign,MBA
+776,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+776,Registered,2025-04-05,A2,Campaign,MBA
+777,New Lead,2025-04-01,A1,Campaign,B.Tech
+777,Contacted,2025-04-02,A1,Campaign,B.Tech
+777,Demo Given,2025-04-03,A1,Campaign,B.Tech
+777,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+778,New Lead,2025-04-01,A2,Referral,MBA
+778,Contacted,2025-04-02,A2,Referral,MBA
+778,Demo Given,2025-04-03,A2,Referral,MBA
+778,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+779,New Lead,2025-04-01,A1,Website,MBA
+779,Contacted,2025-04-02,A1,Website,MBA
+779,Demo Given,2025-04-03,A1,Website,MBA
+780,New Lead,2025-04-01,A2,Referral,MBA
+780,Contacted,2025-04-02,A2,Referral,MBA
+781,New Lead,2025-04-01,A3,Campaign,B.Tech
+781,Contacted,2025-04-02,A3,Campaign,B.Tech
+781,Demo Given,2025-04-03,A3,Campaign,B.Tech
+781,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+782,New Lead,2025-04-01,A2,Referral,Data Science
+782,Contacted,2025-04-02,A2,Referral,Data Science
+782,Demo Given,2025-04-03,A2,Referral,Data Science
+782,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+782,Registered,2025-04-05,A2,Referral,Data Science
+783,New Lead,2025-04-01,A1,Referral,MBA
+783,Contacted,2025-04-02,A1,Referral,MBA
+784,New Lead,2025-04-01,A3,Referral,Data Science
+784,Contacted,2025-04-02,A3,Referral,Data Science
+784,Demo Given,2025-04-03,A3,Referral,Data Science
+784,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+784,Registered,2025-04-05,A3,Referral,Data Science
+785,New Lead,2025-04-01,A3,Referral,MBA
+785,Contacted,2025-04-02,A3,Referral,MBA
+785,Demo Given,2025-04-03,A3,Referral,MBA
+785,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+785,Registered,2025-04-05,A3,Referral,MBA
+785,Dropped / Inactive,2025-04-06,A3,Referral,MBA
+786,New Lead,2025-04-01,A1,Website,MBA
+786,Contacted,2025-04-02,A1,Website,MBA
+787,New Lead,2025-04-01,A1,Website,MBA
+787,Contacted,2025-04-02,A1,Website,MBA
+787,Demo Given,2025-04-03,A1,Website,MBA
+787,Follow-up in Progress,2025-04-04,A1,Website,MBA
+788,New Lead,2025-04-01,A1,Referral,Data Science
+788,Contacted,2025-04-02,A1,Referral,Data Science
+788,Demo Given,2025-04-03,A1,Referral,Data Science
+788,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+789,New Lead,2025-04-01,A2,Campaign,Data Science
+789,Contacted,2025-04-02,A2,Campaign,Data Science
+789,Demo Given,2025-04-03,A2,Campaign,Data Science
+789,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+789,Registered,2025-04-05,A2,Campaign,Data Science
+790,New Lead,2025-04-01,A3,Campaign,Data Science
+790,Contacted,2025-04-02,A3,Campaign,Data Science
+790,Demo Given,2025-04-03,A3,Campaign,Data Science
+790,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+790,Registered,2025-04-05,A3,Campaign,Data Science
+790,Dropped / Inactive,2025-04-06,A3,Campaign,Data Science
+791,New Lead,2025-04-01,A2,Campaign,Data Science
+791,Contacted,2025-04-02,A2,Campaign,Data Science
+791,Demo Given,2025-04-03,A2,Campaign,Data Science
+791,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+791,Registered,2025-04-05,A2,Campaign,Data Science
+791,Dropped / Inactive,2025-04-06,A2,Campaign,Data Science
+792,New Lead,2025-04-01,A2,Website,MBA
+792,Contacted,2025-04-02,A2,Website,MBA
+792,Demo Given,2025-04-03,A2,Website,MBA
+792,Follow-up in Progress,2025-04-04,A2,Website,MBA
+792,Registered,2025-04-05,A2,Website,MBA
+793,New Lead,2025-04-01,A3,Referral,MBA
+793,Contacted,2025-04-02,A3,Referral,MBA
+793,Demo Given,2025-04-03,A3,Referral,MBA
+794,New Lead,2025-04-01,A1,Referral,Data Science
+794,Contacted,2025-04-02,A1,Referral,Data Science
+794,Demo Given,2025-04-03,A1,Referral,Data Science
+794,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+794,Registered,2025-04-05,A1,Referral,Data Science
+794,Dropped / Inactive,2025-04-06,A1,Referral,Data Science
+795,New Lead,2025-04-01,A1,Referral,Data Science
+795,Contacted,2025-04-02,A1,Referral,Data Science
+795,Demo Given,2025-04-03,A1,Referral,Data Science
+795,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+795,Registered,2025-04-05,A1,Referral,Data Science
+795,Dropped / Inactive,2025-04-06,A1,Referral,Data Science
+796,New Lead,2025-04-01,A1,Website,Data Science
+796,Contacted,2025-04-02,A1,Website,Data Science
+797,New Lead,2025-04-01,A3,Website,MBA
+797,Contacted,2025-04-02,A3,Website,MBA
+798,New Lead,2025-04-01,A1,Referral,B.Tech
+798,Contacted,2025-04-02,A1,Referral,B.Tech
+798,Demo Given,2025-04-03,A1,Referral,B.Tech
+798,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+798,Registered,2025-04-05,A1,Referral,B.Tech
+799,New Lead,2025-04-01,A2,Campaign,B.Tech
+799,Contacted,2025-04-02,A2,Campaign,B.Tech
+800,New Lead,2025-04-01,A3,Campaign,Data Science
+800,Contacted,2025-04-02,A3,Campaign,Data Science
+800,Demo Given,2025-04-03,A3,Campaign,Data Science
+800,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+800,Registered,2025-04-05,A3,Campaign,Data Science
+800,Dropped / Inactive,2025-04-06,A3,Campaign,Data Science
+801,New Lead,2025-04-01,A3,Campaign,Data Science
+801,Contacted,2025-04-02,A3,Campaign,Data Science
+801,Demo Given,2025-04-03,A3,Campaign,Data Science
+801,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+801,Registered,2025-04-05,A3,Campaign,Data Science
+801,Dropped / Inactive,2025-04-06,A3,Campaign,Data Science
+802,New Lead,2025-04-01,A3,Referral,B.Tech
+802,Contacted,2025-04-02,A3,Referral,B.Tech
+802,Demo Given,2025-04-03,A3,Referral,B.Tech
+802,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+802,Registered,2025-04-05,A3,Referral,B.Tech
+803,New Lead,2025-04-01,A2,Website,B.Tech
+803,Contacted,2025-04-02,A2,Website,B.Tech
+803,Demo Given,2025-04-03,A2,Website,B.Tech
+803,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+803,Registered,2025-04-05,A2,Website,B.Tech
+804,New Lead,2025-04-01,A2,Campaign,B.Tech
+804,Contacted,2025-04-02,A2,Campaign,B.Tech
+805,New Lead,2025-04-01,A1,Referral,MBA
+805,Contacted,2025-04-02,A1,Referral,MBA
+806,New Lead,2025-04-01,A2,Website,Data Science
+806,Contacted,2025-04-02,A2,Website,Data Science
+806,Demo Given,2025-04-03,A2,Website,Data Science
+806,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+806,Registered,2025-04-05,A2,Website,Data Science
+807,New Lead,2025-04-01,A2,Campaign,B.Tech
+807,Contacted,2025-04-02,A2,Campaign,B.Tech
+807,Demo Given,2025-04-03,A2,Campaign,B.Tech
+807,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+808,New Lead,2025-04-01,A2,Website,Data Science
+808,Contacted,2025-04-02,A2,Website,Data Science
+808,Demo Given,2025-04-03,A2,Website,Data Science
+808,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+808,Registered,2025-04-05,A2,Website,Data Science
+808,Dropped / Inactive,2025-04-06,A2,Website,Data Science
+809,New Lead,2025-04-01,A1,Website,B.Tech
+809,Contacted,2025-04-02,A1,Website,B.Tech
+809,Demo Given,2025-04-03,A1,Website,B.Tech
+809,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+810,New Lead,2025-04-01,A1,Website,Data Science
+810,Contacted,2025-04-02,A1,Website,Data Science
+810,Demo Given,2025-04-03,A1,Website,Data Science
+810,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+810,Registered,2025-04-05,A1,Website,Data Science
+810,Dropped / Inactive,2025-04-06,A1,Website,Data Science
+811,New Lead,2025-04-01,A2,Website,MBA
+811,Contacted,2025-04-02,A2,Website,MBA
+812,New Lead,2025-04-01,A2,Referral,Data Science
+812,Contacted,2025-04-02,A2,Referral,Data Science
+812,Demo Given,2025-04-03,A2,Referral,Data Science
+813,New Lead,2025-04-01,A3,Website,Data Science
+813,Contacted,2025-04-02,A3,Website,Data Science
+814,New Lead,2025-04-01,A2,Campaign,B.Tech
+814,Contacted,2025-04-02,A2,Campaign,B.Tech
+815,New Lead,2025-04-01,A1,Website,Data Science
+815,Contacted,2025-04-02,A1,Website,Data Science
+816,New Lead,2025-04-01,A1,Website,B.Tech
+816,Contacted,2025-04-02,A1,Website,B.Tech
+816,Demo Given,2025-04-03,A1,Website,B.Tech
+816,Follow-up in Progress,2025-04-04,A1,Website,B.Tech
+817,New Lead,2025-04-01,A3,Referral,Data Science
+817,Contacted,2025-04-02,A3,Referral,Data Science
+817,Demo Given,2025-04-03,A3,Referral,Data Science
+817,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+817,Registered,2025-04-05,A3,Referral,Data Science
+817,Dropped / Inactive,2025-04-06,A3,Referral,Data Science
+818,New Lead,2025-04-01,A3,Campaign,B.Tech
+818,Contacted,2025-04-02,A3,Campaign,B.Tech
+818,Demo Given,2025-04-03,A3,Campaign,B.Tech
+818,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+819,New Lead,2025-04-01,A1,Referral,MBA
+819,Contacted,2025-04-02,A1,Referral,MBA
+819,Demo Given,2025-04-03,A1,Referral,MBA
+819,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+819,Registered,2025-04-05,A1,Referral,MBA
+819,Dropped / Inactive,2025-04-06,A1,Referral,MBA
+820,New Lead,2025-04-01,A1,Referral,Data Science
+820,Contacted,2025-04-02,A1,Referral,Data Science
+820,Demo Given,2025-04-03,A1,Referral,Data Science
+820,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+820,Registered,2025-04-05,A1,Referral,Data Science
+820,Dropped / Inactive,2025-04-06,A1,Referral,Data Science
+821,New Lead,2025-04-01,A1,Website,Data Science
+821,Contacted,2025-04-02,A1,Website,Data Science
+821,Demo Given,2025-04-03,A1,Website,Data Science
+821,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+821,Registered,2025-04-05,A1,Website,Data Science
+821,Dropped / Inactive,2025-04-06,A1,Website,Data Science
+822,New Lead,2025-04-01,A2,Referral,MBA
+822,Contacted,2025-04-02,A2,Referral,MBA
+822,Demo Given,2025-04-03,A2,Referral,MBA
+822,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+822,Registered,2025-04-05,A2,Referral,MBA
+822,Dropped / Inactive,2025-04-06,A2,Referral,MBA
+823,New Lead,2025-04-01,A1,Referral,MBA
+823,Contacted,2025-04-02,A1,Referral,MBA
+823,Demo Given,2025-04-03,A1,Referral,MBA
+823,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+823,Registered,2025-04-05,A1,Referral,MBA
+823,Dropped / Inactive,2025-04-06,A1,Referral,MBA
+824,New Lead,2025-04-01,A3,Referral,Data Science
+824,Contacted,2025-04-02,A3,Referral,Data Science
+824,Demo Given,2025-04-03,A3,Referral,Data Science
+824,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+824,Registered,2025-04-05,A3,Referral,Data Science
+825,New Lead,2025-04-01,A2,Campaign,MBA
+825,Contacted,2025-04-02,A2,Campaign,MBA
+825,Demo Given,2025-04-03,A2,Campaign,MBA
+825,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+825,Registered,2025-04-05,A2,Campaign,MBA
+826,New Lead,2025-04-01,A2,Website,B.Tech
+826,Contacted,2025-04-02,A2,Website,B.Tech
+826,Demo Given,2025-04-03,A2,Website,B.Tech
+826,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+826,Registered,2025-04-05,A2,Website,B.Tech
+827,New Lead,2025-04-01,A2,Website,B.Tech
+827,Contacted,2025-04-02,A2,Website,B.Tech
+827,Demo Given,2025-04-03,A2,Website,B.Tech
+827,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+827,Registered,2025-04-05,A2,Website,B.Tech
+828,New Lead,2025-04-01,A1,Website,MBA
+828,Contacted,2025-04-02,A1,Website,MBA
+828,Demo Given,2025-04-03,A1,Website,MBA
+828,Follow-up in Progress,2025-04-04,A1,Website,MBA
+829,New Lead,2025-04-01,A3,Website,B.Tech
+829,Contacted,2025-04-02,A3,Website,B.Tech
+829,Demo Given,2025-04-03,A3,Website,B.Tech
+830,New Lead,2025-04-01,A3,Website,Data Science
+830,Contacted,2025-04-02,A3,Website,Data Science
+830,Demo Given,2025-04-03,A3,Website,Data Science
+831,New Lead,2025-04-01,A2,Referral,B.Tech
+831,Contacted,2025-04-02,A2,Referral,B.Tech
+831,Demo Given,2025-04-03,A2,Referral,B.Tech
+831,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+831,Registered,2025-04-05,A2,Referral,B.Tech
+831,Dropped / Inactive,2025-04-06,A2,Referral,B.Tech
+832,New Lead,2025-04-01,A2,Campaign,MBA
+832,Contacted,2025-04-02,A2,Campaign,MBA
+832,Demo Given,2025-04-03,A2,Campaign,MBA
+832,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+833,New Lead,2025-04-01,A2,Website,Data Science
+833,Contacted,2025-04-02,A2,Website,Data Science
+833,Demo Given,2025-04-03,A2,Website,Data Science
+833,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+833,Registered,2025-04-05,A2,Website,Data Science
+834,New Lead,2025-04-01,A3,Campaign,B.Tech
+834,Contacted,2025-04-02,A3,Campaign,B.Tech
+834,Demo Given,2025-04-03,A3,Campaign,B.Tech
+834,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+834,Registered,2025-04-05,A3,Campaign,B.Tech
+834,Dropped / Inactive,2025-04-06,A3,Campaign,B.Tech
+835,New Lead,2025-04-01,A2,Website,MBA
+835,Contacted,2025-04-02,A2,Website,MBA
+835,Demo Given,2025-04-03,A2,Website,MBA
+835,Follow-up in Progress,2025-04-04,A2,Website,MBA
+836,New Lead,2025-04-01,A2,Campaign,Data Science
+836,Contacted,2025-04-02,A2,Campaign,Data Science
+837,New Lead,2025-04-01,A2,Referral,B.Tech
+837,Contacted,2025-04-02,A2,Referral,B.Tech
+838,New Lead,2025-04-01,A3,Website,B.Tech
+838,Contacted,2025-04-02,A3,Website,B.Tech
+838,Demo Given,2025-04-03,A3,Website,B.Tech
+839,New Lead,2025-04-01,A1,Website,MBA
+839,Contacted,2025-04-02,A1,Website,MBA
+840,New Lead,2025-04-01,A3,Referral,Data Science
+840,Contacted,2025-04-02,A3,Referral,Data Science
+841,New Lead,2025-04-01,A2,Website,MBA
+841,Contacted,2025-04-02,A2,Website,MBA
+841,Demo Given,2025-04-03,A2,Website,MBA
+841,Follow-up in Progress,2025-04-04,A2,Website,MBA
+842,New Lead,2025-04-01,A2,Referral,Data Science
+842,Contacted,2025-04-02,A2,Referral,Data Science
+843,New Lead,2025-04-01,A1,Campaign,MBA
+843,Contacted,2025-04-02,A1,Campaign,MBA
+843,Demo Given,2025-04-03,A1,Campaign,MBA
+843,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+843,Registered,2025-04-05,A1,Campaign,MBA
+844,New Lead,2025-04-01,A2,Referral,B.Tech
+844,Contacted,2025-04-02,A2,Referral,B.Tech
+844,Demo Given,2025-04-03,A2,Referral,B.Tech
+844,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+844,Registered,2025-04-05,A2,Referral,B.Tech
+845,New Lead,2025-04-01,A3,Website,B.Tech
+845,Contacted,2025-04-02,A3,Website,B.Tech
+845,Demo Given,2025-04-03,A3,Website,B.Tech
+845,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+846,New Lead,2025-04-01,A2,Referral,Data Science
+846,Contacted,2025-04-02,A2,Referral,Data Science
+846,Demo Given,2025-04-03,A2,Referral,Data Science
+846,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+846,Registered,2025-04-05,A2,Referral,Data Science
+847,New Lead,2025-04-01,A1,Referral,MBA
+847,Contacted,2025-04-02,A1,Referral,MBA
+847,Demo Given,2025-04-03,A1,Referral,MBA
+847,Follow-up in Progress,2025-04-04,A1,Referral,MBA
+847,Registered,2025-04-05,A1,Referral,MBA
+848,New Lead,2025-04-01,A1,Referral,Data Science
+848,Contacted,2025-04-02,A1,Referral,Data Science
+849,New Lead,2025-04-01,A1,Referral,B.Tech
+849,Contacted,2025-04-02,A1,Referral,B.Tech
+849,Demo Given,2025-04-03,A1,Referral,B.Tech
+849,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+849,Registered,2025-04-05,A1,Referral,B.Tech
+849,Dropped / Inactive,2025-04-06,A1,Referral,B.Tech
+850,New Lead,2025-04-01,A2,Campaign,B.Tech
+850,Contacted,2025-04-02,A2,Campaign,B.Tech
+850,Demo Given,2025-04-03,A2,Campaign,B.Tech
+850,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+851,New Lead,2025-04-01,A3,Referral,B.Tech
+851,Contacted,2025-04-02,A3,Referral,B.Tech
+851,Demo Given,2025-04-03,A3,Referral,B.Tech
+851,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+852,New Lead,2025-04-01,A1,Website,MBA
+852,Contacted,2025-04-02,A1,Website,MBA
+852,Demo Given,2025-04-03,A1,Website,MBA
+852,Follow-up in Progress,2025-04-04,A1,Website,MBA
+852,Registered,2025-04-05,A1,Website,MBA
+852,Dropped / Inactive,2025-04-06,A1,Website,MBA
+853,New Lead,2025-04-01,A2,Campaign,Data Science
+853,Contacted,2025-04-02,A2,Campaign,Data Science
+853,Demo Given,2025-04-03,A2,Campaign,Data Science
+853,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+853,Registered,2025-04-05,A2,Campaign,Data Science
+854,New Lead,2025-04-01,A1,Website,MBA
+854,Contacted,2025-04-02,A1,Website,MBA
+854,Demo Given,2025-04-03,A1,Website,MBA
+854,Follow-up in Progress,2025-04-04,A1,Website,MBA
+854,Registered,2025-04-05,A1,Website,MBA
+854,Dropped / Inactive,2025-04-06,A1,Website,MBA
+855,New Lead,2025-04-01,A2,Referral,B.Tech
+855,Contacted,2025-04-02,A2,Referral,B.Tech
+855,Demo Given,2025-04-03,A2,Referral,B.Tech
+855,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+856,New Lead,2025-04-01,A1,Campaign,B.Tech
+856,Contacted,2025-04-02,A1,Campaign,B.Tech
+856,Demo Given,2025-04-03,A1,Campaign,B.Tech
+856,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+857,New Lead,2025-04-01,A3,Campaign,B.Tech
+857,Contacted,2025-04-02,A3,Campaign,B.Tech
+857,Demo Given,2025-04-03,A3,Campaign,B.Tech
+858,New Lead,2025-04-01,A2,Referral,Data Science
+858,Contacted,2025-04-02,A2,Referral,Data Science
+858,Demo Given,2025-04-03,A2,Referral,Data Science
+858,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+858,Registered,2025-04-05,A2,Referral,Data Science
+858,Dropped / Inactive,2025-04-06,A2,Referral,Data Science
+859,New Lead,2025-04-01,A2,Campaign,Data Science
+859,Contacted,2025-04-02,A2,Campaign,Data Science
+859,Demo Given,2025-04-03,A2,Campaign,Data Science
+860,New Lead,2025-04-01,A1,Website,MBA
+860,Contacted,2025-04-02,A1,Website,MBA
+860,Demo Given,2025-04-03,A1,Website,MBA
+860,Follow-up in Progress,2025-04-04,A1,Website,MBA
+860,Registered,2025-04-05,A1,Website,MBA
+861,New Lead,2025-04-01,A1,Referral,B.Tech
+861,Contacted,2025-04-02,A1,Referral,B.Tech
+861,Demo Given,2025-04-03,A1,Referral,B.Tech
+861,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+861,Registered,2025-04-05,A1,Referral,B.Tech
+862,New Lead,2025-04-01,A2,Website,Data Science
+862,Contacted,2025-04-02,A2,Website,Data Science
+862,Demo Given,2025-04-03,A2,Website,Data Science
+862,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+862,Registered,2025-04-05,A2,Website,Data Science
+862,Dropped / Inactive,2025-04-06,A2,Website,Data Science
+863,New Lead,2025-04-01,A1,Referral,B.Tech
+863,Contacted,2025-04-02,A1,Referral,B.Tech
+863,Demo Given,2025-04-03,A1,Referral,B.Tech
+863,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+863,Registered,2025-04-05,A1,Referral,B.Tech
+864,New Lead,2025-04-01,A1,Website,MBA
+864,Contacted,2025-04-02,A1,Website,MBA
+864,Demo Given,2025-04-03,A1,Website,MBA
+864,Follow-up in Progress,2025-04-04,A1,Website,MBA
+864,Registered,2025-04-05,A1,Website,MBA
+865,New Lead,2025-04-01,A1,Website,Data Science
+865,Contacted,2025-04-02,A1,Website,Data Science
+866,New Lead,2025-04-01,A1,Campaign,Data Science
+866,Contacted,2025-04-02,A1,Campaign,Data Science
+866,Demo Given,2025-04-03,A1,Campaign,Data Science
+866,Follow-up in Progress,2025-04-04,A1,Campaign,Data Science
+866,Registered,2025-04-05,A1,Campaign,Data Science
+866,Dropped / Inactive,2025-04-06,A1,Campaign,Data Science
+867,New Lead,2025-04-01,A3,Referral,B.Tech
+867,Contacted,2025-04-02,A3,Referral,B.Tech
+867,Demo Given,2025-04-03,A3,Referral,B.Tech
+867,Follow-up in Progress,2025-04-04,A3,Referral,B.Tech
+868,New Lead,2025-04-01,A2,Campaign,Data Science
+868,Contacted,2025-04-02,A2,Campaign,Data Science
+868,Demo Given,2025-04-03,A2,Campaign,Data Science
+868,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+869,New Lead,2025-04-01,A2,Website,Data Science
+869,Contacted,2025-04-02,A2,Website,Data Science
+869,Demo Given,2025-04-03,A2,Website,Data Science
+869,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+869,Registered,2025-04-05,A2,Website,Data Science
+870,New Lead,2025-04-01,A1,Referral,B.Tech
+870,Contacted,2025-04-02,A1,Referral,B.Tech
+870,Demo Given,2025-04-03,A1,Referral,B.Tech
+870,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+870,Registered,2025-04-05,A1,Referral,B.Tech
+871,New Lead,2025-04-01,A3,Website,B.Tech
+871,Contacted,2025-04-02,A3,Website,B.Tech
+871,Demo Given,2025-04-03,A3,Website,B.Tech
+871,Follow-up in Progress,2025-04-04,A3,Website,B.Tech
+871,Registered,2025-04-05,A3,Website,B.Tech
+871,Dropped / Inactive,2025-04-06,A3,Website,B.Tech
+872,New Lead,2025-04-01,A3,Website,B.Tech
+872,Contacted,2025-04-02,A3,Website,B.Tech
+872,Demo Given,2025-04-03,A3,Website,B.Tech
+873,New Lead,2025-04-01,A3,Referral,Data Science
+873,Contacted,2025-04-02,A3,Referral,Data Science
+874,New Lead,2025-04-01,A3,Campaign,MBA
+874,Contacted,2025-04-02,A3,Campaign,MBA
+875,New Lead,2025-04-01,A2,Referral,Data Science
+875,Contacted,2025-04-02,A2,Referral,Data Science
+875,Demo Given,2025-04-03,A2,Referral,Data Science
+875,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+875,Registered,2025-04-05,A2,Referral,Data Science
+875,Dropped / Inactive,2025-04-06,A2,Referral,Data Science
+876,New Lead,2025-04-01,A1,Website,Data Science
+876,Contacted,2025-04-02,A1,Website,Data Science
+876,Demo Given,2025-04-03,A1,Website,Data Science
+876,Follow-up in Progress,2025-04-04,A1,Website,Data Science
+876,Registered,2025-04-05,A1,Website,Data Science
+877,New Lead,2025-04-01,A2,Referral,B.Tech
+877,Contacted,2025-04-02,A2,Referral,B.Tech
+877,Demo Given,2025-04-03,A2,Referral,B.Tech
+877,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+878,New Lead,2025-04-01,A1,Campaign,B.Tech
+878,Contacted,2025-04-02,A1,Campaign,B.Tech
+878,Demo Given,2025-04-03,A1,Campaign,B.Tech
+878,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
+878,Registered,2025-04-05,A1,Campaign,B.Tech
+878,Dropped / Inactive,2025-04-06,A1,Campaign,B.Tech
+879,New Lead,2025-04-01,A3,Campaign,Data Science
+879,Contacted,2025-04-02,A3,Campaign,Data Science
+879,Demo Given,2025-04-03,A3,Campaign,Data Science
+879,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+880,New Lead,2025-04-01,A3,Website,Data Science
+880,Contacted,2025-04-02,A3,Website,Data Science
+880,Demo Given,2025-04-03,A3,Website,Data Science
+880,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+880,Registered,2025-04-05,A3,Website,Data Science
+881,New Lead,2025-04-01,A1,Campaign,MBA
+881,Contacted,2025-04-02,A1,Campaign,MBA
+881,Demo Given,2025-04-03,A1,Campaign,MBA
+881,Follow-up in Progress,2025-04-04,A1,Campaign,MBA
+881,Registered,2025-04-05,A1,Campaign,MBA
+882,New Lead,2025-04-01,A2,Website,B.Tech
+882,Contacted,2025-04-02,A2,Website,B.Tech
+882,Demo Given,2025-04-03,A2,Website,B.Tech
+882,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+883,New Lead,2025-04-01,A2,Campaign,B.Tech
+883,Contacted,2025-04-02,A2,Campaign,B.Tech
+883,Demo Given,2025-04-03,A2,Campaign,B.Tech
+884,New Lead,2025-04-01,A2,Referral,Data Science
+884,Contacted,2025-04-02,A2,Referral,Data Science
+884,Demo Given,2025-04-03,A2,Referral,Data Science
+884,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+885,New Lead,2025-04-01,A3,Website,B.Tech
+885,Contacted,2025-04-02,A3,Website,B.Tech
+885,Demo Given,2025-04-03,A3,Website,B.Tech
+886,New Lead,2025-04-01,A1,Referral,Data Science
+886,Contacted,2025-04-02,A1,Referral,Data Science
+886,Demo Given,2025-04-03,A1,Referral,Data Science
+886,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+887,New Lead,2025-04-01,A2,Referral,B.Tech
+887,Contacted,2025-04-02,A2,Referral,B.Tech
+887,Demo Given,2025-04-03,A2,Referral,B.Tech
+887,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+887,Registered,2025-04-05,A2,Referral,B.Tech
+888,New Lead,2025-04-01,A3,Website,B.Tech
+888,Contacted,2025-04-02,A3,Website,B.Tech
+889,New Lead,2025-04-01,A1,Website,Data Science
+889,Contacted,2025-04-02,A1,Website,Data Science
+890,New Lead,2025-04-01,A1,Referral,B.Tech
+890,Contacted,2025-04-02,A1,Referral,B.Tech
+890,Demo Given,2025-04-03,A1,Referral,B.Tech
+890,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+891,New Lead,2025-04-01,A3,Website,Data Science
+891,Contacted,2025-04-02,A3,Website,Data Science
+891,Demo Given,2025-04-03,A3,Website,Data Science
+891,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+891,Registered,2025-04-05,A3,Website,Data Science
+891,Dropped / Inactive,2025-04-06,A3,Website,Data Science
+892,New Lead,2025-04-01,A3,Referral,MBA
+892,Contacted,2025-04-02,A3,Referral,MBA
+892,Demo Given,2025-04-03,A3,Referral,MBA
+892,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+892,Registered,2025-04-05,A3,Referral,MBA
+892,Dropped / Inactive,2025-04-06,A3,Referral,MBA
+893,New Lead,2025-04-01,A2,Referral,B.Tech
+893,Contacted,2025-04-02,A2,Referral,B.Tech
+893,Demo Given,2025-04-03,A2,Referral,B.Tech
+894,New Lead,2025-04-01,A2,Campaign,Data Science
+894,Contacted,2025-04-02,A2,Campaign,Data Science
+894,Demo Given,2025-04-03,A2,Campaign,Data Science
+894,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+894,Registered,2025-04-05,A2,Campaign,Data Science
+895,New Lead,2025-04-01,A2,Website,B.Tech
+895,Contacted,2025-04-02,A2,Website,B.Tech
+896,New Lead,2025-04-01,A2,Referral,B.Tech
+896,Contacted,2025-04-02,A2,Referral,B.Tech
+896,Demo Given,2025-04-03,A2,Referral,B.Tech
+896,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+897,New Lead,2025-04-01,A2,Campaign,Data Science
+897,Contacted,2025-04-02,A2,Campaign,Data Science
+897,Demo Given,2025-04-03,A2,Campaign,Data Science
+897,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+898,New Lead,2025-04-01,A1,Website,Data Science
+898,Contacted,2025-04-02,A1,Website,Data Science
+899,New Lead,2025-04-01,A3,Website,Data Science
+899,Contacted,2025-04-02,A3,Website,Data Science
+899,Demo Given,2025-04-03,A3,Website,Data Science
+899,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+899,Registered,2025-04-05,A3,Website,Data Science
+899,Dropped / Inactive,2025-04-06,A3,Website,Data Science
+900,New Lead,2025-04-01,A1,Referral,Data Science
+900,Contacted,2025-04-02,A1,Referral,Data Science
+900,Demo Given,2025-04-03,A1,Referral,Data Science
+900,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+900,Registered,2025-04-05,A1,Referral,Data Science
+901,New Lead,2025-04-01,A3,Campaign,B.Tech
+901,Contacted,2025-04-02,A3,Campaign,B.Tech
+902,New Lead,2025-04-01,A2,Campaign,MBA
+902,Contacted,2025-04-02,A2,Campaign,MBA
+902,Demo Given,2025-04-03,A2,Campaign,MBA
+902,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+902,Registered,2025-04-05,A2,Campaign,MBA
+903,New Lead,2025-04-01,A2,Referral,MBA
+903,Contacted,2025-04-02,A2,Referral,MBA
+903,Demo Given,2025-04-03,A2,Referral,MBA
+903,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+904,New Lead,2025-04-01,A3,Referral,MBA
+904,Contacted,2025-04-02,A3,Referral,MBA
+904,Demo Given,2025-04-03,A3,Referral,MBA
+904,Follow-up in Progress,2025-04-04,A3,Referral,MBA
+904,Registered,2025-04-05,A3,Referral,MBA
+905,New Lead,2025-04-01,A1,Website,MBA
+905,Contacted,2025-04-02,A1,Website,MBA
+905,Demo Given,2025-04-03,A1,Website,MBA
+905,Follow-up in Progress,2025-04-04,A1,Website,MBA
+905,Registered,2025-04-05,A1,Website,MBA
+905,Dropped / Inactive,2025-04-06,A1,Website,MBA
+906,New Lead,2025-04-01,A1,Referral,B.Tech
+906,Contacted,2025-04-02,A1,Referral,B.Tech
+906,Demo Given,2025-04-03,A1,Referral,B.Tech
+907,New Lead,2025-04-01,A1,Referral,MBA
+907,Contacted,2025-04-02,A1,Referral,MBA
+907,Demo Given,2025-04-03,A1,Referral,MBA
+908,New Lead,2025-04-01,A2,Campaign,MBA
+908,Contacted,2025-04-02,A2,Campaign,MBA
+908,Demo Given,2025-04-03,A2,Campaign,MBA
+909,New Lead,2025-04-01,A1,Referral,B.Tech
+909,Contacted,2025-04-02,A1,Referral,B.Tech
+909,Demo Given,2025-04-03,A1,Referral,B.Tech
+909,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+909,Registered,2025-04-05,A1,Referral,B.Tech
+910,New Lead,2025-04-01,A2,Referral,B.Tech
+910,Contacted,2025-04-02,A2,Referral,B.Tech
+910,Demo Given,2025-04-03,A2,Referral,B.Tech
+910,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+911,New Lead,2025-04-01,A2,Website,B.Tech
+911,Contacted,2025-04-02,A2,Website,B.Tech
+911,Demo Given,2025-04-03,A2,Website,B.Tech
+911,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+911,Registered,2025-04-05,A2,Website,B.Tech
+911,Dropped / Inactive,2025-04-06,A2,Website,B.Tech
+912,New Lead,2025-04-01,A3,Website,Data Science
+912,Contacted,2025-04-02,A3,Website,Data Science
+913,New Lead,2025-04-01,A2,Website,Data Science
+913,Contacted,2025-04-02,A2,Website,Data Science
+913,Demo Given,2025-04-03,A2,Website,Data Science
+913,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+913,Registered,2025-04-05,A2,Website,Data Science
+913,Dropped / Inactive,2025-04-06,A2,Website,Data Science
+914,New Lead,2025-04-01,A3,Website,B.Tech
+914,Contacted,2025-04-02,A3,Website,B.Tech
+915,New Lead,2025-04-01,A1,Campaign,B.Tech
+915,Contacted,2025-04-02,A1,Campaign,B.Tech
+916,New Lead,2025-04-01,A3,Referral,MBA
+916,Contacted,2025-04-02,A3,Referral,MBA
+916,Demo Given,2025-04-03,A3,Referral,MBA
+917,New Lead,2025-04-01,A2,Campaign,MBA
+917,Contacted,2025-04-02,A2,Campaign,MBA
+917,Demo Given,2025-04-03,A2,Campaign,MBA
+918,New Lead,2025-04-01,A2,Website,B.Tech
+918,Contacted,2025-04-02,A2,Website,B.Tech
+918,Demo Given,2025-04-03,A2,Website,B.Tech
+918,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+918,Registered,2025-04-05,A2,Website,B.Tech
+919,New Lead,2025-04-01,A1,Referral,B.Tech
+919,Contacted,2025-04-02,A1,Referral,B.Tech
+919,Demo Given,2025-04-03,A1,Referral,B.Tech
+920,New Lead,2025-04-01,A3,Referral,MBA
+920,Contacted,2025-04-02,A3,Referral,MBA
+920,Demo Given,2025-04-03,A3,Referral,MBA
+921,New Lead,2025-04-01,A2,Campaign,B.Tech
+921,Contacted,2025-04-02,A2,Campaign,B.Tech
+921,Demo Given,2025-04-03,A2,Campaign,B.Tech
+921,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+922,New Lead,2025-04-01,A1,Website,B.Tech
+922,Contacted,2025-04-02,A1,Website,B.Tech
+923,New Lead,2025-04-01,A3,Website,MBA
+923,Contacted,2025-04-02,A3,Website,MBA
+923,Demo Given,2025-04-03,A3,Website,MBA
+923,Follow-up in Progress,2025-04-04,A3,Website,MBA
+923,Registered,2025-04-05,A3,Website,MBA
+923,Dropped / Inactive,2025-04-06,A3,Website,MBA
+924,New Lead,2025-04-01,A2,Campaign,MBA
+924,Contacted,2025-04-02,A2,Campaign,MBA
+925,New Lead,2025-04-01,A3,Campaign,Data Science
+925,Contacted,2025-04-02,A3,Campaign,Data Science
+925,Demo Given,2025-04-03,A3,Campaign,Data Science
+925,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+925,Registered,2025-04-05,A3,Campaign,Data Science
+925,Dropped / Inactive,2025-04-06,A3,Campaign,Data Science
+926,New Lead,2025-04-01,A1,Website,B.Tech
+926,Contacted,2025-04-02,A1,Website,B.Tech
+927,New Lead,2025-04-01,A1,Referral,B.Tech
+927,Contacted,2025-04-02,A1,Referral,B.Tech
+928,New Lead,2025-04-01,A3,Campaign,MBA
+928,Contacted,2025-04-02,A3,Campaign,MBA
+928,Demo Given,2025-04-03,A3,Campaign,MBA
+928,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+929,New Lead,2025-04-01,A1,Referral,Data Science
+929,Contacted,2025-04-02,A1,Referral,Data Science
+929,Demo Given,2025-04-03,A1,Referral,Data Science
+929,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+929,Registered,2025-04-05,A1,Referral,Data Science
+930,New Lead,2025-04-01,A3,Website,Data Science
+930,Contacted,2025-04-02,A3,Website,Data Science
+930,Demo Given,2025-04-03,A3,Website,Data Science
+931,New Lead,2025-04-01,A3,Campaign,Data Science
+931,Contacted,2025-04-02,A3,Campaign,Data Science
+932,New Lead,2025-04-01,A3,Website,B.Tech
+932,Contacted,2025-04-02,A3,Website,B.Tech
+932,Demo Given,2025-04-03,A3,Website,B.Tech
+933,New Lead,2025-04-01,A3,Referral,Data Science
+933,Contacted,2025-04-02,A3,Referral,Data Science
+933,Demo Given,2025-04-03,A3,Referral,Data Science
+933,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+933,Registered,2025-04-05,A3,Referral,Data Science
+933,Dropped / Inactive,2025-04-06,A3,Referral,Data Science
+934,New Lead,2025-04-01,A3,Website,Data Science
+934,Contacted,2025-04-02,A3,Website,Data Science
+935,New Lead,2025-04-01,A3,Website,B.Tech
+935,Contacted,2025-04-02,A3,Website,B.Tech
+936,New Lead,2025-04-01,A2,Website,Data Science
+936,Contacted,2025-04-02,A2,Website,Data Science
+936,Demo Given,2025-04-03,A2,Website,Data Science
+936,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+936,Registered,2025-04-05,A2,Website,Data Science
+937,New Lead,2025-04-01,A3,Referral,Data Science
+937,Contacted,2025-04-02,A3,Referral,Data Science
+937,Demo Given,2025-04-03,A3,Referral,Data Science
+938,New Lead,2025-04-01,A1,Website,MBA
+938,Contacted,2025-04-02,A1,Website,MBA
+938,Demo Given,2025-04-03,A1,Website,MBA
+938,Follow-up in Progress,2025-04-04,A1,Website,MBA
+938,Registered,2025-04-05,A1,Website,MBA
+939,New Lead,2025-04-01,A1,Referral,B.Tech
+939,Contacted,2025-04-02,A1,Referral,B.Tech
+939,Demo Given,2025-04-03,A1,Referral,B.Tech
+940,New Lead,2025-04-01,A2,Referral,Data Science
+940,Contacted,2025-04-02,A2,Referral,Data Science
+940,Demo Given,2025-04-03,A2,Referral,Data Science
+940,Follow-up in Progress,2025-04-04,A2,Referral,Data Science
+940,Registered,2025-04-05,A2,Referral,Data Science
+941,New Lead,2025-04-01,A3,Website,Data Science
+941,Contacted,2025-04-02,A3,Website,Data Science
+941,Demo Given,2025-04-03,A3,Website,Data Science
+942,New Lead,2025-04-01,A1,Website,B.Tech
+942,Contacted,2025-04-02,A1,Website,B.Tech
+942,Demo Given,2025-04-03,A1,Website,B.Tech
+943,New Lead,2025-04-01,A1,Website,MBA
+943,Contacted,2025-04-02,A1,Website,MBA
+943,Demo Given,2025-04-03,A1,Website,MBA
+943,Follow-up in Progress,2025-04-04,A1,Website,MBA
+944,New Lead,2025-04-01,A2,Campaign,Data Science
+944,Contacted,2025-04-02,A2,Campaign,Data Science
+944,Demo Given,2025-04-03,A2,Campaign,Data Science
+944,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+944,Registered,2025-04-05,A2,Campaign,Data Science
+945,New Lead,2025-04-01,A1,Referral,Data Science
+945,Contacted,2025-04-02,A1,Referral,Data Science
+945,Demo Given,2025-04-03,A1,Referral,Data Science
+945,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+945,Registered,2025-04-05,A1,Referral,Data Science
+945,Dropped / Inactive,2025-04-06,A1,Referral,Data Science
+946,New Lead,2025-04-01,A2,Website,B.Tech
+946,Contacted,2025-04-02,A2,Website,B.Tech
+946,Demo Given,2025-04-03,A2,Website,B.Tech
+946,Follow-up in Progress,2025-04-04,A2,Website,B.Tech
+946,Registered,2025-04-05,A2,Website,B.Tech
+947,New Lead,2025-04-01,A2,Referral,MBA
+947,Contacted,2025-04-02,A2,Referral,MBA
+947,Demo Given,2025-04-03,A2,Referral,MBA
+947,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+947,Registered,2025-04-05,A2,Referral,MBA
+948,New Lead,2025-04-01,A1,Campaign,MBA
+948,Contacted,2025-04-02,A1,Campaign,MBA
+949,New Lead,2025-04-01,A1,Referral,B.Tech
+949,Contacted,2025-04-02,A1,Referral,B.Tech
+949,Demo Given,2025-04-03,A1,Referral,B.Tech
+949,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+949,Registered,2025-04-05,A1,Referral,B.Tech
+949,Dropped / Inactive,2025-04-06,A1,Referral,B.Tech
+950,New Lead,2025-04-01,A1,Website,MBA
+950,Contacted,2025-04-02,A1,Website,MBA
+950,Demo Given,2025-04-03,A1,Website,MBA
+951,New Lead,2025-04-01,A1,Referral,Data Science
+951,Contacted,2025-04-02,A1,Referral,Data Science
+951,Demo Given,2025-04-03,A1,Referral,Data Science
+952,New Lead,2025-04-01,A2,Website,Data Science
+952,Contacted,2025-04-02,A2,Website,Data Science
+952,Demo Given,2025-04-03,A2,Website,Data Science
+953,New Lead,2025-04-01,A2,Website,MBA
+953,Contacted,2025-04-02,A2,Website,MBA
+953,Demo Given,2025-04-03,A2,Website,MBA
+954,New Lead,2025-04-01,A3,Website,B.Tech
+954,Contacted,2025-04-02,A3,Website,B.Tech
+955,New Lead,2025-04-01,A2,Website,B.Tech
+955,Contacted,2025-04-02,A2,Website,B.Tech
+956,New Lead,2025-04-01,A2,Campaign,MBA
+956,Contacted,2025-04-02,A2,Campaign,MBA
+957,New Lead,2025-04-01,A3,Referral,Data Science
+957,Contacted,2025-04-02,A3,Referral,Data Science
+957,Demo Given,2025-04-03,A3,Referral,Data Science
+957,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+957,Registered,2025-04-05,A3,Referral,Data Science
+958,New Lead,2025-04-01,A2,Referral,MBA
+958,Contacted,2025-04-02,A2,Referral,MBA
+958,Demo Given,2025-04-03,A2,Referral,MBA
+958,Follow-up in Progress,2025-04-04,A2,Referral,MBA
+958,Registered,2025-04-05,A2,Referral,MBA
+958,Dropped / Inactive,2025-04-06,A2,Referral,MBA
+959,New Lead,2025-04-01,A2,Referral,B.Tech
+959,Contacted,2025-04-02,A2,Referral,B.Tech
+960,New Lead,2025-04-01,A2,Website,MBA
+960,Contacted,2025-04-02,A2,Website,MBA
+960,Demo Given,2025-04-03,A2,Website,MBA
+960,Follow-up in Progress,2025-04-04,A2,Website,MBA
+960,Registered,2025-04-05,A2,Website,MBA
+960,Dropped / Inactive,2025-04-06,A2,Website,MBA
+961,New Lead,2025-04-01,A1,Website,B.Tech
+961,Contacted,2025-04-02,A1,Website,B.Tech
+961,Demo Given,2025-04-03,A1,Website,B.Tech
+962,New Lead,2025-04-01,A3,Website,MBA
+962,Contacted,2025-04-02,A3,Website,MBA
+962,Demo Given,2025-04-03,A3,Website,MBA
+962,Follow-up in Progress,2025-04-04,A3,Website,MBA
+962,Registered,2025-04-05,A3,Website,MBA
+963,New Lead,2025-04-01,A3,Website,Data Science
+963,Contacted,2025-04-02,A3,Website,Data Science
+963,Demo Given,2025-04-03,A3,Website,Data Science
+963,Follow-up in Progress,2025-04-04,A3,Website,Data Science
+963,Registered,2025-04-05,A3,Website,Data Science
+964,New Lead,2025-04-01,A3,Referral,Data Science
+964,Contacted,2025-04-02,A3,Referral,Data Science
+964,Demo Given,2025-04-03,A3,Referral,Data Science
+964,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+965,New Lead,2025-04-01,A1,Referral,Data Science
+965,Contacted,2025-04-02,A1,Referral,Data Science
+965,Demo Given,2025-04-03,A1,Referral,Data Science
+965,Follow-up in Progress,2025-04-04,A1,Referral,Data Science
+965,Registered,2025-04-05,A1,Referral,Data Science
+965,Dropped / Inactive,2025-04-06,A1,Referral,Data Science
+966,New Lead,2025-04-01,A2,Referral,B.Tech
+966,Contacted,2025-04-02,A2,Referral,B.Tech
+966,Demo Given,2025-04-03,A2,Referral,B.Tech
+966,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+966,Registered,2025-04-05,A2,Referral,B.Tech
+966,Dropped / Inactive,2025-04-06,A2,Referral,B.Tech
+967,New Lead,2025-04-01,A1,Website,MBA
+967,Contacted,2025-04-02,A1,Website,MBA
+967,Demo Given,2025-04-03,A1,Website,MBA
+968,New Lead,2025-04-01,A1,Referral,B.Tech
+968,Contacted,2025-04-02,A1,Referral,B.Tech
+968,Demo Given,2025-04-03,A1,Referral,B.Tech
+968,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+968,Registered,2025-04-05,A1,Referral,B.Tech
+969,New Lead,2025-04-01,A2,Campaign,Data Science
+969,Contacted,2025-04-02,A2,Campaign,Data Science
+969,Demo Given,2025-04-03,A2,Campaign,Data Science
+969,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+969,Registered,2025-04-05,A2,Campaign,Data Science
+969,Dropped / Inactive,2025-04-06,A2,Campaign,Data Science
+970,New Lead,2025-04-01,A2,Referral,B.Tech
+970,Contacted,2025-04-02,A2,Referral,B.Tech
+970,Demo Given,2025-04-03,A2,Referral,B.Tech
+970,Follow-up in Progress,2025-04-04,A2,Referral,B.Tech
+970,Registered,2025-04-05,A2,Referral,B.Tech
+971,New Lead,2025-04-01,A2,Website,Data Science
+971,Contacted,2025-04-02,A2,Website,Data Science
+971,Demo Given,2025-04-03,A2,Website,Data Science
+971,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+972,New Lead,2025-04-01,A2,Referral,MBA
+972,Contacted,2025-04-02,A2,Referral,MBA
+973,New Lead,2025-04-01,A2,Website,MBA
+973,Contacted,2025-04-02,A2,Website,MBA
+973,Demo Given,2025-04-03,A2,Website,MBA
+973,Follow-up in Progress,2025-04-04,A2,Website,MBA
+974,New Lead,2025-04-01,A1,Referral,B.Tech
+974,Contacted,2025-04-02,A1,Referral,B.Tech
+974,Demo Given,2025-04-03,A1,Referral,B.Tech
+974,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+974,Registered,2025-04-05,A1,Referral,B.Tech
+974,Dropped / Inactive,2025-04-06,A1,Referral,B.Tech
+975,New Lead,2025-04-01,A1,Referral,B.Tech
+975,Contacted,2025-04-02,A1,Referral,B.Tech
+975,Demo Given,2025-04-03,A1,Referral,B.Tech
+975,Follow-up in Progress,2025-04-04,A1,Referral,B.Tech
+975,Registered,2025-04-05,A1,Referral,B.Tech
+976,New Lead,2025-04-01,A3,Referral,Data Science
+976,Contacted,2025-04-02,A3,Referral,Data Science
+977,New Lead,2025-04-01,A3,Campaign,MBA
+977,Contacted,2025-04-02,A3,Campaign,MBA
+977,Demo Given,2025-04-03,A3,Campaign,MBA
+977,Follow-up in Progress,2025-04-04,A3,Campaign,MBA
+977,Registered,2025-04-05,A3,Campaign,MBA
+978,New Lead,2025-04-01,A1,Referral,B.Tech
+978,Contacted,2025-04-02,A1,Referral,B.Tech
+979,New Lead,2025-04-01,A2,Campaign,MBA
+979,Contacted,2025-04-02,A2,Campaign,MBA
+980,New Lead,2025-04-01,A2,Website,Data Science
+980,Contacted,2025-04-02,A2,Website,Data Science
+980,Demo Given,2025-04-03,A2,Website,Data Science
+980,Follow-up in Progress,2025-04-04,A2,Website,Data Science
+981,New Lead,2025-04-01,A2,Website,MBA
+981,Contacted,2025-04-02,A2,Website,MBA
+981,Demo Given,2025-04-03,A2,Website,MBA
+981,Follow-up in Progress,2025-04-04,A2,Website,MBA
+982,New Lead,2025-04-01,A2,Referral,Data Science
+982,Contacted,2025-04-02,A2,Referral,Data Science
+982,Demo Given,2025-04-03,A2,Referral,Data Science
+983,New Lead,2025-04-01,A1,Campaign,Data Science
+983,Contacted,2025-04-02,A1,Campaign,Data Science
+983,Demo Given,2025-04-03,A1,Campaign,Data Science
+984,New Lead,2025-04-01,A2,Campaign,MBA
+984,Contacted,2025-04-02,A2,Campaign,MBA
+984,Demo Given,2025-04-03,A2,Campaign,MBA
+984,Follow-up in Progress,2025-04-04,A2,Campaign,MBA
+984,Registered,2025-04-05,A2,Campaign,MBA
+984,Dropped / Inactive,2025-04-06,A2,Campaign,MBA
+985,New Lead,2025-04-01,A3,Campaign,B.Tech
+985,Contacted,2025-04-02,A3,Campaign,B.Tech
+985,Demo Given,2025-04-03,A3,Campaign,B.Tech
+985,Follow-up in Progress,2025-04-04,A3,Campaign,B.Tech
+985,Registered,2025-04-05,A3,Campaign,B.Tech
+985,Dropped / Inactive,2025-04-06,A3,Campaign,B.Tech
+986,New Lead,2025-04-01,A1,Referral,Data Science
+986,Contacted,2025-04-02,A1,Referral,Data Science
+987,New Lead,2025-04-01,A3,Website,MBA
+987,Contacted,2025-04-02,A3,Website,MBA
+987,Demo Given,2025-04-03,A3,Website,MBA
+987,Follow-up in Progress,2025-04-04,A3,Website,MBA
+988,New Lead,2025-04-01,A3,Campaign,Data Science
+988,Contacted,2025-04-02,A3,Campaign,Data Science
+988,Demo Given,2025-04-03,A3,Campaign,Data Science
+988,Follow-up in Progress,2025-04-04,A3,Campaign,Data Science
+988,Registered,2025-04-05,A3,Campaign,Data Science
+989,New Lead,2025-04-01,A3,Referral,MBA
+989,Contacted,2025-04-02,A3,Referral,MBA
+990,New Lead,2025-04-01,A3,Website,Data Science
+990,Contacted,2025-04-02,A3,Website,Data Science
+990,Demo Given,2025-04-03,A3,Website,Data Science
+991,New Lead,2025-04-01,A3,Referral,B.Tech
+991,Contacted,2025-04-02,A3,Referral,B.Tech
+991,Demo Given,2025-04-03,A3,Referral,B.Tech
+992,New Lead,2025-04-01,A2,Campaign,B.Tech
+992,Contacted,2025-04-02,A2,Campaign,B.Tech
+992,Demo Given,2025-04-03,A2,Campaign,B.Tech
+992,Follow-up in Progress,2025-04-04,A2,Campaign,B.Tech
+992,Registered,2025-04-05,A2,Campaign,B.Tech
+992,Dropped / Inactive,2025-04-06,A2,Campaign,B.Tech
+993,New Lead,2025-04-01,A3,Website,MBA
+993,Contacted,2025-04-02,A3,Website,MBA
+994,New Lead,2025-04-01,A3,Referral,Data Science
+994,Contacted,2025-04-02,A3,Referral,Data Science
+994,Demo Given,2025-04-03,A3,Referral,Data Science
+995,New Lead,2025-04-01,A2,Referral,Data Science
+995,Contacted,2025-04-02,A2,Referral,Data Science
+995,Demo Given,2025-04-03,A2,Referral,Data Science
+996,New Lead,2025-04-01,A2,Referral,MBA
+996,Contacted,2025-04-02,A2,Referral,MBA
+997,New Lead,2025-04-01,A3,Referral,Data Science
+997,Contacted,2025-04-02,A3,Referral,Data Science
+997,Demo Given,2025-04-03,A3,Referral,Data Science
+997,Follow-up in Progress,2025-04-04,A3,Referral,Data Science
+998,New Lead,2025-04-01,A2,Campaign,Data Science
+998,Contacted,2025-04-02,A2,Campaign,Data Science
+998,Demo Given,2025-04-03,A2,Campaign,Data Science
+998,Follow-up in Progress,2025-04-04,A2,Campaign,Data Science
+998,Registered,2025-04-05,A2,Campaign,Data Science
+999,New Lead,2025-04-01,A1,Website,MBA
+999,Contacted,2025-04-02,A1,Website,MBA
+999,Demo Given,2025-04-03,A1,Website,MBA
+999,Follow-up in Progress,2025-04-04,A1,Website,MBA
+999,Registered,2025-04-05,A1,Website,MBA
+1000,New Lead,2025-04-01,A1,Campaign,B.Tech
+1000,Contacted,2025-04-02,A1,Campaign,B.Tech
+1000,Demo Given,2025-04-03,A1,Campaign,B.Tech
+1000,Follow-up in Progress,2025-04-04,A1,Campaign,B.Tech
